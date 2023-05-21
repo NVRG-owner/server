@@ -1,0 +1,28 @@
+[13:29:32] New map: rp_downtown_tits_v2
+[17:20:36] Client "nifty" connected.
+[17:20:37] Client "Scooter" connected.
+[17:20:37] Client "" spawned in server <BOT> (took 13966 seconds).
+[17:20:37] Client "Super Man" connected.
+[17:20:37] Client "" spawned in server <BOT> (took 13966 seconds).
+[17:20:37] Client "Princess Luna" connected.
+[17:20:37] Client "" spawned in server <BOT> (took 13966 seconds).
+[17:20:37] Client "Herp" connected.
+[17:20:37] Client "" spawned in server <BOT> (took 13966 seconds).
+[17:20:37] Client "Spyro" connected.
+[17:20:37] Client "" spawned in server <BOT> (took 13966 seconds).
+[17:26:12] Dropped "Scooter" from server<BOT>
+[17:26:12] Client "Foxxi ♥" connected.
+[17:26:12] Client "" spawned in server <BOT> (took 14301 seconds).
+[17:26:12] Dropped "Super Man" from server<BOT>
+[17:26:12] Client "T-REX" connected.
+[17:26:12] Client "" spawned in server <BOT> (took 14301 seconds).
+[17:26:12] Dropped "Princess Luna" from server<BOT>
+[17:26:12] Client "Meow :3" connected.
+[17:26:12] Client "" spawned in server <BOT> (took 14301 seconds).
+[17:26:12] Dropped "Herp" from server<BOT>
+[17:26:12] Client "Rainbow Dash" connected.
+[17:26:12] Client "" spawned in server <BOT> (took 14301 seconds).
+[17:26:12] Dropped "Spyro" from server<BOT>
+[17:26:12] Client "BASSHUNTER" connected.
+[17:26:12] Client "" spawned in server <BOT> (took 14301 seconds).
+<Logging continued in "data/ulx_logs/05-21-23.txt">

@@ -1,0 +1,44 @@
+Tue Apr 25 21:58:17 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Tue Apr 25 21:58:17 2023	Lugii (STEAM_0:1:552352244) spawned
+Tue Apr 25 21:59:37 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Tue Apr 25 21:59:37 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue Apr 25 21:59:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:01:07 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:01:46 2023	Lugii (STEAM_0:1:552352244) spawned SENT zbl_npc
+Tue Apr 25 22:01:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:02:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methbuyer
+Tue Apr 25 22:02:28 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Tue Apr 25 22:02:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:02:34 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth_baggy
+Tue Apr 25 22:02:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_combiner
+Tue Apr 25 22:02:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Tue Apr 25 22:03:05 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrms_buyer
+Tue Apr 25 22:03:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:03:19 2023	OWNER (STEAM_0:1:634690584): !bring lug
+Tue Apr 25 22:03:25 2023	OWNER (STEAM_0:1:634690584): !bring lug
+Tue Apr 25 22:03:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:03:31 2023	OWNER (STEAM_0:1:634690584): !uncloak l
+Tue Apr 25 22:03:44 2023	OWNER (STEAM_0:1:634690584): !bring lug
+Tue Apr 25 22:04:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:05:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:05:29 2023	OWNER (STEAM_0:1:634690584): !god lug
+Tue Apr 25 22:06:29 2023	OWNER (STEAM_0:1:634690584): !got own
+Tue Apr 25 22:06:33 2023	OWNER (STEAM_0:1:634690584): !god ow
+Tue Apr 25 22:08:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:08:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:08:53 2023	OWNER (STEAM_0:1:634690584): !bring l
+Tue Apr 25 22:09:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:09:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:09:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:09:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:10:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:10:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue Apr 25 22:11:08 2023	OWNER was killed by Himself with a suicide trick
+Tue Apr 25 22:11:09 2023	Lugii (STEAM_0:1:552352244): !ungod OWNER
+Tue Apr 25 22:11:09 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue Apr 25 22:12:14 2023	OWNER was killed by Lugii with a m9k_dbarrel
+Tue Apr 25 22:12:15 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue Apr 25 22:12:28 2023	OWNER was killed by Lugii with a m9k_dbarrel
+Tue Apr 25 22:12:30 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue Apr 25 22:14:06 2023	Lugii (STEAM_0:1:552352244) disconnected
+Tue Apr 25 22:14:35 2023	OWNER (STEAM_0:1:634690584) disconnected

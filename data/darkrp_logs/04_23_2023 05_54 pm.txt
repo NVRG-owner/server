@@ -1,0 +1,337 @@
+Sun Apr 23 17:54:07 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sun Apr 23 17:54:07 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:54:58 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sun Apr 23 17:54:58 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 17:55:50 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 17:55:50 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 17:56:18 2023	tronix22 (STEAM_0:1:634690584): !logs
+Sun Apr 23 17:56:21 2023	tronix22 (STEAM_0:1:634690584): !log
+Sun Apr 23 17:56:25 2023	tronix22 (STEAM_0:1:634690584): !ulx log
+Sun Apr 23 17:57:02 2023	MrMillerUK (STEAM_0:1:525475507): 
+Sun Apr 23 17:57:16 2023	Lugii (STEAM_0:1:552352244) spawned SENT bank_npc
+Sun Apr 23 17:57:26 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 17:57:34 2023	Lugii (STEAM_0:1:552352244) spawned SENT zvm_machine
+Sun Apr 23 17:57:42 2023	tronix22 (STEAM_0:1:634690584): !bring mr
+Sun Apr 23 17:57:50 2023	tronix22 (STEAM_0:1:634690584): admin land changed
+Sun Apr 23 17:57:56 2023	tronix22 (STEAM_0:1:634690584): !bring mr
+Sun Apr 23 17:57:57 2023	Lugii (STEAM_0:1:552352244): !goto MrMillerUK
+Sun Apr 23 17:57:59 2023	tronix22 (STEAM_0:1:634690584): sits
+Sun Apr 23 17:58:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:58:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:58:05 2023	tronix22 (STEAM_0:1:634690584): !return mr
+Sun Apr 23 17:58:10 2023	tronix22 (STEAM_0:1:634690584): !return mr
+Sun Apr 23 17:58:13 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 17:58:34 2023	tronix22 (STEAM_0:1:634690584): !cloak
+Sun Apr 23 17:58:37 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 17:58:52 2023	MrMillerUK was killed by tronix22 with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 17:58:53 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:58:58 2023	MrMillerUK (STEAM_0:1:525475507): !goto lug
+Sun Apr 23 17:59:10 2023	MrMillerUK (STEAM_0:1:525475507): !goto tro
+Sun Apr 23 17:59:11 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 17:59:20 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:59:32 2023	MrMillerUK (STEAM_0:1:525475507): !kill mr
+Sun Apr 23 17:59:32 2023	MrMillerUK was killed by tronix22 with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 17:59:34 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:59:35 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_weedblock
+Sun Apr 23 17:59:40 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_weedstick
+Sun Apr 23 17:59:53 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_jar
+Sun Apr 23 18:00:08 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:00:47 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:00:56 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_mentity
+Sun Apr 23 18:00:58 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_aentity
+Sun Apr 23 18:01:08 2023	Lugii (STEAM_0:1:552352244): !warn MrMillerUK Prop Fly
+Sun Apr 23 18:01:19 2023	tronix22 (STEAM_0:1:634690584): bro
+Sun Apr 23 18:01:21 2023	tronix22 (STEAM_0:1:634690584): stop
+Sun Apr 23 18:01:41 2023	MrMillerUK (STEAM_0:1:525475507): !motd
+Sun Apr 23 18:01:47 2023	MrMillerUK (STEAM_0:1:525475507): !rules
+Sun Apr 23 18:01:50 2023	tronix22 (STEAM_0:1:634690584): yo
+Sun Apr 23 18:01:53 2023	MrMillerUK (STEAM_0:1:525475507): !goto tro
+Sun Apr 23 18:02:06 2023	MrMillerUK (STEAM_0:1:525475507): !goto tro
+Sun Apr 23 18:02:12 2023	MrMillerUK was killed by tronix22 with a minigun_dent
+Sun Apr 23 18:02:14 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 18:02:18 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 18:02:29 2023	tronix22 (STEAM_0:1:634690584): !cloak
+Sun Apr 23 18:02:39 2023	tronix22 was killed by Himself with a suicide trick
+Sun Apr 23 18:02:42 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 18:02:44 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 18:02:59 2023	MrMillerUK (STEAM_0:1:525475507): !warns
+Sun Apr 23 18:03:19 2023	MrMillerUK (STEAM_0:1:525475507): !warn
+Sun Apr 23 18:03:41 2023	MrMillerUK (STEAM_0:1:525475507) disconnected
+Sun Apr 23 18:03:45 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:03:50 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:03:58 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:04:17 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sun Apr 23 18:04:17 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 18:04:42 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:04:51 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:05:00 2023	tronix22 (STEAM_0:1:634690584): why u do that
+Sun Apr 23 18:05:16 2023	MrMillerUK (STEAM_0:1:525475507): !warns
+Sun Apr 23 18:05:21 2023	tronix22 (STEAM_0:1:634690584): ok fine
+Sun Apr 23 18:05:31 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:05:39 2023	tronix22 (STEAM_0:1:634690584) spawned SENT sent_jetpack
+Sun Apr 23 18:05:42 2023	MrMillerUK (STEAM_0:1:525475507): !goto tro
+Sun Apr 23 18:05:44 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:05:56 2023	tronix22 (STEAM_0:1:634690584): !uncloak
+Sun Apr 23 18:06:20 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:06:36 2023	tronix22 (STEAM_0:1:634690584): i think
+Sun Apr 23 18:06:39 2023	tronix22 (STEAM_0:1:634690584): 100k
+Sun Apr 23 18:06:50 2023	tronix22 (STEAM_0:1:634690584): 100k
+Sun Apr 23 18:06:54 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:07:06 2023	tronix22 (STEAM_0:1:634690584): heres a jetpack
+Sun Apr 23 18:07:09 2023	tronix22 (STEAM_0:1:634690584) spawned SENT sent_jetpack
+Sun Apr 23 18:07:21 2023	tronix22 (STEAM_0:1:634690584): !bring mr
+Sun Apr 23 18:07:21 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:07:32 2023	tronix22 (STEAM_0:1:634690584): its not working
+Sun Apr 23 18:07:45 2023	Lugii was killed by Himself with a suicide trick
+Sun Apr 23 18:07:46 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 18:07:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:07:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:07:58 2023	Lugii was killed by Himself with a suicide trick
+Sun Apr 23 18:07:59 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 18:08:01 2023	tronix22 (STEAM_0:1:634690584) spawned SENT weapon_upgrade
+Sun Apr 23 18:08:09 2023	tronix22 (STEAM_0:1:634690584) spawned SENT srp_battery
+Sun Apr 23 18:08:11 2023	tronix22 (STEAM_0:1:634690584) spawned SENT srp1_printer
+Sun Apr 23 18:08:23 2023	tronix22 (STEAM_0:1:634690584): add thease to menu
+Sun Apr 23 18:08:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT sent_jetpack
+Sun Apr 23 18:08:42 2023	tronix22 (STEAM_0:1:634690584) spawned SENT srp5_printer_special
+Sun Apr 23 18:08:56 2023	tronix22 (STEAM_0:1:634690584) spawned SENT wac_seat_connector
+Sun Apr 23 18:09:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:09:24 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:09:29 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:09:36 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:09:46 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:09:54 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 18:09:59 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:10:00 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:10:03 2023	MrMillerUK (STEAM_0:1:525475507) disconnected
+Sun Apr 23 18:10:06 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:10:21 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:10:23 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:10:45 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 18:10:51 2023	Lugii (STEAM_0:1:552352244): !return tronix22
+Sun Apr 23 18:10:52 2023	tronix22 (STEAM_0:1:634690584): !return
+Sun Apr 23 18:10:59 2023	tronix22 (STEAM_0:1:634690584): h
+Sun Apr 23 18:11:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:11:15 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:11:22 2023	tronix22 (STEAM_0:1:634690584) spawned SENT bank_npc
+Sun Apr 23 18:11:43 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:11:52 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_dropoff
+Sun Apr 23 18:12:31 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_dropoff
+Sun Apr 23 18:12:46 2023	tronix22 (STEAM_0:1:634690584): !goto m
+Sun Apr 23 18:12:50 2023	tronix22 (STEAM_0:1:634690584): !goto l
+Sun Apr 23 18:12:58 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:12:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:13:19 2023	tronix22 (STEAM_0:1:634690584): im looging at prices
+Sun Apr 23 18:13:37 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:13:52 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:14:03 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:14:18 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:14:44 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:14:53 2023	tronix22 (STEAM_0:1:634690584): one sec
+Sun Apr 23 18:14:58 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_crate
+Sun Apr 23 18:15:02 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:15:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:15:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:15:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:15:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:15:17 2023	tronix22 (STEAM_0:1:634690584): nah im testing
+Sun Apr 23 18:15:21 2023	tronix22 (STEAM_0:1:634690584): plsu im owner
+Sun Apr 23 18:15:28 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:17:05 2023	Lugii (STEAM_0:1:552352244) spawned SENT zvm_machine
+Sun Apr 23 18:17:31 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:17:40 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:17:41 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:17:42 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:17:44 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:17:45 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:17:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_357
+Sun Apr 23 18:18:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_ar2
+Sun Apr 23 18:18:05 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:11 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:13 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:14 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_buckshot
+Sun Apr 23 18:18:14 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:15 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:17 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:18 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:26 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_pistol
+Sun Apr 23 18:18:30 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:32 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:33 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:34 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:35 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:42 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_smg
+Sun Apr 23 18:18:44 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:45 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:46 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:47 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 18:18:56 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_sniper_rounds
+Sun Apr 23 18:19:01 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_tent
+Sun Apr 23 18:19:05 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_winchester
+Sun Apr 23 18:19:21 2023	tronix22 (STEAM_0:1:634690584): what
+Sun Apr 23 18:19:24 2023	tronix22 (STEAM_0:1:634690584): !csay ok
+Sun Apr 23 18:19:26 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 18:19:32 2023	tronix22 (STEAM_0:1:634690584): """ what u want
+Sun Apr 23 18:19:36 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:19:48 2023	tronix22 (STEAM_0:1:634690584): good
+Sun Apr 23 18:19:52 2023	tronix22 (STEAM_0:1:634690584): good
+Sun Apr 23 18:20:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:20:07 2023	Lugii (STEAM_0:1:552352244): !return tronix22
+Sun Apr 23 18:20:16 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:20:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:20:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT zvm_machine
+Sun Apr 23 18:20:25 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:20:37 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:20:51 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:20:56 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:21:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:21:06 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:21:08 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:21:10 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:21:12 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:21:38 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:22:13 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:22:18 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:22:26 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 18:22:31 2023	tronix22 (STEAM_0:1:634690584): good
+Sun Apr 23 18:22:36 2023	tronix22 (STEAM_0:1:634690584): i wanna add some stuff 
+Sun Apr 23 18:22:45 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:22:50 2023	tronix22 (STEAM_0:1:634690584): mil
+Sun Apr 23 18:22:53 2023	tronix22 (STEAM_0:1:634690584): do mil
+Sun Apr 23 18:23:01 2023	tronix22 (STEAM_0:1:634690584): nah i wanna add at start 
+Sun Apr 23 18:23:04 2023	tronix22 (STEAM_0:1:634690584): not this
+Sun Apr 23 18:23:11 2023	tronix22 (STEAM_0:1:634690584): othertings i wanna add at start
+Sun Apr 23 18:23:18 2023	tronix22 (STEAM_0:1:634690584): yh i know
+Sun Apr 23 18:23:20 2023	tronix22 (STEAM_0:1:634690584): k
+Sun Apr 23 18:23:28 2023	tronix22 (STEAM_0:1:634690584): imma add one at spwan with drones
+Sun Apr 23 18:23:33 2023	tronix22 (STEAM_0:1:634690584): i wanna do it to
+Sun Apr 23 18:23:38 2023	tronix22 (STEAM_0:1:634690584): yh i wanna do
+Sun Apr 23 18:23:42 2023	tronix22 (STEAM_0:1:634690584): yh i know
+Sun Apr 23 18:23:45 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:23:50 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 18:23:52 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 18:23:57 2023	tronix22 (STEAM_0:1:634690584): !return
+Sun Apr 23 18:23:57 2023	Lugii (STEAM_0:1:552352244): !return tronix22
+Sun Apr 23 18:24:01 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:24:02 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 18:24:07 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:24:08 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:24:40 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:24:59 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 18:25:11 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:25:13 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:25:22 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_bomb
+Sun Apr 23 18:25:36 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_ball
+Sun Apr 23 18:25:43 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_imbagun
+Sun Apr 23 18:25:56 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:26:02 2023	tronix22 (STEAM_0:1:634690584): i mma put
+Sun Apr 23 18:26:15 2023	tronix22 (STEAM_0:1:634690584): let me look
+Sun Apr 23 18:26:31 2023	tronix22 (STEAM_0:1:634690584) spawned SENT sent_jetpack
+Sun Apr 23 18:26:58 2023	tronix22 (STEAM_0:1:634690584): k
+Sun Apr 23 18:27:04 2023	tronix22 (STEAM_0:1:634690584): noo
+Sun Apr 23 18:27:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:10 2023	tronix22 (STEAM_0:1:634690584): look i got idea
+Sun Apr 23 18:27:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:26 2023	tronix22 (STEAM_0:1:634690584): !NOCLIP
+Sun Apr 23 18:27:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:32 2023	tronix22 (STEAM_0:1:634690584): k
+Sun Apr 23 18:27:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:27:36 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:27:37 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 18:27:45 2023	tronix22 (STEAM_0:1:634690584): there
+Sun Apr 23 18:28:14 2023	Lugii (STEAM_0:1:552352244) spawned SENT enterprise_atm
+Sun Apr 23 18:28:22 2023	tronix22 (STEAM_0:1:634690584): vapes
+Sun Apr 23 18:28:38 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:28:48 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:28:57 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:29:03 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 18:29:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:29:09 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 18:29:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:29:20 2023	tronix22 (STEAM_0:1:634690584): vapes
+Sun Apr 23 18:29:29 2023	tronix22 (STEAM_0:1:634690584): yh i will
+Sun Apr 23 18:29:36 2023	tronix22 (STEAM_0:1:634690584): but it says 1x
+Sun Apr 23 18:29:49 2023	Lugii (STEAM_0:1:552352244): !god tronix22
+Sun Apr 23 18:29:52 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 18:30:37 2023	tronix22 (STEAM_0:1:634690584): how to get
+Sun Apr 23 18:30:40 2023	tronix22 (STEAM_0:1:634690584): infinite times
+Sun Apr 23 18:31:30 2023	tronix22 (STEAM_0:1:634690584): it says 1x
+Sun Apr 23 18:31:31 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 18:31:32 2023	Lugii (STEAM_0:1:552352244) spawned SENT zvm_machine
+Sun Apr 23 18:32:07 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:32:30 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:32:35 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:33:00 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:33:34 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 18:34:04 2023	tronix22 (STEAM_0:1:634690584): good
+Sun Apr 23 18:34:10 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 18:34:39 2023	tronix22 (STEAM_0:1:634690584): yh
+Sun Apr 23 18:37:17 2023	Lugii (STEAM_0:1:552352244) spawned SENT srp1_printer
+Sun Apr 23 18:37:21 2023	tronix22 (STEAM_0:1:634690584): in entities
+Sun Apr 23 18:37:43 2023	tronix22 (STEAM_0:1:634690584) spawned SENT wac_hc_hornet
+Sun Apr 23 18:37:49 2023	tronix22 (STEAM_0:1:634690584) spawned SENT wac_pl_a10
+Sun Apr 23 18:37:53 2023	tronix22 (STEAM_0:1:634690584) spawned SENT wac_pl_p40
+Sun Apr 23 18:38:02 2023	tronix22 (STEAM_0:1:634690584): umm
+Sun Apr 23 18:38:04 2023	tronix22 (STEAM_0:1:634690584): idk
+Sun Apr 23 18:38:15 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:38:16 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:38:17 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:38:19 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:38:20 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Sun Apr 23 18:38:59 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:38:59 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:39:00 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:39:00 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:39:01 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_follow_owner
+Sun Apr 23 18:39:29 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_decrease_engine_noise
+Sun Apr 23 18:39:30 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_decrease_engine_noise
+Sun Apr 23 18:39:30 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_decrease_engine_noise
+Sun Apr 23 18:39:31 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_decrease_engine_noise
+Sun Apr 23 18:39:31 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_decrease_engine_noise
+Sun Apr 23 18:39:51 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_nightvision
+Sun Apr 23 18:39:51 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_nightvision
+Sun Apr 23 18:39:52 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_nightvision
+Sun Apr 23 18:40:26 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_attack
+Sun Apr 23 18:40:26 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_upgrcase_ai_attack
+Sun Apr 23 18:40:57 2023	tronix22 (STEAM_0:1:634690584) spawned SENT fpv_drone
+Sun Apr 23 18:41:28 2023	tronix22 (STEAM_0:1:634690584): umm
+Sun Apr 23 18:41:31 2023	tronix22 (STEAM_0:1:634690584): printers
+Sun Apr 23 18:41:34 2023	tronix22 (STEAM_0:1:634690584): noo
+Sun Apr 23 18:41:40 2023	tronix22 (STEAM_0:1:634690584): make printer catagory
+Sun Apr 23 18:41:43 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_melon
+Sun Apr 23 18:42:23 2023	tronix22 was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 18:42:26 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 18:42:31 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 18:42:40 2023	tronix22 (STEAM_0:1:634690584): !bring lug
+Sun Apr 23 18:42:50 2023	tronix22 (STEAM_0:1:634690584): !unignite lug
+Sun Apr 23 18:42:52 2023	Lugii (STEAM_0:1:552352244): !exstingues Lugii
+Sun Apr 23 18:42:56 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 18:42:59 2023	tronix22 (STEAM_0:1:634690584): !menu
+Sun Apr 23 18:43:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:43:08 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:43:19 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 18:43:22 2023	tronix22 (STEAM_0:1:634690584): where u go
+Sun Apr 23 18:43:29 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_balltur
+Sun Apr 23 18:43:36 2023	tronix22 (STEAM_0:1:634690584) spawned SENT refuelstation_diesel
+Sun Apr 23 18:43:42 2023	tronix22 (STEAM_0:1:634690584) spawned SENT refuelstation_diesel
+Sun Apr 23 18:44:37 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_wheelbasic
+Sun Apr 23 18:44:46 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_groundgunner
+Sun Apr 23 18:44:49 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 18:45:29 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_groundlaser
+Sun Apr 23 18:45:57 2023	Lugii (STEAM_0:1:552352244): srp2_printer
+Sun Apr 23 18:46:22 2023	tronix22 was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 23 18:46:23 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 18:46:29 2023	tronix22 (STEAM_0:1:634690584): !menu
+Sun Apr 23 18:46:52 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 18:46:55 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_groundsniper
+Sun Apr 23 18:47:05 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_xracer
+Sun Apr 23 18:47:24 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_xracer
+Sun Apr 23 18:47:38 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_imbagun
+Sun Apr 23 18:47:59 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:48:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:48:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 18:48:02 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 18:48:06 2023	tronix22 (STEAM_0:1:634690584) disconnected

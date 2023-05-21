@@ -1,0 +1,72 @@
+Sun Apr 23 17:01:33 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 17:01:33 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 17:18:31 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sun Apr 23 17:18:31 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:19:53 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 17:19:54 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 17:20:00 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 17:20:37 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 17:21:30 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:21:39 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:22:03 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:22:16 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:22:36 2023	MrMillerUK (STEAM_0:1:525475507): /dropmoney 30000
+Sun Apr 23 17:22:37 2023	MrMillerUK (STEAM_0:1:525475507) has dropped $30,000
+Sun Apr 23 17:22:50 2023	Lugii (STEAM_0:1:552352244): /drop\
+Sun Apr 23 17:22:54 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:23:20 2023	MrMillerUK (STEAM_0:1:525475507): !fly
+Sun Apr 23 17:23:47 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 17:24:15 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 17:24:27 2023	MrMillerUK was killed by Lugii with a weapon_bm_ams
+Sun Apr 23 17:24:28 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:24:30 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:26:24 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:26:30 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:26:36 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:27:12 2023	MrMillerUK was killed by Lugii with a m9k_dbarrel
+Sun Apr 23 17:27:15 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:28:05 2023	MrMillerUK (STEAM_0:1:525475507): !noclup
+Sun Apr 23 17:28:10 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 17:28:12 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:28:31 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 17:28:40 2023	Lugii (STEAM_0:1:552352244): !goto MrMillerUK
+Sun Apr 23 17:28:50 2023	Lugii (STEAM_0:1:552352244): !hp MrMillerUK 500
+Sun Apr 23 17:29:04 2023	Lugii (STEAM_0:1:552352244): /buyallammo
+Sun Apr 23 17:29:13 2023	Lugii (STEAM_0:1:552352244): /buyallammo 999
+Sun Apr 23 17:29:40 2023	MrMillerUK was killed by Lugii with a m9k_usp
+Sun Apr 23 17:29:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:29:43 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:29:46 2023	Lugii (STEAM_0:1:552352244): !bring MrMillerUK
+Sun Apr 23 17:29:53 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:30:03 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:30:16 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:30:19 2023	MrMillerUK was killed by Lugii with a weapon_gblaster
+Sun Apr 23 17:30:21 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:30:21 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 17:30:25 2023	Lugii (STEAM_0:1:552352244): !return MrMillerUK
+Sun Apr 23 17:30:29 2023	Lugii (STEAM_0:1:552352244): !bring MrMillerUK
+Sun Apr 23 17:30:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:30:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:41 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:42 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT sammyservers_textscreen
+Sun Apr 23 17:30:43 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT sammyservers_textscreen
+Sun Apr 23 17:30:43 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:30:44 2023	MrMillerUK (STEAM_0:1:525475507) spawned SENT keypad
+Sun Apr 23 17:31:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:31:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:31:41 2023	MrMillerUK was killed by Himself with a suicide trick
+Sun Apr 23 17:31:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:31:42 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 17:31:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:31:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:31:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:32:29 2023	MrMillerUK (STEAM_0:1:525475507) disconnected
+Sun Apr 23 17:34:18 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 17:34:19 2023	Lugii (STEAM_0:1:552352244): !noclip

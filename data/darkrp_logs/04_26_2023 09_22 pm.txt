@@ -1,0 +1,54 @@
+Wed Apr 26 21:22:45 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Wed Apr 26 21:22:45 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed Apr 26 21:23:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:23:17 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Wed Apr 26 21:23:42 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Wed Apr 26 21:23:55 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Wed Apr 26 21:24:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Wed Apr 26 21:25:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methbuyer
+Wed Apr 26 21:25:31 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methbuyer
+Wed Apr 26 21:25:37 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methbuyer
+Wed Apr 26 21:25:49 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methdropoff
+Wed Apr 26 21:26:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:26:06 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methdropoff
+Wed Apr 26 21:26:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:26:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methdropoff
+Wed Apr 26 21:26:36 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methdropoff
+Wed Apr 26 21:26:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methbuyer
+Wed Apr 26 21:27:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT bank_vault
+Wed Apr 26 21:27:54 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:28:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:28:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:29:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:29:58 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:31:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:31:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:35:16 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_drillpipe_holder
+Wed Apr 26 21:36:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_hacking_usb
+Wed Apr 26 21:36:59 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:17 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:18 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:23 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:23 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:37:24 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Wed Apr 26 21:38:29 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_machinecrate
+Wed Apr 26 21:41:07 2023	Lugii was killed by Entity [1349][zrush_drillhole] with a zrush_drillhole
+Wed Apr 26 21:41:09 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed Apr 26 21:41:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:41:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:41:43 2023	Lugii (STEAM_0:1:552352244) spawned SENT sent_deployableballoons
+Wed Apr 26 21:41:49 2023	Lugii (STEAM_0:1:552352244) spawned SENT sent_deployableballoons
+Wed Apr 26 21:42:00 2023	Lugii (STEAM_0:1:552352244) spawned SENT zpizmak_customertable
+Wed Apr 26 21:42:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT zpizmak_oven
+Wed Apr 26 21:46:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:46:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:46:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:46:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:49:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:51:14 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:52:09 2023	Lugii (STEAM_0:1:552352244): 
+Wed Apr 26 21:56:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed Apr 26 21:56:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Wed Apr 26 21:57:19 2023	Lugii (STEAM_0:1:552352244) disconnected

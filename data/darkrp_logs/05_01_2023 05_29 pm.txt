@@ -1,0 +1,105 @@
+Mon May  1 17:29:31 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Mon May  1 17:29:32 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 17:32:08 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:32:10 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:32:11 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:32:24 2023	Lugii was killed by Himself with a suicide trick
+Mon May  1 17:32:44 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 17:32:46 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:32:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:33:39 2023	Lugii was killed by Himself with a suicide trick
+Mon May  1 17:34:25 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 17:34:39 2023	Lugii was killed by Himself with a suicide trick
+Mon May  1 17:35:02 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 17:35:09 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Mon May  1 17:35:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:35:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:35:23 2023	Lugii (STEAM_0:1:552352244): !ungod Lugii
+Mon May  1 17:35:32 2023	Lugii (STEAM_0:1:552352244): !sethp Lugii 1000000
+Mon May  1 17:35:39 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100000000
+Mon May  1 17:36:57 2023	Lugii (STEAM_0:1:552352244): !whip Lugii 99998990
+Mon May  1 17:37:28 2023	Lugii (STEAM_0:1:552352244): !whip Lugii 100 999999999
+Mon May  1 17:37:28 2023	Lugii was killed by Himself with a suicide trick
+Mon May  1 17:37:49 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 17:37:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:38:10 2023	Lugii (STEAM_0:1:552352244): /flipsadmin
+Mon May  1 17:38:15 2023	Lugii (STEAM_0:1:552352244): /adminatm
+Mon May  1 17:38:20 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:38:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:38:53 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:39:15 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:40:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:40:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:40:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:40:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:40:38 2023	Lugii (STEAM_0:1:552352244): !ignite Lugii
+Mon May  1 17:40:42 2023	Lugii (STEAM_0:1:552352244): !menu
+Mon May  1 17:41:17 2023	Lugii was killed by Entity [1262][entityflame] with a entityflame
+Mon May  1 17:41:43 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 17:42:27 2023	Lugii (STEAM_0:1:552352244): !ignite MrMillerUK
+Mon May  1 17:42:30 2023	Lugii (STEAM_0:1:552352244): !xban
+Mon May  1 17:42:40 2023	Lugii (STEAM_0:1:552352244): !xban
+Mon May  1 17:46:21 2023	Lugii (STEAM_0:1:552352244): !xban
+Mon May  1 17:51:00 2023	Lugii (STEAM_0:1:552352244): /flips
+Mon May  1 17:54:21 2023	Jigzyy (STEAM_0:0:525573342) has joined the game
+Mon May  1 17:54:21 2023	Jigzyy (STEAM_0:0:525573342) spawned
+Mon May  1 17:55:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:55:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:55:22 2023	Lugii (STEAM_0:1:552352244): !noclip Jigzyy
+Mon May  1 17:55:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:55:38 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 17:56:08 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 17:56:22 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 17:56:34 2023	Lugii (STEAM_0:1:552352244): !heal Jigzyy
+Mon May  1 17:56:39 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 17:56:49 2023	Lugii (STEAM_0:1:552352244): !hp Jigzyy 1
+Mon May  1 17:56:59 2023	Lugii (STEAM_0:1:552352244): !hp Jigzyy 100
+Mon May  1 17:57:10 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 17:58:28 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 17:58:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:58:43 2023	Jigzyy was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Mon May  1 17:58:45 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 17:58:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:59:15 2023	Jigzyy (STEAM_0:0:525573342) spawned
+Mon May  1 17:59:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 17:59:24 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 18:00:15 2023	Jigzyy (STEAM_0:0:525573342): ws
+Mon May  1 18:00:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:01:52 2023	Lugii (STEAM_0:1:552352244) spawned SENT sent_jetpack
+Mon May  1 18:02:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:02:10 2023	Lugii (STEAM_0:1:552352244) spawned SENT sent_jetpack
+Mon May  1 18:02:23 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 18:03:42 2023	Lugii was killed by Jigzyy with a m9k_deagle
+Mon May  1 18:04:31 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 18:04:35 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 18:04:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:04:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:04:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT sent_jetpack
+Mon May  1 18:05:13 2023	Lugii (STEAM_0:1:552352244) spawned Vehicle prop_vehicle_jeep (lam_huracan_lw)
+Mon May  1 18:05:17 2023	Lugii (STEAM_0:1:552352244) spawned Vehicle prop_vehicle_jeep (bugatti_veyron_grandsport_lw)
+Mon May  1 18:05:20 2023	Lugii (STEAM_0:1:552352244) spawned Vehicle prop_vehicle_jeep (bugatti_veyron_grandsport_lw)
+Mon May  1 18:05:47 2023	Lugii (STEAM_0:1:552352244) spawned Vehicle prop_vehicle_jeep (bugatti_veyron_grandsport_lw)
+Mon May  1 18:06:35 2023	Lugii (STEAM_0:1:552352244) spawned Vehicle prop_vehicle_jeep (Jeep)
+Mon May  1 18:07:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:07:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:07:40 2023	Lugii (STEAM_0:1:552352244) spawned Vehicle prop_vehicle_jeep (djm_audi_r8_performance)
+Mon May  1 18:07:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:08:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:08:11 2023	Jigzyy (STEAM_0:0:525573342) spawned
+Mon May  1 18:08:11 2023	Lugii (STEAM_0:1:552352244) arrested Jigzyy
+Mon May  1 18:08:14 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 18:08:17 2023	Lugii (STEAM_0:1:552352244) unarrested Jigzyy
+Mon May  1 18:08:19 2023	Lugii (STEAM_0:1:552352244): !goto Jigzyy
+Mon May  1 18:08:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:08:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:08:29 2023	Lugii (STEAM_0:1:552352244): !bring Jigzyy
+Mon May  1 18:08:38 2023	Jigzyy was killed by Lugii with a csgo_karambit_lore
+Mon May  1 18:08:39 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 18:08:41 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 18:09:11 2023	Jigzyy (STEAM_0:0:525573342) spawned
+Mon May  1 18:09:31 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 18:09:37 2023	Jigzyy was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Mon May  1 18:09:42 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 18:09:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 18:10:08 2023	Jigzyy (STEAM_0:0:525573342) spawned
+Mon May  1 18:10:10 2023	Lugii was killed by Himself with a suicide trick

@@ -1,0 +1,45 @@
+"STEAM_0:1:552352244"	
+{
+	"name"	"Lugii"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:525475507"	
+{
+	"name"	"MrMillerUK"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+		"awarn_warn"
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:568544381"	
+{
+	"name"	"mery"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:634690584"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"tronix22"
+	"group"	"superadmin"
+}

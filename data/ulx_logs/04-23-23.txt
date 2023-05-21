@@ -1,0 +1,1785 @@
+<Logging continued from "data/ulx_logs/04-22-23.txt">
+[00:07:45] Server is shutting down/changing levels.
+
+
+
+[08:42:07] New map: rp_downtown_tits_v2
+[10:24:49] Server is shutting down/changing levels.
+
+
+
+[10:27:45] New map: rp_downtown_tits_v2
+[11:07:19] Server is shutting down/changing levels.
+
+
+
+[11:08:35] New map: rp_downtown_tits_v2
+[11:23:18] Server is shutting down/changing levels.
+
+
+
+[11:24:11] New map: rp_downtown_tits_v2
+[11:24:22] Client "Lugii" connected.
+[11:25:22] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 60 seconds).
+[11:25:47] (Console) froze Lugii
+[11:26:01] (Console) unfroze Lugii
+[11:26:10] Lugii: !noclip
+[11:26:16] Lugii: !noclip
+[11:26:31] (Console) froze Lugii
+[11:26:38] Lugii unfroze Themself
+[11:26:38] Lugii: !unfreeze Lugii
+[11:26:40] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_bitcoin_screen
+[11:26:40] (Console) unfroze Lugii
+[11:27:28] Lugii: !noclip
+[11:27:34] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_bitcoin_screen
+[11:27:50] (csay from Console) hi
+[11:28:09] (csay from Console) wait how do you make props save to map?
+[11:28:47] (csay from Console) how do u save props to map
+[11:28:58] (csay from Console) ok
+[11:29:27] (csay from Console) can u set jail point
+[11:29:52] (csay from Console) can u make a jail point
+[11:30:06] (csay from Console) thanks
+[11:30:33] (csay from Console) can u also make the pd building owned by pd?
+[11:30:42] Lugii: !noclip
+[11:30:45] (csay from Console) thanks
+[11:30:49] Lugii: !setjail
+[11:30:53] Lugii: !menu
+[11:31:31] Lugii: /help
+[11:31:46] (csay from Console) idk
+[11:31:48] Lugii: !noclip
+[11:31:49] Lugii: !noclip
+[11:31:57] Lugii: /setjail Lugii
+[11:32:00] Lugii: !noclip
+[11:32:05] Lugii: !noclip
+[11:32:06] Lugii: !noclip
+[11:32:08] (csay from Console) ill google it
+[11:32:11] Lugii: !noclip
+[11:32:16] Lugii: !noclip
+[11:32:17] Lugii: !noclip
+[11:32:20] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[11:32:50] (csay from Console) do !addjailpos
+[11:33:41] (csay from Console) neilshearmanh609@gmail.com
+[11:34:00] (csay from Console) neilshearman609@gmail.com
+[11:34:22] (csay from Console) do !setjailpos to make jail point
+[11:36:06] (csay from Console) add this to the collection https :
+[11:37:10] (csay from Console) thats not jetpack
+[11:37:21] (csay from Console) its the perma save gun
+[11:41:19] Server is shutting down/changing levels.
+
+
+
+[11:42:13] New map: rp_downtown_tits_v2
+[11:44:15] Client "Lugii" connected.
+[11:44:50] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 35 seconds).
+[11:46:38] Lugii: !menu
+[11:46:45] Lugii created group new_group which inherits rights from group user
+[11:46:55] Lugii renamed group new_group to VIP
+[11:48:47] Lugii: !menu
+[11:48:49] Lugii created group new_group which inherits rights from group user
+[11:48:57] Lugii renamed group new_group to VIP+
+[11:54:00] Client "tronix22" connected.
+[11:57:36] Lugii: !noclip
+[11:57:37] Lugii: !noclip
+[11:57:50] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 230 seconds).
+[11:58:33] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[11:58:41] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[11:58:53] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[11:58:59] Lugii: !noclip
+[11:59:11] tronix22: !noclip
+[11:59:15] Lugii: !noclip
+[11:59:22] Lugii: !noclip
+[11:59:23] Lugii: !noclip
+[11:59:44] tronix22: !setjailpos
+[11:59:48] Lugii brought tronix22
+[11:59:48] Lugii: !bring tronix22
+[12:00:29] Lugii: !noclip
+[12:00:30] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_cooling3
+[12:00:34] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_rgb
+[12:00:40] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:41] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:41] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:42] tronix22: !noclip
+[12:00:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[12:00:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[12:00:45] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[12:00:48] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:49] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:49] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:50] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:50] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:51] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:51] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:52] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[12:00:59] Lugii: /setjailpos
+[12:01:04] tronix22: !setjailpos
+[12:01:12] Lugii: !noclip
+[12:01:13] Lugii: !noclip
+[12:01:15] Lugii: !noclip
+[12:01:18] tronix22: !menu
+[12:01:19] Lugii: /setjailpos
+[12:01:30] tronix22: !unarrest t
+[12:01:41] Lugii: !noclip
+[12:01:45] Lugii: !noclip
+[12:01:47] Lugii: !noclip
+[12:01:52] tronix22: !menu
+[12:01:52] Lugii: !noclip
+[12:02:15] Lugii teleported to tronix22
+[12:02:15] Lugii: !goto tronix22
+[12:02:49] Lugii killed tronix22 using player
+[12:02:56] tronix22 granted god mode upon Themself
+[12:02:56] tronix22: !god tron
+[12:02:58] Lugii granted god mode upon Themself
+[12:02:58] Lugii: !god Lugii
+[12:03:01] tronix22: !noclip
+[12:03:05] Lugii: !noclip
+[12:03:10] Lugii: !noclip
+[12:03:20] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:03:27] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube6x6x025.mdl
+[12:03:54] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:04:01] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube6x6x025.mdl
+[12:04:11] Lugii: !noclip
+[12:04:12] Lugii: !noclip
+[12:04:16] Lugii: !noclip
+[12:04:19] Lugii: !noclip
+[12:04:32] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube6x6x025.mdl
+[12:04:34] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube6x6x025.mdl
+[12:04:34] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:04:40] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube6x6x025.mdl
+[12:04:45] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:05:02] Lugii: !noclip
+[12:05:32] Lugii: !noclip
+[12:05:33] Lugii: !noclip
+[12:05:35] Lugii: !noclip
+[12:05:35] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:06:13] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:06:24] Lugii: !noclip
+[12:06:27] Lugii teleported to tronix22
+[12:06:27] Lugii: !goto tronix22
+[12:06:52] Lugii: !noclip
+[12:06:54] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:07:14] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:07:39] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:07:48] Lugii: !noclip
+[12:08:00] tronix22 brought Lugii
+[12:08:00] tronix22: !bring l
+[12:08:02] Lugii: !noclip
+[12:08:42] Lugii: !noclip
+[12:08:47] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:09:14] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[12:09:26] Lugii: !noclip
+[12:09:29] Lugii brought tronix22
+[12:09:29] Lugii: !bring tronix22
+[12:09:36] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_tent
+[12:09:37] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_equipment
+[12:10:40] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube6x8x1.mdl
+[12:10:42] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube6x8x05.mdl
+[12:10:54] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube3x4x025.mdl
+[12:10:57] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:11:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:11:25] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_item_autobreaker
+[12:11:25] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:11:30] Lugii: !noclip
+[12:11:51] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:12:15] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:12:21] tronix22: !noclip
+[12:12:33] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:12:42] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:12:49] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:02] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:19] Lugii: !noclip
+[12:13:22] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[12:13:24] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:25] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:28] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:29] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:29] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:30] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:13:48] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_dropoff
+[12:14:01] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:14:14] tronix22: !noclip
+[12:14:19] Lugii: !noclip
+[12:14:41] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[12:14:53] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:14:57] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:02] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:02] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[12:15:16] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[12:15:16] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:21] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:24] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:30] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[12:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:41] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:44] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:48] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:57] Lugii: !noclip
+[12:15:57] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:15:58] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[12:16:00] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:16:04] Lugii: !noclip
+[12:16:14] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_dropoff
+[12:16:33] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_dropoff
+[12:16:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:16:56] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:16:57] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:16:58] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:16:59] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:00] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:01] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:02] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:03] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:04] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:05] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:06] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:06] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:09] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:17:32] Lugii: !noclip
+[12:17:40] Lugii: !noclip
+[12:17:41] Lugii: !noclip
+[12:17:42] Lugii: !noclip
+[12:17:43] Lugii: !noclip
+[12:17:45] Lugii: !noclip
+[12:17:45] Lugii: !noclip
+[12:19:09] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_item_meth
+[12:19:13] Lugii: !noclip
+[12:19:16] Lugii: !noclip
+[12:19:17] Lugii: !noclip
+[12:19:19] Lugii: !noclip
+[12:21:10] tronix22<STEAM_0:1:634690584> spawned sent sent_jetpack
+[12:21:36] tronix22: !noclip
+[12:21:47] tronix22 brought Lugii
+[12:21:47] tronix22: !bring l
+[12:21:48] Lugii teleported to tronix22
+[12:21:48] Lugii: !goto tronix22
+[12:21:54] Lugii teleported to tronix22
+[12:21:54] Lugii: !goto tronix22
+[12:21:56] Lugii: !noclip
+[12:21:56] tronix22 brought Lugii
+[12:21:56] tronix22: !bring l
+[12:21:59] Lugii: !noclip
+[12:22:21] tronix22: /dropmoney 100000
+[12:22:33] Lugii: /dropmoney 99000
+[12:22:34] tronix22: !noclip
+[12:22:51] Lugii: !noclip
+[12:22:52] Lugii: !noclip
+[12:23:04] Lugii: !noclip
+[12:23:06] Lugii: !noclip
+[12:23:07] tronix22: Noclip
+[12:23:08] Lugii: !noclip
+[12:23:11] tronix22: !noclip
+[12:23:16] Lugii: !noclip
+[12:23:45] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x025.mdl
+[12:23:47] Lugii: !noclip
+[12:23:51] Lugii: !noclip
+[12:24:03] tronix22<STEAM_0:1:634690584> spawned sent weapon_upgrade
+[12:24:04] Lugii: /drop
+[12:24:32] tronix22<STEAM_0:1:634690584> spawned sent sent_jetpack
+[12:24:35] tronix22<STEAM_0:1:634690584> spawned sent weapon_upgrade
+[12:24:54] Lugii brought tronix22
+[12:24:54] Lugii: !bring tronix22
+[12:25:34] tronix22: !noclip
+[12:26:03] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube025x025x025.mdl
+[12:26:25] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:25] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:25] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:26] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:27] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:34] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:35] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[12:26:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[12:26:53] (TEAM) tronix22: !noclip
+[12:29:32] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:35] tronix22<STEAM_0:1:634690584> spawned sent drone_imbaflamethrower
+[12:29:39] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:47] tronix22 brought Lugii
+[12:29:47] tronix22: !bring l
+[12:29:54] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:54] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:55] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:55] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:55] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:55] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:55] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[12:29:57] Lugii returned Themself to their original position
+[12:29:57] Lugii: !return
+[12:30:03] Lugii: !noclip
+[12:30:04] tronix22: !return l
+[12:30:09] Lugii: !noclip
+[12:30:13] Lugii: !noclip
+[12:30:16] Lugii: !noclip
+[12:31:18] tronix22: !noclip
+[12:31:36] tronix22<STEAM_0:1:634690584> spawned sent drone_xracer
+[12:31:42] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[12:32:28] Lugii: !noclip
+[12:32:31] Lugii: !noclip
+[12:32:38] Lugii set the hp for Themself to 100
+[12:32:38] Lugii: !hp Lugii 100
+[12:32:40] Lugii: !noclip
+[12:32:43] tronix22 set the hp for Lugii to 99999
+[12:32:43] tronix22: !hp l 99999
+[12:32:45] Lugii: !noclip
+[12:32:55] Lugii set the hp for Themself to 100
+[12:32:55] Lugii: !hp Lugii 100
+[12:33:07] tronix22<STEAM_0:1:634690584> spawned sent drone_warriormarkiii
+[12:33:16] Lugii: !noclip
+[12:33:19] Lugii: !noclip
+[12:33:22] Lugii: !goto tronix22
+[12:33:27] Lugii: !goto tronix22
+[12:33:38] Lugii teleported to tronix22
+[12:33:38] Lugii: !goto tronix22
+[12:34:14] tronix22: /drop
+[12:34:16] Lugii killed tronix22 using player
+[12:34:30] Lugii: !noclip
+[12:34:35] Lugii: !noclip
+[12:35:04] tronix22: /drop
+[12:35:16] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[12:35:20] Server is shutting down/changing levels.
+
+
+
+[12:36:18] New map: rp_downtown_tits_v2
+[12:38:19] Client "Lugii" connected.
+[12:38:31] Client "tronix22" connected.
+[12:39:11] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 52 seconds).
+[12:39:35] Lugii: !noclip
+[12:39:37] Lugii: !noclip
+[12:39:45] Lugii: !noclip
+[12:39:51] Lugii: !noclip
+[12:39:56] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 85 seconds).
+[12:41:46] tronix22: !refund
+[12:41:50] tronix22 to admins: hi
+[12:41:53] Lugii: !refund
+[12:42:48] tronix22: /request hi
+[12:42:52] tronix22: !request hi
+[12:42:57] tronix22: /report hi
+[12:43:09] tronix22 brought Lugii
+[12:43:09] tronix22: !bring l
+[12:43:13] tronix22 killed Lugii using player
+[12:43:25] Lugii: !noclip
+[12:43:32] Lugii: !noclip
+[12:43:35] Lugii: !noclip
+[12:43:37] Lugii: !noclip
+[12:43:44] Lugii brought tronix22
+[12:43:44] Lugii: !bring tronix22
+[12:43:45] Lugii: !noclip
+[12:43:52] tronix22: !noclip
+[12:44:38] tronix22 killed Lugii using player
+[12:44:44] tronix22 granted god mode upon Themself
+[12:44:44] tronix22: !god tr
+[12:44:46] Lugii jailed tronix22
+[12:44:46] Lugii: !jail tronix22
+[12:44:50] Lugii: !goto tronix22
+[12:44:51] Lugii: !noclip
+[12:44:51] tronix22 unjailed Themself
+[12:44:51] tronix22: !unjail t
+[12:44:55] tronix22 brought Lugii
+[12:44:55] tronix22: !bring l
+[12:44:55] tronix22 killed Lugii using player
+[12:44:55] Lugii: !goto tronix22
+[12:45:05] tronix22 brought Lugii
+[12:45:05] tronix22: !bring l
+[12:45:06] Lugii suicided!
+[12:45:11] Lugii granted god mode upon Themself
+[12:45:11] Lugii: !god Lugii
+[12:45:12] tronix22: !noclip
+[12:45:13] Lugii returned Themself to their original position
+[12:45:13] Lugii: !return
+[12:45:17] Lugii teleported to tronix22
+[12:45:17] Lugii: !goto tronix22
+[12:45:18] tronix22 brought Lugii
+[12:45:18] tronix22: !bring l
+[12:46:04] tronix22 brought Lugii
+[12:46:04] tronix22: !bring l
+[12:46:32] Lugii: !noclip
+[12:46:34] Lugii: !noclip
+[12:46:37] tronix22: !noclip
+[12:46:38] Lugii: !afk
+[12:47:59] Lugii: !noclip
+[12:48:02] Lugii: !noclip
+[12:48:08] tronix22: !logsd
+[12:48:11] tronix22: !logs
+[12:48:50] tronix22 brought Lugii
+[12:48:50] tronix22: !bring l
+[12:49:23] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube6x6x6.mdl
+[12:49:46] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube075x075x075.mdl
+[12:49:55] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube075x075x075.mdl
+[12:50:03] tronix22 killed Lugii using weapon_supreme_badtime_bm_gblaster
+[12:50:07] Lugii granted god mode upon Themself
+[12:50:07] Lugii: !god Lugii
+[12:50:09] tronix22 brought Lugii
+[12:50:09] tronix22: !bring l
+[12:50:11] Lugii: !noclip
+[12:50:12] Lugii: !noclip
+[12:50:13] tronix22<STEAM_0:1:634690584> spawned model models/mechanics/solid_steel/i_beam2_4.mdl
+[12:50:54] tronix22 brought Lugii
+[12:50:54] tronix22: !bring l
+[12:50:59] Lugii: !noclip
+[12:51:02] Lugii: !noclip
+[12:51:06] Lugii brought tronix22
+[12:51:06] Lugii: !bring tronix22
+[12:51:16] Lugii returned Themself to their original position
+[12:51:16] Lugii: !return
+[12:51:20] Lugii returned tronix22 to their original position
+[12:51:20] Lugii: !return tronix22
+[12:52:10] Server is shutting down/changing levels.
+
+
+
+[12:53:10] New map: rp_downtown_tits_v2
+[12:54:23] Client "Lugii" connected.
+[12:55:01] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 38 seconds).
+[12:55:30] Lugii: !noclip
+[12:55:33] Lugii: !noclip
+[12:58:25] Client "tronix22" connected.
+[13:00:14] Client "tronix22" connected.
+[13:01:40] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 86 seconds).
+[13:02:59] tronix22: !noclip
+[13:04:16] tronix22: /theif
+[13:04:20] Lugii: /thief
+[13:04:20] tronix22: /theif
+[13:04:22] Lugii: thief
+[13:04:27] tronix22: /mastertheif
+[13:04:40] Lugii brought tronix22
+[13:04:40] Lugii: !bring tronix22
+[13:04:51] tronix22: /theif
+[13:05:24] Lugii: !noclip
+[13:05:28] Lugii: !noclip
+[13:05:37] Lugii: /dropmoney 711
+[13:06:09] tronix22 killed Lugii using player
+[13:06:15] Lugii: !return
+[13:06:18] Lugii: !goto tronix22
+[13:06:21] Lugii: !
+[13:06:25] Lugii: !goto tronix22
+[13:06:26] Lugii: !noclip
+[13:06:27] Lugii: !noclip
+[13:06:30] Lugii teleported to tronix22
+[13:06:30] Lugii: !goto tronix22
+[13:06:35] Lugii granted god mode upon Themself
+[13:06:35] Lugii: !god Lugii
+[13:08:17] tronix22: /theif
+[13:13:22] tronix22: /thif
+[13:13:25] tronix22: /theif
+[13:13:44] tronix22 to admins: hi
+[13:13:57] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[13:14:06] Server is shutting down/changing levels.
+
+
+
+[13:15:01] New map: rp_downtown_tits_v2
+[13:15:28] Client "tronix22" connected.
+[13:15:35] Client "Lugii" connected.
+[13:16:17] Server is shutting down/changing levels.
+
+
+
+[13:17:59] New map: rp_downtown_tits_v2
+[13:18:07] Client "Lugii" connected.
+[13:18:16] Server is shutting down/changing levels.
+
+
+
+[13:19:24] New map: rp_downtown_tits_v2
+[13:20:26] Server is shutting down/changing levels.
+
+
+
+[13:23:25] New map: rp_downtown_tits_v2
+[13:23:38] Client "Lugii" connected.
+[13:26:08] Server is shutting down/changing levels.
+
+
+
+[13:27:21] New map: rp_downtown_tits_v2
+[13:27:53] Client "Lugii" connected.
+[13:28:35] Server is shutting down/changing levels.
+
+
+
+[13:30:52] New map: rp_downtown_tits_v2
+[13:31:11] Client "Lugii" connected.
+[13:31:49] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 38 seconds).
+[13:32:14] Client "tronix22" connected.
+[13:32:22] Lugii: /tif
+[13:32:24] Lugii: /thief
+[13:33:43] Server is shutting down/changing levels.
+
+
+
+[13:34:39] New map: rp_downtown_tits_v2
+[13:34:46] Client "Lugii" connected.
+[13:35:03] Client "tronix22" connected.
+[13:35:24] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 38 seconds).
+[13:36:23] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 80 seconds).
+[13:36:57] tronix22 to admins: hi
+[13:38:23] tronix22 killed Lugii using player
+[13:39:12] Lugii: !noclip
+[13:39:20] Lugii: !noclip
+[13:39:22] tronix22: /ticket hi
+[13:39:24] Lugii: !noclip
+[13:39:25] Lugii: !noclip
+[13:39:26] tronix22: /tickets hi
+[13:39:28] Lugii: !tickets
+[13:39:35] tronix22 to admins: hi
+[13:39:44] tronix22: /ticket im dead
+[13:39:50] Lugii: !noclip
+[13:39:54] Lugii: !noclip
+[13:40:33] Lugii brought tronix22
+[13:40:50] tronix22: !noclip
+[13:41:00] Lugii returned tronix22 to their original position
+[13:41:08] Lugii: /logs
+[13:41:11] tronix22: !noclip
+[13:41:12] Lugii: !noclip
+[13:41:19] Lugii: !noclip
+[13:41:40] tronix22: /ownerstaff
+[13:41:44] tronix22: /staff
+[13:41:46] tronix22: /theif
+[13:42:07] tronix22: /ticket#
+[13:42:40] tronix22: !bring t
+[13:42:50] Server is shutting down/changing levels.
+
+
+
+[13:43:58] New map: rp_downtown_tits_v2
+[13:44:30] Client "tronix22" connected.
+[13:44:31] Client "Lugii" connected.
+[13:45:08] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 37 seconds).
+[13:45:32] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 62 seconds).
+[13:46:03] Lugii: !noclip
+[13:46:04] Lugii: !noclip
+[13:47:36] Lugii: !menu
+[13:47:42] tronix22: /ownerstaff
+[13:47:45] tronix22: /staff
+[13:47:47] Lugii added Lugii to group admin
+[13:47:49] tronix22: /superstadd
+[13:48:04] tronix22: !noclip
+[13:48:14] (Console) added Lugii to group superadmin
+[13:48:16] Lugii: !noclip
+[13:48:47] Lugii: !noclip
+[13:48:50] Lugii: !ticket
+[13:49:08] Lugii: !noclip
+[13:49:11] Lugii: !noclip
+[13:49:20] tronix22 brought Lugii
+[13:49:51] Lugii killed tronix22 using player
+[13:49:57] tronix22 brought Lugii
+[13:49:57] tronix22: !bring l
+[13:50:08] tronix22 killed Lugii using player
+[13:50:12] Lugii killed tronix22 using player
+[13:50:31] tronix22 killed Lugii using player
+[13:50:40] Lugii teleported to tronix22
+[13:50:40] Lugii: !goto tronix22
+[13:50:43] tronix22 returned Lugii to their original position
+[13:50:46] Lugii: !noclip
+[13:50:47] Lugii: !noclip
+[13:50:53] tronix22 cloaked Themself by amount 0
+[13:50:53] tronix22: !cloak
+[13:51:04] tronix22 killed Lugii using player
+[13:51:10] tronix22 granted god mode upon Themself
+[13:51:10] tronix22: !god tro
+[13:51:12] Lugii stripped weapons from tronix22
+[13:51:12] Lugii: !strip tronix22
+[13:51:17] tronix22: !unstrip t
+[13:51:21] Lugii cloaked tronix22 by amount 255
+[13:51:21] Lugii: !cloak tronix22 0
+[13:51:25] tronix22 killed Lugii using player
+[13:51:33] tronix22 killed Lugii using player
+[13:51:40] Lugii whipped tronix22 100 times with 5 damage
+[13:51:40] Lugii: !whip tronix22 100 5
+[13:51:48] Lugii stripped weapons from tronix22
+[13:51:48] Lugii: !strip tronix22
+[13:51:50] tronix22 suicided!
+[13:51:51] Lugii granted god mode upon Themself
+[13:51:51] Lugii: !god Lugii
+[13:51:59] Lugii: !noclip
+[13:52:07] Lugii: xgui
+[13:52:10] Lugii: !menu
+[13:52:22] Lugii uncloaked tronix22
+[13:52:29] tronix22<STEAM_0:1:634690584> spawned sent drone_melon
+[13:52:32] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[13:52:34] Lugii uncloaked tronix22
+[13:52:34] Lugii: !uncloak tronix22
+[13:52:38] Lugii teleported to tronix22
+[13:52:38] Lugii: !goto tronix22
+[13:52:54] tronix22<STEAM_0:1:634690584> spawned sent drone_medicmarkiii
+[13:52:57] tronix22<STEAM_0:1:634690584> spawned sent drone_repairmarkiii
+[13:53:01] Lugii<STEAM_0:1:552352244> spawned sent drone_groundmissile
+[13:53:07] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[13:53:14] tronix22<STEAM_0:1:634690584> spawned sent hacktool_drone
+[13:53:33] Lugii killed tronix22 using player
+[13:53:59] tronix22<STEAM_0:1:634690584> spawned sent hacktool_drone
+[13:54:18] Lugii: !noclip
+[13:54:20] Lugii: !noclip
+[13:54:37] Lugii: !noclip
+[13:54:39] Lugii: !noclip
+[13:54:44] Lugii: !noclip
+[13:54:45] tronix22<STEAM_0:1:634690584> spawned sent item_drr_cannon
+[13:54:47] tronix22<STEAM_0:1:634690584> spawned sent drone_bomb
+[13:54:49] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[13:54:50] Lugii: !noclip
+[13:54:57] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[13:55:02] Lugii: !noclip
+[13:55:03] tronix22<STEAM_0:1:634690584> spawned sent hacktool_drone
+[13:55:05] Lugii: !noclip
+[13:55:08] Lugii: !noclip
+[13:55:20] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[13:55:24] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[13:55:25] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[13:55:26] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[13:55:26] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[13:56:19] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_combiner
+[13:56:20] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:56:21] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:56:22] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:56:22] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:56:23] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:57:00] tronix22<STEAM_0:1:634690584> spawned sent laser_d2ent
+[13:57:00] tronix22<STEAM_0:1:634690584> spawned sent laser_d2ent
+[13:57:00] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[13:57:00] tronix22<STEAM_0:1:634690584> spawned sent laser_d2ent
+[13:57:00] tronix22<STEAM_0:1:634690584> spawned sent laser_d2ent
+[13:57:35] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_cooling3
+[13:57:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_rgb
+[13:57:54] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[13:57:55] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[13:57:55] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[13:58:01] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:02] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:03] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:03] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:04] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:04] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:05] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:06] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:06] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:07] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:07] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:08] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:09] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:09] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:10] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[13:58:28] Lugii was killed by ch_bitminer_power_cable
+[13:58:53] Lugii returned Themself to their original position
+[13:58:53] Lugii: !return
+[13:59:10] Lugii: !noclip
+[13:59:15] Lugii: !noclip
+[13:59:21] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_console
+[13:59:28] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[13:59:29] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[13:59:30] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_controller
+[13:59:30] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_combiner
+[13:59:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:59:45] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[13:59:46] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:00:56] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_clean_dirt
+[14:01:13] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_console
+[14:01:53] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[14:01:57] tronix22<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[14:01:59] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[14:02:00] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[14:02:01] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[14:02:06] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[14:02:11] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:13] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:02:43] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:43] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:45] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:45] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:46] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:46] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:02:51] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_cooling3
+[14:03:00] tronix22<STEAM_0:1:634690584> spawned sent hacktool_drone
+[14:03:50] Lugii: !noclip
+[14:03:51] Lugii: !noclip
+[14:05:05] tronix22<STEAM_0:1:634690584> spawned sent bm2_solar_panel
+[14:05:11] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_shelf
+[14:05:23] tronix22: /dropmoney 500000
+[14:05:39] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_attack
+[14:05:41] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[14:06:04] Lugii suicided!
+[14:06:39] Lugii killed tronix22 using player
+[14:06:45] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_console
+[14:06:51] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[14:07:04] Lugii: !noclip
+[14:07:08] Lugii: !noclip
+[14:07:09] Lugii: !noclip
+[14:07:10] Lugii: !noclip
+[14:07:16] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[14:07:17] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:07:18] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:07:19] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:07:20] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:07:21] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:07:22] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[14:07:30] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_protect
+[14:07:39] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_combiner
+[14:07:58] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:08:09] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:08:13] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[14:08:21] tronix22<STEAM_0:1:634690584> spawned sent drone_cargomarkiii
+[14:08:22] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_solar
+[14:08:26] tronix22<STEAM_0:1:634690584> spawned sent item_drr_grenades
+[14:08:37] tronix22<STEAM_0:1:634690584> spawned sent pedrp_rcheliassaultdrone
+[14:08:38] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:08:45] tronix22<STEAM_0:1:634690584> spawned sent pedrp_predatordrone
+[14:08:52] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_generator
+[14:08:53] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_generator_fuel_large
+[14:08:54] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_generator_fuel_large
+[14:08:54] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_generator_fuel_large
+[14:09:00] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:09:00] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_shield
+[14:09:06] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_health_booster
+[14:09:21] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_attack
+[14:09:28] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_camera_point
+[14:09:28] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_check_territory
+[14:09:28] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_enemy
+[14:09:29] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[14:09:29] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_moving_core
+[14:09:30] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_protect
+[14:09:53] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[14:09:58] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[14:10:16] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[14:10:22] Lugii: !noclip
+[14:10:28] Lugii: !noclip
+[14:11:41] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[14:11:54] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_medic
+[14:12:04] Lugii<STEAM_0:1:552352244> spawned sent zwf_weedblock
+[14:12:07] Lugii: !noclip
+[14:12:08] Lugii: !noclip
+[14:12:13] Lugii: !noclip
+[14:12:13] Lugii: !noclip
+[14:12:15] Lugii: !noclip
+[14:12:17] Lugii: !noclip
+[14:12:50] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_coredr
+[14:13:23] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_coredr
+[14:13:56] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_flower
+[14:14:00] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[14:14:12] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_rgundr
+[14:14:32] Lugii<STEAM_0:1:552352244> spawned sent zwf_weedstick
+[14:14:45] Lugii<STEAM_0:1:552352244> spawned sent zwf_doobytable
+[14:14:52] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_supply
+[14:16:21] tronix22 teleported to Lugii
+[14:16:21] tronix22: !goto l
+[14:16:35] Lugii<STEAM_0:1:552352244> spawned sent drone_cargo
+[14:16:40] Lugii: !noclip
+[14:16:42] Lugii: !noclip
+[14:16:47] Lugii suicided!
+[14:16:48] tronix22: !noclip
+[14:16:52] Lugii: !return
+[14:16:54] Lugii: !
+[14:16:56] Lugii: !noclip
+[14:17:03] Lugii: !noclip
+[14:17:10] tronix22: !setjailpos
+[14:17:17] tronix22: !savejailpos
+[14:17:21] tronix22: !noclip
+[14:17:27] tronix22 cloaked Themself by amount 0
+[14:17:27] tronix22: !cloak
+[14:17:31] Lugii<STEAM_0:1:552352244> spawned sent drone_cargomarkii
+[14:17:31] tronix22 teleported to Lugii
+[14:17:31] tronix22: !goto l
+[14:17:41] tronix22 returned Themself to their original position
+[14:17:41] tronix22: !return
+[14:17:55] tronix22: !setjailpos
+[14:17:58] Lugii<STEAM_0:1:552352244> spawned sent drone_cargo
+[14:18:01] tronix22: /setjailpos
+[14:18:09] Lugii<STEAM_0:1:552352244> spawned sent refuelstation_diesel
+[14:18:13] tronix22: /savejailpos
+[14:18:20] tronix22: /setjailpos
+[14:18:22] Lugii<STEAM_0:1:552352244> spawned sent fuel_markii_station
+[14:18:28] tronix22: !noclip
+[14:19:05] tronix22: !noclip
+[14:19:16] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_scout
+[14:19:51] tronix22 brought Lugii
+[14:19:51] tronix22: !bring l
+[14:19:57] Lugii returned Themself to their original position
+[14:19:57] Lugii: !return
+[14:19:58] tronix22 brought Lugii
+[14:19:58] tronix22: !bring l
+[14:20:12] Lugii: !noclip
+[14:20:14] Lugii: !noclip
+[14:20:20] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_shelf
+[14:20:23] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:23] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:23] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:24] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:24] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:24] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:24] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:25] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:25] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:26] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:26] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:26] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:26] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:26] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:27] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:27] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:27] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:27] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:27] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:27] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:28] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:29] Lugii: !xban
+[14:20:33] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:33] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:34] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:35] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[14:20:43] tronix22<STEAM_0:1:634690584> spawned sent ch_bitminer_power_generator_fuel_large
+[14:20:49] Lugii banned tronix22 for 6 minutes (Griefer)
+[14:20:49] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[14:21:10] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[14:22:28] (Console) unbanned steamid STEAM_0:1:634690584 (tronix22)
+[14:22:34] Client "tronix22" connected.
+[14:23:25] Lugii: !noclip
+[14:23:28] Lugii: !noclip
+[14:23:46] (Console) froze Lugii
+[14:23:46] Lugii: !noclip
+[14:23:48] Lugii: !noclip
+[14:23:52] Lugii unfroze Themself
+[14:23:52] Lugii: !unfreeze Lugii
+[14:23:52] Lugii: !noclip
+[14:23:53] Lugii: !noclip
+[14:23:56] (Console) unfroze Lugii
+[14:25:28] Lugii: !credits 10000000 Lugii
+[14:25:46] Lugii: !credits Lugii
+[14:27:09] (Console) kicked Lugii
+[14:27:09] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[14:27:40] Server is shutting down/changing levels.
+
+
+
+[17:00:09] New map: rp_downtown_tits_v2
+[17:00:36] Client "Lugii" connected.
+[17:01:33] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 57 seconds).
+[17:17:27] Client "MrMillerUK" connected.
+[17:18:31] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 64 seconds).
+[17:19:53] Lugii: !menu
+[17:19:54] MrMillerUK: !noclip
+[17:20:00] (TEAM) MrMillerUK: !noclip
+[17:20:37] Lugii: !menu
+[17:22:36] MrMillerUK: /dropmoney 30000
+[17:22:50] Lugii: /drop\
+[17:23:20] MrMillerUK: !fly
+[17:23:47] MrMillerUK: !noclip
+[17:24:15] MrMillerUK: !noclip
+[17:24:27] Lugii killed MrMillerUK using weapon_bm_ams
+[17:27:12] Lugii killed MrMillerUK using player
+[17:28:05] (TEAM) MrMillerUK: !noclup
+[17:28:10] MrMillerUK: !noclip
+[17:28:31] MrMillerUK: !noclip
+[17:28:40] Lugii teleported to MrMillerUK
+[17:28:40] Lugii: !goto MrMillerUK
+[17:28:50] Lugii set the hp for MrMillerUK to 500
+[17:28:50] Lugii: !hp MrMillerUK 500
+[17:29:04] Lugii: /buyallammo
+[17:29:13] Lugii: /buyallammo 999
+[17:29:40] Lugii killed MrMillerUK using player
+[17:29:46] Lugii brought MrMillerUK
+[17:29:46] Lugii: !bring MrMillerUK
+[17:30:19] Lugii killed MrMillerUK using player
+[17:30:25] Lugii returned MrMillerUK to their original position
+[17:30:25] Lugii: !return MrMillerUK
+[17:30:29] Lugii brought MrMillerUK
+[17:30:29] Lugii: !bring MrMillerUK
+[17:30:36] Lugii: !noclip
+[17:30:38] Lugii: !noclip
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:30:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned sent sammyservers_textscreen
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned sent sammyservers_textscreen
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned sent keypad
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[17:30:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:31:15] Lugii: !noclip
+[17:31:16] Lugii: !noclip
+[17:31:41] MrMillerUK suicided!
+[17:31:42] Lugii: !noclip
+[17:31:47] Lugii: !noclip
+[17:31:51] Lugii: !noclip
+[17:31:55] Lugii: !noclip
+[17:32:29] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[17:34:18] Lugii: !noclip
+[17:34:19] Lugii: !noclip
+[17:37:45] Server is shutting down/changing levels.
+
+
+
+[17:38:55] New map: rp_downtown_tits_v2
+[17:39:10] Client "tronix22" connected.
+[17:41:21] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 131 seconds).
+[17:41:52] Client "Lugii" connected.
+[17:42:31] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 39 seconds).
+[17:42:45] tronix22: /ownerstaff
+[17:43:09] tronix22: /staff
+[17:43:12] tronix22: oh ok
+[17:43:19] Lugii teleported to tronix22
+[17:43:19] Lugii: !goto tronix22
+[17:43:29] tronix22: nah siz
+[17:43:31] tronix22: zoz
+[17:43:33] tronix22: soz
+[17:43:49] Lugii: /cheque "tronix22" 50000
+[17:44:20] Lugii: !noclip
+[17:44:25] Lugii: !noclip
+[17:44:27] Lugii: !noclip
+[17:44:28] Lugii: !noclip
+[17:44:47] tronix22 suicided!
+[17:45:16] tronix22: !noclip
+[17:45:30] Client "MrMillerUK" connected.
+[17:45:45] Lugii: !goto mr
+[17:45:50] Lugii: !goto Mr
+[17:46:02] tronix22: !bring mug
+[17:46:06] tronix22 brought Lugii
+[17:46:06] tronix22: !bring lug
+[17:46:07] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 37 seconds).
+[17:46:38] tronix22: hereas money
+[17:46:44] tronix22: /dropmoney 100000
+[17:48:11] tronix22: k
+[17:48:15] tronix22: yh 
+[17:48:17] tronix22: make onje
+[17:48:43] tronix22: !menu
+[17:49:06] tronix22 created group trial admin which inherits rights from group admin
+[17:49:34] tronix22: nah soz
+[17:49:36] tronix22: !menu
+[17:49:54] tronix22 added MrMillerUK to group trial admin
+[17:50:02] tronix22: !tickets
+[17:50:46] Lugii jailed MrMillerUK
+[17:50:46] Lugii: !jail MrMillerUK
+[17:50:46] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_hack_protection
+[17:50:54] tronix22 unjailed MrMillerUK
+[17:50:54] tronix22: !unjail mr
+[17:51:01] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[17:51:07] MrMillerUK jailed Themself
+[17:51:07] MrMillerUK: !jail mr
+[17:51:14] MrMillerUK unjailed Themself
+[17:51:14] MrMillerUK: !unjail mr
+[17:51:39] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_camera_point
+[17:51:42] Server is shutting down/changing levels.
+
+
+
+[17:52:56] New map: rp_downtown_tits_v2
+[17:53:20] Client "Lugii" connected.
+[17:53:29] Client "MrMillerUK" connected.
+[17:53:36] Client "tronix22" connected.
+[17:54:07] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 38 seconds).
+[17:54:58] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 82 seconds).
+[17:55:08] Client "Lugii" connected.
+[17:55:50] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 42 seconds).
+[17:56:18] tronix22: !logs
+[17:56:21] tronix22: !log
+[17:56:25] tronix22: !ulx log
+[17:57:16] Lugii<STEAM_0:1:552352244> spawned sent bank_npc
+[17:57:26] tronix22: !noclip
+[17:57:34] Lugii<STEAM_0:1:552352244> spawned sent zvm_machine
+[17:57:42] tronix22 brought MrMillerUK
+[17:57:42] tronix22: !bring mr
+[17:57:50] tronix22: admin land changed
+[17:57:56] tronix22 brought MrMillerUK
+[17:57:56] tronix22: !bring mr
+[17:57:57] Lugii teleported to MrMillerUK
+[17:57:57] Lugii: !goto MrMillerUK
+[17:57:59] tronix22: sits
+[17:58:00] Lugii: !noclip
+[17:58:02] Lugii: !noclip
+[17:58:05] tronix22 returned MrMillerUK to their original position
+[17:58:05] tronix22: !return mr
+[17:58:10] tronix22: !return mr
+[17:58:13] Lugii returned Themself to their original position
+[17:58:13] Lugii: !return
+[17:58:34] tronix22 cloaked Themself by amount 0
+[17:58:34] tronix22: !cloak
+[17:58:37] tronix22: !noclip
+[17:58:52] tronix22 killed MrMillerUK using player
+[17:58:58] MrMillerUK teleported to Lugii
+[17:58:58] MrMillerUK: !goto lug
+[17:59:10] MrMillerUK teleported to tronix22
+[17:59:10] MrMillerUK: !goto tro
+[17:59:32] MrMillerUK: !kill mr
+[17:59:32] tronix22 killed MrMillerUK using player
+[17:59:35] tronix22<STEAM_0:1:634690584> spawned sent zwf_weedblock
+[17:59:40] tronix22<STEAM_0:1:634690584> spawned sent zwf_weedstick
+[17:59:53] tronix22<STEAM_0:1:634690584> spawned sent zwf_jar
+[18:00:04] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_combine/headcrabcannister01a.mdl
+[18:00:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[18:00:14] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[18:00:21] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_combine/weaponstripper.mdl
+[18:00:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_combine/combine_bridge_b.mdl
+[18:00:47] tronix22: !noclip
+[18:00:56] tronix22<STEAM_0:1:634690584> spawned sent drone_mentity
+[18:00:58] tronix22<STEAM_0:1:634690584> spawned sent drone_aentity
+[18:01:19] tronix22: bro
+[18:01:21] tronix22: stop
+[18:01:41] MrMillerUK: !motd
+[18:01:47] MrMillerUK: !rules
+[18:01:50] tronix22: yo
+[18:01:53] MrMillerUK: !goto tro
+[18:02:06] (TEAM) MrMillerUK: !goto tro
+[18:02:12] tronix22 killed MrMillerUK using minigun_dent
+[18:02:18] MrMillerUK: !noclip
+[18:02:29] tronix22 cloaked Themself by amount 0
+[18:02:29] tronix22: !cloak
+[18:02:39] tronix22 suicided!
+[18:02:44] MrMillerUK: !noclip
+[18:03:41] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[18:03:42] Client "MrMillerUK" connected.
+[18:04:17] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 35 seconds).
+[18:04:51] tronix22: yh
+[18:05:00] tronix22: why u do that
+[18:05:21] tronix22: ok fine
+[18:05:39] tronix22<STEAM_0:1:634690584> spawned sent sent_jetpack
+[18:05:42] MrMillerUK teleported to tronix22
+[18:05:42] MrMillerUK: !goto tro
+[18:05:56] tronix22 uncloaked Themself
+[18:05:56] tronix22: !uncloak
+[18:06:36] tronix22: i think
+[18:06:39] tronix22: 100k
+[18:06:50] tronix22: 100k
+[18:06:54] tronix22: yh
+[18:07:06] tronix22: heres a jetpack
+[18:07:09] tronix22<STEAM_0:1:634690584> spawned sent sent_jetpack
+[18:07:21] tronix22 brought MrMillerUK
+[18:07:21] tronix22: !bring mr
+[18:07:32] tronix22: its not working
+[18:07:45] Lugii suicided!
+[18:07:49] Lugii: !noclip
+[18:07:51] Lugii: !noclip
+[18:07:58] Lugii suicided!
+[18:08:01] tronix22<STEAM_0:1:634690584> spawned sent weapon_upgrade
+[18:08:09] tronix22<STEAM_0:1:634690584> spawned sent srp_battery
+[18:08:11] tronix22<STEAM_0:1:634690584> spawned sent srp1_printer
+[18:08:23] tronix22: add thease to menu
+[18:08:41] Lugii<STEAM_0:1:552352244> spawned sent sent_jetpack
+[18:08:42] tronix22<STEAM_0:1:634690584> spawned sent srp5_printer_special
+[18:08:56] tronix22<STEAM_0:1:634690584> spawned sent wac_seat_connector
+[18:09:03] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:09:24] tronix22: !noclip
+[18:09:36] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:09:46] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:09:54] MrMillerUK: !noclip
+[18:10:00] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:10:03] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[18:10:06] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:10:21] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:10:23] tronix22: yh
+[18:10:45] Lugii brought tronix22
+[18:10:45] Lugii: !bring tronix22
+[18:10:51] Lugii returned tronix22 to their original position
+[18:10:51] Lugii: !return tronix22
+[18:10:52] tronix22: !return
+[18:10:59] tronix22: h
+[18:11:03] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:11:15] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:11:22] tronix22<STEAM_0:1:634690584> spawned sent bank_npc
+[18:11:52] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_dropoff
+[18:12:31] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_dropoff
+[18:12:46] tronix22: !goto m
+[18:12:50] tronix22 teleported to Lugii
+[18:12:50] tronix22: !goto l
+[18:12:58] Lugii: !noclip
+[18:12:59] Lugii: !noclip
+[18:13:19] tronix22: im looging at prices
+[18:14:53] tronix22: one sec
+[18:14:58] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[18:15:02] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:15:03] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:15:03] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:15:03] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:15:03] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:15:17] tronix22: nah im testing
+[18:15:21] tronix22: plsu im owner
+[18:17:05] Lugii<STEAM_0:1:552352244> spawned sent zvm_machine
+[18:17:31] tronix22: !noclip
+[18:17:40] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:17:41] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:17:42] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:17:44] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:17:45] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:17:51] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_357
+[18:18:03] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_ar2
+[18:18:05] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:11] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:13] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:14] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_buckshot
+[18:18:14] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:15] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:17] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:18] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:26] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_pistol
+[18:18:30] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:32] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:33] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:34] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:35] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:42] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_smg
+[18:18:44] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:45] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:46] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:47] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[18:18:56] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_sniper_rounds
+[18:19:01] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_tent
+[18:19:05] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_winchester
+[18:19:21] tronix22: what
+[18:19:24] tronix22: !csay ok
+[18:19:26] Lugii brought tronix22
+[18:19:26] Lugii: !bring tronix22
+[18:19:32] tronix22: """ what u want
+[18:19:36] (csay from tronix22) cool
+[18:19:48] tronix22: good
+[18:19:52] tronix22: good
+[18:20:01] Lugii: !noclip
+[18:20:07] Lugii returned tronix22 to their original position
+[18:20:07] Lugii: !return tronix22
+[18:20:16] tronix22: !noclip
+[18:20:16] Lugii: !noclip
+[18:20:20] Lugii<STEAM_0:1:552352244> spawned sent zvm_machine
+[18:20:25] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:20:37] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:20:56] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:21:03] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:21:06] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:21:08] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:21:10] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:21:12] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:22:13] tronix22: yh
+[18:22:18] (csay from tronix22) ok
+[18:22:26] Lugii brought tronix22
+[18:22:26] Lugii: !bring tronix22
+[18:22:31] tronix22: good
+[18:22:36] tronix22: i wanna add some stuff 
+[18:22:45] tronix22: yh
+[18:22:50] tronix22: mil
+[18:22:53] tronix22: do mil
+[18:23:01] tronix22: nah i wanna add at start 
+[18:23:04] tronix22: not this
+[18:23:11] tronix22: othertings i wanna add at start
+[18:23:18] tronix22: yh i know
+[18:23:20] tronix22: k
+[18:23:28] tronix22: imma add one at spwan with drones
+[18:23:33] tronix22: i wanna do it to
+[18:23:38] tronix22: yh i wanna do
+[18:23:42] tronix22: yh i know
+[18:23:45] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:23:50] tronix22: ok
+[18:23:52] Lugii: !return
+[18:23:57] tronix22 returned Themself to their original position
+[18:23:57] tronix22: !return
+[18:23:57] Lugii: !return tronix22
+[18:24:01] tronix22: !noclip
+[18:24:02] Lugii teleported to tronix22
+[18:24:02] Lugii: !goto tronix22
+[18:24:07] Lugii: !noclip
+[18:24:08] Lugii: !noclip
+[18:24:40] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:24:59] tronix22: ok
+[18:25:11] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:25:13] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:25:22] tronix22<STEAM_0:1:634690584> spawned sent drone_bomb
+[18:25:36] tronix22<STEAM_0:1:634690584> spawned sent drone_ball
+[18:25:43] tronix22<STEAM_0:1:634690584> spawned sent drone_imbagun
+[18:25:56] tronix22: yh
+[18:26:02] tronix22: i mma put
+[18:26:15] tronix22: let me look
+[18:26:30] tronix22<STEAM_0:1:634690584> spawned sent sent_jetpack
+[18:26:58] tronix22: k
+[18:27:04] tronix22: noo
+[18:27:06] Lugii: !noclip
+[18:27:10] tronix22: look i got idea
+[18:27:24] Lugii: !noclip
+[18:27:26] tronix22: !NOCLIP
+[18:27:31] Lugii: !noclip
+[18:27:31] Lugii: !noclip
+[18:27:32] Lugii: !noclip
+[18:27:32] tronix22: k
+[18:27:33] Lugii: !noclip
+[18:27:35] Lugii: !noclip
+[18:27:36] tronix22: !noclip
+[18:27:37] tronix22: ok
+[18:27:45] tronix22: there
+[18:28:14] Lugii<STEAM_0:1:552352244> spawned sent enterprise_atm
+[18:28:22] tronix22: vapes
+[18:28:37] (csay from tronix22) i cant
+[18:28:48] (csay from tronix22) im not allowed
+[18:29:03] Lugii: !goto tronix22
+[18:29:05] Lugii: !noclip
+[18:29:09] Lugii teleported to tronix22
+[18:29:09] Lugii: !goto tronix22
+[18:29:16] Lugii: !noclip
+[18:29:20] tronix22: vapes
+[18:29:29] tronix22: yh i will
+[18:29:36] tronix22: but it says 1x
+[18:29:49] Lugii granted god mode upon tronix22
+[18:29:49] Lugii: !god tronix22
+[18:29:52] Lugii granted god mode upon Themself
+[18:29:52] Lugii: !god Lugii
+[18:30:37] tronix22: how to get
+[18:30:40] tronix22: infinite times
+[18:31:30] tronix22: it says 1x
+[18:31:31] tronix22: ok
+[18:31:32] Lugii<STEAM_0:1:552352244> spawned sent zvm_machine
+[18:34:04] tronix22: good
+[18:34:10] tronix22: ok
+[18:34:39] tronix22: yh
+[18:36:34] tronix22<STEAM_0:1:634690584> spawned model models/props_c17/bench01a.mdl
+[18:36:42] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x8x025.mdl
+[18:37:17] Lugii<STEAM_0:1:552352244> spawned sent srp1_printer
+[18:37:21] tronix22: in entities
+[18:37:43] tronix22<STEAM_0:1:634690584> spawned sent wac_hc_hornet
+[18:37:49] tronix22<STEAM_0:1:634690584> spawned sent wac_pl_a10
+[18:37:53] tronix22<STEAM_0:1:634690584> spawned sent wac_pl_p40
+[18:38:02] (TEAM) tronix22: umm
+[18:38:04] tronix22: idk
+[18:38:15] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:38:16] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:38:17] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:38:19] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:38:20] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[18:38:59] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:38:59] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:39:00] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:39:00] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:39:01] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[18:39:29] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_decrease_engine_noise
+[18:39:30] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_decrease_engine_noise
+[18:39:30] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_decrease_engine_noise
+[18:39:31] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_decrease_engine_noise
+[18:39:31] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_decrease_engine_noise
+[18:39:51] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_nightvision
+[18:39:51] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_nightvision
+[18:39:52] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_nightvision
+[18:40:26] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_attack
+[18:40:26] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_attack
+[18:40:57] tronix22<STEAM_0:1:634690584> spawned sent fpv_drone
+[18:41:28] tronix22: umm
+[18:41:31] tronix22: printers
+[18:41:34] tronix22: noo
+[18:41:40] tronix22: make printer catagory
+[18:41:43] tronix22<STEAM_0:1:634690584> spawned sent drone_melon
+[18:42:23] Lugii killed tronix22 using player
+[18:42:31] tronix22: !bring l
+[18:42:40] tronix22 brought Lugii
+[18:42:40] tronix22: !bring lug
+[18:42:50] tronix22: !unignite lug
+[18:42:52] Lugii: !exstingues Lugii
+[18:42:56] Lugii: !menu
+[18:42:59] tronix22: !menu
+[18:43:03] Lugii extinguished everything
+[18:43:04] Lugii: !noclip
+[18:43:06] tronix22 ignited Lugii for 300 seconds
+[18:43:08] Lugii: !noclip
+[18:43:09] tronix22 extinguished Lugii
+[18:43:18] tronix22 brought Lugii
+[18:43:19] tronix22: !bring l
+[18:43:22] tronix22: where u go
+[18:43:29] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_balltur
+[18:43:36] tronix22<STEAM_0:1:634690584> spawned sent refuelstation_diesel
+[18:43:42] tronix22<STEAM_0:1:634690584> spawned sent refuelstation_diesel
+[18:44:37] tronix22<STEAM_0:1:634690584> spawned sent drone_wheelbasic
+[18:44:46] tronix22<STEAM_0:1:634690584> spawned sent drone_groundgunner
+[18:44:49] Lugii returned Themself to their original position
+[18:44:49] Lugii: !return
+[18:45:29] tronix22<STEAM_0:1:634690584> spawned sent drone_groundlaser
+[18:45:57] Lugii: srp2_printer
+[18:46:29] tronix22: !menu
+[18:46:50] (SILENT) tronix22 began spectating Lugii
+[18:46:52] (SILENT) tronix22 stopped spectating Lugii
+[18:46:55] tronix22<STEAM_0:1:634690584> spawned sent drone_groundsniper
+[18:47:05] tronix22<STEAM_0:1:634690584> spawned sent drone_xracer
+[18:47:24] tronix22<STEAM_0:1:634690584> spawned sent drone_xracer
+[18:47:38] tronix22<STEAM_0:1:634690584> spawned sent drone_imbagun
+[18:47:59] (csay from tronix22) ok
+[18:48:00] Lugii: !noclip
+[18:48:01] Lugii: !noclip
+[18:48:02] (csay from tronix22) yep
+[18:48:06] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[18:48:09] Server is shutting down/changing levels.
+
+
+
+[18:49:29] New map: rp_downtown_tits_v2
+[18:49:37] Client "Lugii" connected.
+[18:49:48] Client "tronix22" connected.
+[18:50:14] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 37 seconds).
+[18:51:05] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 77 seconds).
+[18:54:17] tronix22:  !zmlab2_save
+[18:54:23] tronix22: !zmlab2_save
+[18:54:47] tronix22:  !zmlab2_save
+[18:54:57] tronix22: !noclip
+[18:55:08] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_dropoff
+[18:55:16] tronix22:  !zmlab2_save
+[18:55:25] tronix22: !zmlab2_save
+[18:55:30] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_dropoff
+[18:56:07] tronix22<STEAM_0:1:634690584> spawned sent zmlab2_dropoff
+[18:56:25] (Console) added tronix22 to group superadmin
+[18:56:38] tronix22: !zmlab2_save
+[18:57:38] tronix22: !noclip
+[18:58:34] tronix22 teleported to Lugii
+[18:58:34] tronix22: !goto lu
+[18:58:58] tronix22: look
+[18:59:02] tronix22: it not work
+[18:59:05] tronix22: oh
+[18:59:11] tronix22: i idnt sdo them
+[18:59:12] tronix22: here
+[18:59:22] tronix22: /dropmoney 1000000000
+[18:59:29] tronix22: bc
+[18:59:37] tronix22: ok
+[18:59:42] tronix22: fix motd pls
+[18:59:49] tronix22: !noclip
+[19:00:03] tronix22: pls fix motd
+[19:00:07] Lugii froze Themself
+[19:00:07] Lugii: !freeze Lugii
+[19:00:09] (csay from tronix22) pls fix motd
+[19:00:26] tronix22 unfroze Lugii
+[19:00:26] tronix22: !unfreeze lu
+[19:00:50] tronix22: noone joined
+[19:01:11] tronix22: pls fix motd
+[19:01:20] tronix22: ok
+[19:01:42] tronix22: ok
+[19:02:21] tronix22 killed Lugii using player
+[19:02:31] Lugii killed tronix22 using player
+[19:02:33] tronix22: bro
+[19:02:37] tronix22: i was testing gun
+[19:02:41] tronix22: yh 
+[19:03:51] tronix22 cloaked Themself by amount 0
+[19:03:51] tronix22: !cloak
+[19:03:54] tronix22 killed Lugii using player
+[19:04:17] tronix22 killed Lugii using player
+[19:04:25] tronix22: soz i stop now
+[19:04:36] tronix22 killed Lugii using weapon_bm_ams
+[19:04:50] tronix22 killed Lugii using player
+[19:04:55] Lugii killed tronix22 using player
+[19:05:03] Lugii granted god mode upon Themself
+[19:05:03] Lugii: !god Lugii
+[19:05:11] tronix22: how savbe prison place look
+[19:05:18] tronix22: it no save
+[19:05:22] Lugii: /buypowercable
+[19:05:31] tronix22: /buybitminer
+[19:06:02] tronix22: /rpname OWNER
+[19:06:02] tronix22<STEAM_0:1:634690584> changed their name to OWNER
+[19:06:13] OWNER: /job all jobs
+[19:06:28] Lugii: /buypowercable
+[19:06:30] OWNER: yo
+[19:06:32] Lugii: !noclip
+[19:06:34] Lugii: !noclip
+[19:06:39] OWNER: how to set and save jail pos
+[19:06:48] Lugii uncloaked OWNER
+[19:06:49] Lugii: !uncloak OWNER
+[19:06:51] OWNER: yo
+[19:06:54] OWNER: how
+[19:07:01] OWNER: do u set up movabel door
+[19:07:08] OWNER: oh
+[19:07:09] OWNER: nvm
+[19:07:44] OWNER suicided!
+[19:08:48] OWNER: umm
+[19:08:48] Lugii: !menu
+[19:08:51] OWNER: !menu
+[19:08:55] Lugii added OWNER to group owner
+[19:08:57] Lugii added Lugii to group owner
+[19:09:02] OWNER: ok
+[19:09:05] OWNER: wait
+[19:09:11] OWNER: ur gonna be co owner
+[19:09:14] OWNER: !menu
+[19:09:32] Lugii froze OWNER
+[19:09:33] OWNER created group co owner which inherits rights from group owner
+[19:09:43] OWNER added Lugii to group co owner
+[19:09:49] Lugii banned OWNER for 1 minute (Spammer)
+[19:09:49] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[19:10:00] Lugii: !bans
+[19:10:03] Lugii: !menu
+[19:10:20] Lugii unbanned steamid STEAM_0:1:634690584 (OWNER)
+[19:10:28] Lugii: !menu
+[19:10:56] Lugii renamed group co owner to co-owner
+[19:11:29] (csay from Console) pls add sniper ammo and the printers to items
+[19:11:55] (csay from Console) imma restart server so we can see if its all fixed
+[19:13:00] Server is shutting down/changing levels.
+
+
+
+[19:14:25] New map: rp_downtown_tits_v2
+[19:14:34] Client "Lugii" connected.
+[19:14:54] Client "tronix22" connected.
+[19:16:39] Client "Lugii" connected.
+[19:17:18] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 39 seconds).
+[19:17:58] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 184 seconds).
+[19:18:31] (Console) added Lugii to group superadmin
+[19:18:34] Lugii: !noclip
+[19:18:35] Lugii: !noclip
+[19:18:40] Lugii: !menu
+[19:19:07] OWNER: !ticket gay
+[19:19:13] Lugii added Lugii to group co-owner
+[19:19:19] Lugii: !noclip
+[19:19:24] Lugii: !noclip
+[19:19:37] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[19:19:41] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[19:19:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[19:19:57] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_rgb
+[19:20:01] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_cooling3
+[19:20:03] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_cooling3
+[19:20:13] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_rgb
+[19:20:22] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[19:20:23] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[19:20:24] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_ups
+[19:20:30] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:31] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:31] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:32] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:32] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:33] OWNER teleported to Lugii
+[19:20:33] OWNER: !goto l
+[19:20:33] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:34] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:34] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:35] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:35] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:36] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:36] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:37] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:37] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:38] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[19:20:55] OWNER: bitcpin miner still not working
+[19:21:03] Lugii killed OWNER using player
+[19:21:13] OWNER teleported to Lugii
+[19:21:13] OWNER: !goto l
+[19:21:16] OWNER: !got t
+[19:21:19] OWNER: !god t
+[19:21:37] OWNER: !god tron
+[19:21:43] Lugii granted god mode upon Themself
+[19:21:43] Lugii: !god Lugii
+[19:21:44] OWNER: !menu
+[19:21:49] OWNER: !noclip
+[19:21:55] OWNER: oh ye
+[19:21:58] OWNER: !menu
+[19:22:05] Lugii granted god mode upon OWNER
+[19:22:05] Lugii: !god OWNER
+[19:22:31] (Console) added OWNER to group owner
+[19:22:41] OWNER cloaked Themself by amount 0
+[19:22:41] OWNER: !cloak o
+[19:23:06] OWNER: soz
+[19:23:08] Lugii: !xban
+[19:23:11] OWNER: bro
+[19:23:13] OWNER: stop
+[19:23:15] OWNER: imma ban u then
+[19:23:21] OWNER: i was helping u
+[19:23:26] OWNER: oh ok
+[19:23:34] OWNER<STEAM_0:1:634690584> spawned sent bm2_solarconverter
+[19:23:38] OWNER<STEAM_0:1:634690584> spawned sent bm2_extra_fuel_line
+[19:23:39] OWNER<STEAM_0:1:634690584> spawned sent bm2_extra_fuel_tank
+[19:23:41] OWNER<STEAM_0:1:634690584> spawned sent bm2_large_fuel
+[19:23:49] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_shelf
+[19:23:53] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_cooling2
+[19:23:55] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_cooling3
+[19:23:58] OWNER: nah sox
+[19:24:01] OWNER: soz
+[19:24:06] Lugii uncloaked OWNER
+[19:24:06] Lugii: !uncloak OWNER
+[19:24:22] OWNER: nah soz
+[19:24:27] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:27] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:28] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:28] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:28] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:28] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:28] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:29] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:29] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:24:38] OWNER: thamks
+[19:25:06] OWNER: how money gun?
+[19:25:09] OWNER: why
+[19:26:24] OWNER: why
+[19:26:32] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[19:26:33] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[19:26:33] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[19:26:33] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[19:26:34] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[19:26:52] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[19:26:53] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[19:26:54] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[19:26:54] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[19:27:45] Lugii suicided!
+[19:27:51] Lugii teleported to OWNER
+[19:27:51] Lugii: !goto OWNER
+[19:28:05] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_combiner
+[19:28:39] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:28:40] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:28:41] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:28:42] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:28:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:29:34] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:29:34] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:29:34] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:29:34] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:29:34] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:29:35] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:29:35] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[19:30:30] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_rgb
+[19:31:23] OWNER: !nocli
+[19:31:27] OWNER: !noclip
+[19:31:37] OWNER: !noclip
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_shelf
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable_end
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable_end
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_combiner
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable_end
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_cable
+[19:32:18] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_bitcoin_screen
+[19:33:08] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_bitcoin_screen
+[19:33:44] OWNER: !noclip
+[19:33:58] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_bitcoin_screen
+[19:34:11] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_bitcoin_screen
+[19:34:46] OWNER: overheated
+[19:34:52] OWNER: it can
+[19:34:58] OWNER: look
+[19:35:47] OWNER: for u
+[19:35:53] OWNER: k
+[19:36:55] OWNER: ok
+[19:36:57] OWNER: cya
+[19:37:02] Lugii<STEAM_0:1:552352244> spawned sent srp5_printer_special
+[19:37:03] Lugii<STEAM_0:1:552352244> spawned sent srp_battery
+[19:37:04] OWNER: ok cya
+[19:37:16] OWNER: ok
+[19:37:18] OWNER: ok
+[19:37:27] OWNER: ok
+[19:37:32] OWNER: !noclip
+[19:39:44] OWNER: /addlaw hi
+[19:39:59] OWNER: /addlaw fuck me pls
+[19:40:12] OWNER: /laws
+[19:40:15] OWNER: /laws
+[19:40:32] OWNER: !tickets
+[19:42:54] OWNER<STEAM_0:1:634690584> spawned sent drone_sentity
+[19:43:00] OWNER<STEAM_0:1:634690584> spawned sent drone_nanodronemarkiii
+[19:43:36] OWNER: !
+[19:43:43] OWNER unfroze Themself
+[19:43:43] OWNER: !unfreeze o
+[19:43:51] OWNER: !noclip
+[19:44:04] OWNER<STEAM_0:1:634690584> spawned sent drone_spy
+[19:44:10] OWNER<STEAM_0:1:634690584> spawned sent drone_nanodronemarkiii
+[19:45:09] OWNER<STEAM_0:1:634690584> spawned sent drone_nanodronemarkiii
+[19:45:26] OWNER<STEAM_0:1:634690584> spawned sent drone_nanodronemarkiii
+[19:45:36] OWNER<STEAM_0:1:634690584> spawned sent drone_nanodronemarkiii
+[19:46:05] OWNER<STEAM_0:1:634690584> spawned sent drone_imbaflamethrower
+[19:46:11] OWNER<STEAM_0:1:634690584> spawned sent drone_imbamissile
+[19:46:14] OWNER<STEAM_0:1:634690584> spawned sent drone_imbalaser
+[19:46:18] OWNER<STEAM_0:1:634690584> spawned sent refuelstation_diesel
+[19:47:21] OWNER<STEAM_0:1:634690584> spawned sent pedrp_flyingdrone
+[19:47:36] OWNER<STEAM_0:1:634690584> spawned sent pedrp_predatordrone
+[19:47:39] OWNER<STEAM_0:1:634690584> spawned sent pedrp_rcheliassaultdrone
+[19:47:53] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_drrwalker
+[19:49:09] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_walkart
+[19:49:36] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_submarine
+[19:49:45] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_supply
+[19:49:52] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_stormtrooper
+[19:49:59] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_plotdr
+[20:14:15] OWNER brought Lugii
+[20:14:15] OWNER: !bring l
+[20:14:20] OWNER returned Lugii to their original position
+[20:14:20] OWNER: !return l
+[20:14:28] (csay from OWNER) i gtg
+[20:14:33] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[20:28:58] (Console) kicked Lugii (i have made changes to server and i needed to restart it, i cant test it but i have fixed the jobs ( i think ) and motd ( i think ))
+[20:28:58] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:29:05] Server is shutting down/changing levels.
+
+
+
+[20:30:24] New map: rp_downtown_tits_v2
+[21:01:11] Client "MrMillerUK" connected.
+[21:02:12] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 61 seconds).
+[21:02:59] (TEAM) MrMillerUK: !remove warn
+[21:05:41] MrMillerUK: !givemoney mr 500
+[21:05:46] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[21:21:42] Server is shutting down/changing levels.
+
+
+
+[21:38:56] New map: rp_downtown_tits_v2
+[21:39:14] Client "Lugii" connected.
+[21:40:05] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 51 seconds).
+[21:41:29] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_hacking_usb
+[21:41:43] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_antivirus_usb
+[21:42:01] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_hacking_usb
+[21:43:11] Lugii: !men'
+[21:43:13] Lugii: !menu
+[21:43:22] Lugii added Lugii to group admin
+[21:43:28] Lugii: /admin
+[21:43:52] (Console) added Lugii to group co-owner
+[21:44:02] Lugii: !noclip
+[21:44:06] Lugii: !noclip
+[21:44:42] (csay from Console) yo imma delete owner and coowner jobs bc we cant be staff on duty
+[21:45:06] (csay from Console) that ok?
+[21:45:20] (Console) removed group owner
+[21:45:42] (Console) added Lugii to group superadmin
+[21:45:57] (Console) removed group co-owner
+[21:47:02] (csay from Console) ye
+[21:47:04] Lugii: !noclip
+[21:47:14] (csay from Console) imma give u 10k for hard work
+[21:47:16] Lugii: !noclip
+[21:47:21] Lugii: !noclip
+[21:47:43] Lugii: !noclip
+[21:48:08] (csay from Console) np
+[21:48:28] Lugii<STEAM_0:1:552352244> spawned sent xenin_coinflip_npc
+[21:48:30] (csay from Console) try the theif job
+[21:49:08] (csay from Console) oh ye
+[21:49:17] (csay from Console) i need to fix theif job
+[21:49:17] Lugii: /mthief
+[21:49:28] Lugii: !menu
+[21:50:29] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:04] Lugii: !menu
+[21:51:06] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:07] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:08] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:08] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:08] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:09] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:09] (SILENT) Lugii ran rcon command: darkrp addmoney Lugii 5000
+[21:51:27] (csay from Console) uwant money here
+[21:51:34] Lugii: /buyprintertier6
+[21:55:37] (Console) ragdolled Lugii
+[21:55:44] Lugii unragdolled Themself
+[21:55:44] Lugii: !unragdoll Lugii
+[21:56:33] (Console) started a vote (test)
+[21:56:39] Lugii: 2
+[21:56:47] Lugii: yes,
+[21:56:53] Vote results: No option won because no one voted!
+[21:57:11] (Console) started a vote (test)
+[21:57:31] Vote results: No option won because no one voted!
+[21:57:44] (csay from Console) i got to go
+[21:57:52] (csay from Console) cya
+[21:58:08] (csay from Console) cya
+[21:58:22] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[21:58:23] (csay from Console) by
+[22:05:09] Client "MrMillerUK" connected.
+[22:06:11] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 62 seconds).
+[22:07:35] MrMillerUK: !nocli[
+[22:07:40] MrMillerUK: !noclip
+[22:15:57] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+<Logging continued in "data/ulx_logs/04-24-23.txt">

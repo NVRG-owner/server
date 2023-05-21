@@ -1,0 +1,137 @@
+{
+	"AdminRanks": [
+		"superadmin",
+		"owner"
+	],
+	"EffectGroups": [
+		{
+			"Effects": [
+				"shell_melon",
+				"shell_rainbow",
+				"shell_atom",
+				"shell_spiral",
+				"shell_hw2018_candycorn",
+				"shell_hw2018_ghost",
+				"shell_hw2018_pumpkin",
+				"shell_hw2018_skull",
+				"shell_hw2018_bat",
+				"specialclusterpalm",
+				"combo01_main",
+				"combo02_main",
+				"combo03_main",
+				"fountain_special01",
+				"demon_red",
+				"demon_violett",
+				"demon_blue",
+				"demon_green",
+				"demon_orange"
+			],
+			"AllowedGroups": [
+				"VIP Gold",
+				"superadmin"
+			]
+		},
+		{
+			"Effects": [
+				"shell_colorshift_whiteorange",
+				"shell_colorshift_whitered",
+				"shell_colorshift_whiteviolett",
+				"shell_colorshift_whitegreen",
+				"shell_colorshift_whiteblue",
+				"shell_colorshift_blueorange",
+				"shell_colorshift_blueviolett",
+				"shell_colorshift_greenorange",
+				"shell_colorshift_redgreen",
+				"shell_colorshift_redorange",
+				"shell_colorshift_special01",
+				"shell_colorshift_special02",
+				"zpc_explo_blue",
+				"zpc_explo_red",
+				"zpc_explo_green",
+				"zpc_explo_violett",
+				"zpc_explo_white",
+				"zpc_explo_orange",
+				"shell_explo_sparklers",
+				"shell_fiesta_orange",
+				"shell_fiesta_red",
+				"shell_fiesta_blue",
+				"shell_fiesta_violett",
+				"shell_fiesta_green",
+				"shell_twinklefan_orange",
+				"shell_twinklefan_red",
+				"shell_twinklefan_blue",
+				"shell_twinklefan_green",
+				"shell_twinklefan_violett",
+				"shell_star_violett",
+				"shell_star_blue",
+				"shell_star_green",
+				"shell_star_red",
+				"shell_star_orange"
+			],
+			"AllowedGroups": [
+				"VIP",
+				"superadmin"
+			]
+		},
+		{
+			"Effects": [
+				"shell_sparkcirclerain",
+				"shell_sparkexplosionrain",
+				"shell_orbit",
+				"rammstein01",
+				"shell_special_flower"
+			],
+			"AllowedGroups": [
+				"superadmin"
+			]
+		}
+	],
+	"IgniteOnUse": true,
+	"Player": {
+		"user": {
+			"PyroShowCoolDown": 15.0,
+			"IgniteInterval": 1.0,
+			"PyroLimit": 25.0,
+			"CraftingTime": 5.0
+		},
+		"superadmin": {
+			"PyroShowCoolDown": 5.0,
+			"IgniteInterval": 0.1,
+			"PyroLimit": 50.0,
+			"CraftingTime": 0.1
+		}
+	},
+	"EventManagerNPC": {
+		"BuildTimer": true,
+		"JobRestriction": [],
+		"ExtraPyro_CoolDown": 60.0,
+		"NotifyImage": "zerochain/zpc/ui/zpc_eventmanager_icon.png",
+		"EventChance": 50.0,
+		"ExraPyro_Limit": 10.0,
+		"SyncAccurency": 0.075,
+		"VarietyCheck": true,
+		"Model": "models/zerochain/props_firework/zpc_eventmanager.mdl",
+		"EffectPauseLimit": 10.0,
+		"ResetTime": 300.0,
+		"RefreshRate": 60.0
+	},
+	"MinTriggerTime": 0.1,
+	"currency": "$",
+	"SharedPyro": false,
+	"EffectVolumeCheck": true,
+	"Debug": false,
+	"ShellExplosion": {
+		"Damage": 10.0,
+		"ShouldDamage": false
+	},
+	"AllowClientPyro": true,
+	"FileTransfer_ErrorNotify": true,
+	"SelectedLanguage": "fr",
+	"MaxSimultaneouslyEffects": 10.0,
+	"WorkBench": {
+		"JobRestriction": []
+	},
+	"DisableEffectSizeCheck": false,
+	"EnableResourceAddfile": false,
+	"MaxFileSize": 6000.0
+}

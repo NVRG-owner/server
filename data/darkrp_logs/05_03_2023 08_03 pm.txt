@@ -1,0 +1,208 @@
+Wed May  3 20:03:12 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Wed May  3 20:03:13 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:03:37 2023	Lugii (STEAM_0:1:552352244): !warn
+Wed May  3 20:03:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:04:07 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:04:43 2023	Lugii (STEAM_0:1:552352244) added $1,000 to Lugii's wallet
+Wed May  3 20:10:05 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:11:59 2023	Lugii (STEAM_0:1:552352244) set Lugii's money to $0
+Wed May  3 20:20:50 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Wed May  3 20:20:50 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:22:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:22:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:22:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:22:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:22:57 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:21 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:23:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:24:41 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:25:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:25:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:26:05 2023	Lugii (STEAM_0:1:552352244): !
+Wed May  3 20:26:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:26:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:27:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:27:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:27:59 2023	Lugii (STEAM_0:1:552352244): !warns
+Wed May  3 20:28:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:28:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:28:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:28:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:29:20 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Wed May  3 20:29:20 2023	OWNER (STEAM_0:1:634690584) spawned
+Wed May  3 20:29:26 2023	Lugii (STEAM_0:1:552352244): !bring OWNER
+Wed May  3 20:30:05 2023	OWNER (STEAM_0:1:634690584) spawned
+Wed May  3 20:30:05 2023	Lugii (STEAM_0:1:552352244) arrested OWNER
+Wed May  3 20:30:08 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Wed May  3 20:30:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:30:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:30:32 2023	Lugii (STEAM_0:1:552352244): !unbox
+Wed May  3 20:30:41 2023	OWNER (STEAM_0:1:634690584): /unbox
+Wed May  3 20:30:45 2023	OWNER (STEAM_0:1:634690584): !unbox
+Wed May  3 20:30:53 2023	Lugii (STEAM_0:1:552352244): !unbox
+Wed May  3 20:30:59 2023	OWNER (STEAM_0:1:634690584): /unarrest o
+Wed May  3 20:30:59 2023	OWNER (STEAM_0:1:634690584) force-unarrested tronix22
+Wed May  3 20:30:59 2023	OWNER (STEAM_0:1:634690584) force-unarrested Scooter
+Wed May  3 20:31:06 2023	OWNER (STEAM_0:1:634690584): !bring l
+Wed May  3 20:31:07 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Wed May  3 20:31:12 2023	OWNER was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Wed May  3 20:31:13 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:31:19 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:31:20 2023	OWNER (STEAM_0:1:634690584): /arrest l
+Wed May  3 20:31:20 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:31:20 2023	OWNER (STEAM_0:1:634690584) force-arrested Lugii
+Wed May  3 20:31:29 2023	OWNER (STEAM_0:1:634690584): /unarrest l
+Wed May  3 20:31:29 2023	OWNER (STEAM_0:1:634690584) force-unarrested Lugii
+Wed May  3 20:31:33 2023	OWNER (STEAM_0:1:634690584) spawned
+Wed May  3 20:31:34 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Wed May  3 20:31:43 2023	Lugii (STEAM_0:1:552352244): !gag OWNER
+Wed May  3 20:31:48 2023	Lugii (STEAM_0:1:552352244): !freeze OWNER
+Wed May  3 20:31:57 2023	OWNER (STEAM_0:1:634690584): 
+Wed May  3 20:31:58 2023	Lugii (STEAM_0:1:552352244): !freeze OWNER
+Wed May  3 20:32:03 2023	OWNER (STEAM_0:1:634690584): !unfreeze o
+Wed May  3 20:32:04 2023	Lugii (STEAM_0:1:552352244): !freeze OWNER
+Wed May  3 20:32:10 2023	OWNER (STEAM_0:1:634690584): !unfreeze o
+Wed May  3 20:32:11 2023	Lugii (STEAM_0:1:552352244): !freeze OWNER
+Wed May  3 20:32:21 2023	OWNER (STEAM_0:1:634690584): !unfreeze o
+Wed May  3 20:32:22 2023	Lugii (STEAM_0:1:552352244): !freeze OWNER
+Wed May  3 20:32:28 2023	OWNER (STEAM_0:1:634690584): !unfreeze o
+Wed May  3 20:32:32 2023	Lugii (STEAM_0:1:552352244): !warn
+Wed May  3 20:32:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:32:58 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Wed May  3 20:33:01 2023	OWNER (STEAM_0:1:634690584): !warn
+Wed May  3 20:33:11 2023	Lugii (STEAM_0:1:552352244): !warns
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:47 2023	OWNER (STEAM_0:1:634690584) spawned SENT sammyservers_textscreen
+Wed May  3 20:33:47 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:47 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:47 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:33:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:34:14 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_frezzer
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_frezzingtray
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_frezzingtray
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_combiner
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT sammyservers_textscreen
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_frezzingtray
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_frezzingtray
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_frezzingtray
+Wed May  3 20:34:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:16 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:16 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:16 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab_filter
+Wed May  3 20:34:16 2023	OWNER (STEAM_0:1:634690584) spawned SENT keypad
+Wed May  3 20:34:39 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:35:27 2023	Lugii (STEAM_0:1:552352244): !warn
+Wed May  3 20:36:07 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:36:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:36:12 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Wed May  3 20:36:15 2023	Lugii (STEAM_0:1:552352244): !return
+Wed May  3 20:36:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_ar2
+Wed May  3 20:37:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:38:21 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:38:23 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 20:38:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:38:29 2023	Lugii was killed by Himself with a suicide trick
+Wed May  3 20:38:50 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:39:15 2023	OWNER (STEAM_0:1:634690584): someone joined
+Wed May  3 20:39:26 2023	OWNER (STEAM_0:1:634690584): look
+Wed May  3 20:39:31 2023	OWNER (STEAM_0:1:634690584): in cat
+Wed May  3 20:39:43 2023	OWNER (STEAM_0:1:634690584): yh k9 lady
+Wed May  3 20:43:03 2023	OWNER (STEAM_0:1:634690584): no
+Wed May  3 20:43:12 2023	OWNER (STEAM_0:1:634690584): no
+Wed May  3 20:43:35 2023	OWNER (STEAM_0:1:634690584): mine are litning cable
+Wed May  3 20:43:51 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Wed May  3 20:43:51 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:44:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:44:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:44:35 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Wed May  3 20:44:41 2023	OWNER (STEAM_0:1:634690584): yh
+Wed May  3 20:44:45 2023	OWNER (STEAM_0:1:634690584): i made some
+Wed May  3 20:45:07 2023	OWNER (STEAM_0:1:634690584): i got to go
+Wed May  3 20:45:14 2023	OWNER (STEAM_0:1:634690584): shower
+Wed May  3 20:47:35 2023	Lugii (STEAM_0:1:552352244): !levels
+Wed May  3 20:47:40 2023	Lugii (STEAM_0:1:552352244): !unbox
+Wed May  3 20:47:46 2023	Lugii (STEAM_0:1:552352244): /buy
+Wed May  3 20:47:49 2023	Lugii (STEAM_0:1:552352244): !buy
+Wed May  3 20:47:52 2023	Lugii (STEAM_0:1:552352244): /buy hi
+Wed May  3 20:48:13 2023	Lugii was killed by Entity [1401][entityflame] with a entityflame
+Wed May  3 20:48:52 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:50:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:50:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:50:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:50:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:50:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:50:46 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:51:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:51:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:51:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:51:54 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:52:14 2023	Lugii was killed by Himself with a suicide trick
+Wed May  3 20:52:37 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 20:54:57 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:55:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:56:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:57:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:57:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 20:57:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:02:06 2023	Lugii (STEAM_0:1:552352244) spawned SENT bank_vault
+Wed May  3 21:02:29 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:29 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:40 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:42 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:46 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:47 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:02:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Wed May  3 21:03:07 2023	Lugii (STEAM_0:1:552352244) spawned SENT item_healthkit
+Wed May  3 21:03:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:03:54 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:05:09 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm
+Wed May  3 21:27:18 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm
+Wed May  3 21:27:23 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm
+Wed May  3 21:27:44 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm
+Wed May  3 21:30:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:30:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:30:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:30:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:30:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:30:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:33:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:33:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:34:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:34:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:37:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:37:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:38:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:39:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:40:44 2023	Lugii (STEAM_0:1:552352244): !menu
+Wed May  3 21:52:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:52:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:52:46 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:52:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:55:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:55:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:56:24 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm
+Wed May  3 21:57:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:57:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:57:50 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:58:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:58:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 21:58:15 2023	Lugii (STEAM_0:1:552352244): !noclip

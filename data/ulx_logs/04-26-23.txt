@@ -1,0 +1,125 @@
+<Logging continued from "data/ulx_logs/04-25-23.txt">
+[01:04:35] Server is shutting down/changing levels.
+
+
+
+[16:31:30] New map: rp_downtown_tits_v2
+[17:55:31] Client "MrMillerUK" connected.
+[17:56:56] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 85 seconds).
+[17:57:39] (TEAM) MrMillerUK: !noclip
+[17:57:48] MrMillerUK: !noclip
+[17:58:51] MrMillerUK: !motd
+[18:16:18] MrMillerUK: !noclip
+[18:16:36] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[19:45:02] Client "MrMillerUK" connected.
+[19:46:15] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 73 seconds).
+[19:46:40] MrMillerUK: !warn
+[19:46:44] MrMillerUK: !warns
+[19:46:54] MrMillerUK: !warns
+[19:46:59] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[19:47:49] Client "MrMillerUK" connected.
+[19:48:32] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 43 seconds).
+[19:48:54] MrMillerUK: !noclip
+[19:49:03] MrMillerUK: !warns
+[19:50:05] MrMillerUK: !warn
+[19:50:09] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[20:52:05] Client "Lugii" connected.
+[20:53:12] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 67 seconds).
+[20:53:41] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:53:57] Client "Lugii" connected.
+[20:55:05] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 68 seconds).
+[20:55:44] Lugii: !noclip
+[20:56:10] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[20:57:03] Lugii<STEAM_0:1:552352244> spawned sent zrms_bar
+[20:57:07] Lugii: !noclip
+[20:57:46] Lugii<STEAM_0:1:552352244> spawned sent zrms_resource_gold
+[21:00:05] Lugii: !noclip
+[21:00:07] Lugii: !noclip
+[21:00:10] Lugii<STEAM_0:1:552352244> spawned sent zrms_buyer
+[21:00:19] Lugii: !noclip
+[21:00:23] Lugii<STEAM_0:1:552352244> spawned sent zrms_buyer
+[21:00:33] Lugii<STEAM_0:1:552352244> spawned sent zrms_buyer
+[21:01:10] Lugii: !noclip
+[21:01:48] Lugii<STEAM_0:1:552352244> spawned sent ent_lungs
+[21:01:52] Lugii: !noclip
+[21:01:59] Lugii<STEAM_0:1:552352244> spawned sent ent_lungs_remover
+[21:02:01] Lugii: !noclip
+[21:02:14] Lugii<STEAM_0:1:552352244> spawned sent ent_lungs
+[21:02:54] Lugii: !noclip
+[21:02:56] Lugii: !noclip
+[21:03:17] Lugii<STEAM_0:1:552352244> spawned sent ent_lungs_remover
+[21:04:06] Lugii<STEAM_0:1:552352244> spawned sent zyb_buyer_npc
+[21:04:25] Lugii: !noclip
+[21:04:27] Lugii: !noclip
+[21:04:28] Lugii: !noclip
+[21:04:31] Lugii: !noclip
+[21:04:32] Lugii: !noclip
+[21:04:33] Lugii: !noclip
+[21:04:35] Lugii<STEAM_0:1:552352244> spawned sent zyb_buyer_npc
+[21:04:39] Lugii: !noclip
+[21:04:46] Lugii<STEAM_0:1:552352244> spawned sent zyb_buyer_npc
+[21:04:58] Lugii: !noclip
+[21:13:57] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[21:14:50] Client "WalkedKO" connected.
+[21:15:41] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:17:14] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:18:13] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:18:23] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methbuyer
+[21:18:30] Server is shutting down/changing levels.
+
+
+
+[21:21:20] New map: rp_downtown_tits_v2
+[21:22:05] Client "Lugii" connected.
+[21:22:45] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 40 seconds).
+[21:23:06] Lugii: !noclip
+[21:23:17] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:23:42] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:23:55] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:24:01] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:25:03] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methbuyer
+[21:25:31] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methbuyer
+[21:25:37] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methbuyer
+[21:25:49] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methdropoff
+[21:26:01] Lugii: !noclip
+[21:26:06] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methdropoff
+[21:26:13] Lugii: !noclip
+[21:26:20] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methdropoff
+[21:26:36] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methdropoff
+[21:26:50] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methbuyer
+[21:27:51] Lugii<STEAM_0:1:552352244> spawned sent bank_vault
+[21:27:54] Lugii: !noclip
+[21:28:23] Lugii: !noclip
+[21:28:27] Lugii: !noclip
+[21:29:49] Lugii: !noclip
+[21:29:58] Lugii: !noclip
+[21:31:39] Lugii: !noclip
+[21:31:43] Lugii: !noclip
+[21:35:16] Lugii<STEAM_0:1:552352244> spawned sent zrush_drillpipe_holder
+[21:36:57] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_hacking_usb
+[21:36:59] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:03] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:03] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:17] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:18] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:23] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:23] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:37:24] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_upgrade_miner
+[21:38:29] Lugii<STEAM_0:1:552352244> spawned sent zrush_machinecrate
+[21:41:07] Lugii was killed by zrush_drillhole
+[21:41:09] Lugii: !noclip
+[21:41:12] Lugii: !noclip
+[21:41:43] Lugii<STEAM_0:1:552352244> spawned sent sent_deployableballoons
+[21:41:49] Lugii<STEAM_0:1:552352244> spawned sent sent_deployableballoons
+[21:42:00] Lugii<STEAM_0:1:552352244> spawned sent zpizmak_customertable
+[21:42:04] Lugii<STEAM_0:1:552352244> spawned sent zpizmak_oven
+[21:46:37] Lugii: !noclip
+[21:46:39] Lugii: !noclip
+[21:46:55] Lugii: !noclip
+[21:46:56] Lugii: !noclip
+[21:49:53] Lugii: !noclip
+[21:51:14] Lugii: !noclip
+[21:56:19] Lugii: !noclip
+[21:56:57] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[21:57:19] Dropped "Lugii" from server<STEAM_0:1:552352244>
+<Logging continued in "data/ulx_logs/04-27-23.txt">

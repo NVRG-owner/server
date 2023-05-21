@@ -1,0 +1,194 @@
+Sun Apr 23 11:44:50 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 11:44:50 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 11:46:38 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 11:48:47 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 11:57:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:57:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:57:50 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sun Apr 23 11:57:50 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 11:58:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_shelf
+Sun Apr 23 11:58:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_power_rtg
+Sun Apr 23 11:58:53 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 11:58:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:59:11 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 11:59:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:59:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:59:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:59:44 2023	tronix22 (STEAM_0:1:634690584): !setjailpos
+Sun Apr 23 11:59:48 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 12:00:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:00:30 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_cooling3
+Sun Apr 23 12:00:34 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_rgb
+Sun Apr 23 12:00:40 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:42 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:00:44 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 12:00:44 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 12:00:45 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 12:00:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:49 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:49 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:52 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 12:00:59 2023	Lugii (STEAM_0:1:552352244): /setjailpos
+Sun Apr 23 12:01:04 2023	tronix22 (STEAM_0:1:634690584): !setjailpos
+Sun Apr 23 12:01:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:01:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:01:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:01:18 2023	tronix22 (STEAM_0:1:634690584): !menu
+Sun Apr 23 12:01:19 2023	Lugii (STEAM_0:1:552352244): /setjailpos
+Sun Apr 23 12:01:22 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 12:01:22 2023	Lugii (STEAM_0:1:552352244) arrested tronix22
+Sun Apr 23 12:01:30 2023	tronix22 (STEAM_0:1:634690584): !unarrest t
+Sun Apr 23 12:01:40 2023	Lugii (STEAM_0:1:552352244) unarrested tronix22
+Sun Apr 23 12:01:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:01:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:01:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:01:52 2023	tronix22 (STEAM_0:1:634690584): !menu
+Sun Apr 23 12:01:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:02:15 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:02:49 2023	tronix22 was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 12:02:51 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 12:02:56 2023	tronix22 (STEAM_0:1:634690584): !god tron
+Sun Apr 23 12:02:58 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 12:03:01 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:03:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:03:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:03:20 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:03:54 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:04:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:04:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:04:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:04:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:04:34 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:04:45 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:05:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:05:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:05:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:05:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:05:35 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:06:13 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:06:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:06:27 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:06:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:06:54 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:07:14 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:07:39 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:07:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:08:00 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:08:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:08:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:08:47 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:09:14 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sun Apr 23 12:09:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:09:29 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 12:09:36 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_tent
+Sun Apr 23 12:09:37 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_equipment
+Sun Apr 23 12:11:25 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_item_autobreaker
+Sun Apr 23 12:11:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:12:21 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:13:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:13:22 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Sun Apr 23 12:13:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_dropoff
+Sun Apr 23 12:14:14 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:14:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:14:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Sun Apr 23 12:15:02 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Sun Apr 23 12:15:16 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Sun Apr 23 12:15:30 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Sun Apr 23 12:15:57 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:15:58 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Sun Apr 23 12:16:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:16:14 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_dropoff
+Sun Apr 23 12:16:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_dropoff
+Sun Apr 23 12:17:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:17:40 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:17:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:17:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:17:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:17:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:17:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:18:07 2023	Lugii (STEAM_0:1:552352244) set Lugii's money to $5,000
+Sun Apr 23 12:19:09 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:19:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:19:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:19:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:19:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:21:10 2023	tronix22 (STEAM_0:1:634690584) spawned SENT sent_jetpack
+Sun Apr 23 12:21:36 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:21:42 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:21:42 2023	tronix22 (STEAM_0:1:634690584) arrested Lugii
+Sun Apr 23 12:21:47 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:21:48 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:21:52 2023	tronix22 (STEAM_0:1:634690584) unarrested Lugii
+Sun Apr 23 12:21:54 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:21:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:21:56 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:21:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:22:21 2023	tronix22 (STEAM_0:1:634690584): /dropmoney 100000
+Sun Apr 23 12:22:22 2023	tronix22 (STEAM_0:1:634690584) has dropped $100,000
+Sun Apr 23 12:22:33 2023	Lugii (STEAM_0:1:552352244): /dropmoney 99000
+Sun Apr 23 12:22:34 2023	Lugii (STEAM_0:1:552352244) has dropped $99,000
+Sun Apr 23 12:22:34 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:22:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:22:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:23:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:23:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:23:07 2023	tronix22 (STEAM_0:1:634690584): Noclip
+Sun Apr 23 12:23:08 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:23:11 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:23:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:23:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:23:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:24:03 2023	tronix22 (STEAM_0:1:634690584) spawned SENT weapon_upgrade
+Sun Apr 23 12:24:04 2023	Lugii (STEAM_0:1:552352244): /drop
+Sun Apr 23 12:24:32 2023	tronix22 (STEAM_0:1:634690584) spawned SENT sent_jetpack
+Sun Apr 23 12:24:35 2023	tronix22 (STEAM_0:1:634690584) spawned SENT weapon_upgrade
+Sun Apr 23 12:24:54 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 12:25:34 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:26:53 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:29:32 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:35 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_imbaflamethrower
+Sun Apr 23 12:29:39 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:47 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:29:54 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:54 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:55 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:55 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:55 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:55 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:55 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Sun Apr 23 12:29:57 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 12:30:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:30:04 2023	tronix22 (STEAM_0:1:634690584): !return l
+Sun Apr 23 12:30:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:30:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:30:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:31:18 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:31:36 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_xracer
+Sun Apr 23 12:31:42 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_lasermarkiii
+Sun Apr 23 12:32:23 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 12:32:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:32:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:32:38 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100
+Sun Apr 23 12:32:40 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:32:43 2023	tronix22 (STEAM_0:1:634690584): !hp l 99999
+Sun Apr 23 12:32:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:32:55 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100
+Sun Apr 23 12:33:07 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_warriormarkiii
+Sun Apr 23 12:33:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:33:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:33:22 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:33:27 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:33:38 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:34:14 2023	tronix22 (STEAM_0:1:634690584): /drop
+Sun Apr 23 12:34:16 2023	tronix22 was killed by Lugii with a m9k_deagle
+Sun Apr 23 12:34:17 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 12:34:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:34:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:35:04 2023	tronix22 (STEAM_0:1:634690584): /drop
+Sun Apr 23 12:35:16 2023	tronix22 (STEAM_0:1:634690584) disconnected

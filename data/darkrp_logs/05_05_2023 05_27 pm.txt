@@ -1,0 +1,126 @@
+Fri May  5 17:27:10 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Fri May  5 17:27:10 2023	Lugii (STEAM_0:1:552352244) spawned
+Fri May  5 17:29:15 2023	Lugii (STEAM_0:1:552352244): 
+Fri May  5 17:29:20 2023	Lugii (STEAM_0:1:552352244): !warn
+Fri May  5 17:29:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:29:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:29:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:29:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:37:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:37:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:37:52 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Fri May  5 17:37:52 2023	OWNER (STEAM_0:1:634690584) spawned
+Fri May  5 17:38:51 2023	OWNER was killed by Lugii with a m9k_deagle
+Fri May  5 17:39:20 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:40:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:18 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:20 2023	OWNER (STEAM_0:1:634690584) spawned
+Fri May  5 17:41:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:41:47 2023	OWNER (STEAM_0:1:634690584): !bring lug
+Fri May  5 17:42:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:42:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:42:22 2023	Lugii (STEAM_0:1:552352244): 
+Fri May  5 17:42:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:43:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:44:00 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Fri May  5 17:44:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:44:07 2023	Lugii (STEAM_0:1:552352244): !hp OWNER 100
+Fri May  5 17:44:28 2023	OWNER (STEAM_0:1:634690584): !hp o 100
+Fri May  5 17:45:23 2023	OWNER (STEAM_0:1:634690584): !hp o 100
+Fri May  5 17:45:23 2023	Lugii (STEAM_0:1:552352244): !hp OWNER 100
+Fri May  5 17:45:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:45:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:45:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:45:38 2023	Lugii (STEAM_0:1:552352244): !hp OWNER 100
+Fri May  5 17:45:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:47:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:47:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:47:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:47:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:47:33 2023	Lugii (STEAM_0:1:552352244): DarkRP.createShipment("Colt Python", {    entity = "m9k_coltpython",    model = "models/weapons/m9k_coltpython",    amoun
+Fri May  5 17:47:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:47:47 2023	OWNER (STEAM_0:1:634690584): !hp owner 999999
+Fri May  5 17:48:02 2023	Lugii (STEAM_0:1:552352244): !hp Owner 100
+Fri May  5 17:48:11 2023	Lugii (STEAM_0:1:552352244): !hp Owner 100
+Fri May  5 17:48:14 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100
+Fri May  5 17:48:14 2023	OWNER (STEAM_0:1:634690584): !ignite lug
+Fri May  5 17:48:18 2023	Lugii (STEAM_0:1:552352244): !menu
+Fri May  5 17:48:26 2023	Lugii (STEAM_0:1:552352244): !hp Owner 100
+Fri May  5 17:48:32 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100
+Fri May  5 17:48:44 2023	Lugii (STEAM_0:1:552352244): !hp OWNER 100
+Fri May  5 17:48:46 2023	OWNER (STEAM_0:1:634690584): !god o
+Fri May  5 17:48:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:48:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 17:48:58 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 18:06:05 2023	OWNER (STEAM_0:1:634690584): !goto lug
+Fri May  5 18:06:23 2023	Lugii was killed by OWNER with a m9k_scoped_taurus
+Fri May  5 18:18:23 2023	OWNER (STEAM_0:1:634690584) added $100,000 to tronix22's wallet
+Fri May  5 18:18:30 2023	OWNER (STEAM_0:1:634690584): /dropmoney 100
+Fri May  5 18:18:31 2023	OWNER (STEAM_0:1:634690584) has dropped $100
+Fri May  5 18:19:07 2023	OWNER (STEAM_0:1:634690584): /dropmoney 100
+Fri May  5 18:19:08 2023	OWNER (STEAM_0:1:634690584) has dropped $100
+Fri May  5 18:19:11 2023	OWNER (STEAM_0:1:634690584): ldropmoney 100#
+Fri May  5 18:21:21 2023	OWNER (STEAM_0:1:634690584) spawned SENT bank_vault
+Fri May  5 18:23:35 2023	OWNER (STEAM_0:1:634690584): !unignite o
+Fri May  5 18:23:47 2023	OWNER (STEAM_0:1:634690584) spawned SENT realistic_properties_box
+Fri May  5 18:23:49 2023	OWNER (STEAM_0:1:634690584) spawned SENT realistic_properties_computer
+Fri May  5 18:23:50 2023	OWNER (STEAM_0:1:634690584) spawned SENT realistic_properties_computer
+Fri May  5 18:24:00 2023	OWNER (STEAM_0:1:634690584) spawned SENT realistic_properties_npc
+Fri May  5 18:24:19 2023	OWNER (STEAM_0:1:634690584) spawned SENT realistic_properties_computer
+Fri May  5 18:26:07 2023	OWNER (STEAM_0:1:634690584) spawned SENT srp1_printer
+Fri May  5 18:26:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT srp2_printer
+Fri May  5 18:26:11 2023	OWNER (STEAM_0:1:634690584) spawned SENT slownls_atm_money
+Fri May  5 18:26:14 2023	OWNER (STEAM_0:1:634690584) spawned SENT slownls_atm_money
+Fri May  5 18:27:02 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Fri May  5 18:27:19 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_rack
+Fri May  5 18:27:52 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_rack
+Fri May  5 18:28:08 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:10 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:11 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:12 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:29 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:56 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:28:58 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_server
+Fri May  5 18:29:01 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_1
+Fri May  5 18:29:03 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_bitminer_2
+Fri May  5 18:29:26 2023	OWNER (STEAM_0:1:634690584) spawned SENT edit_fog
+Fri May  5 18:29:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT edit_sun
+Fri May  5 18:29:38 2023	OWNER (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Fri May  5 18:29:42 2023	OWNER (STEAM_0:1:634690584) spawned SENT pax_scoreboard
+Fri May  5 18:29:58 2023	OWNER (STEAM_0:1:634690584) spawned SENT slownls_atm
+Fri May  5 18:30:14 2023	OWNER (STEAM_0:1:634690584) spawned SENT wac_pl_icona5
+Fri May  5 18:31:05 2023	OWNER (STEAM_0:1:634690584) spawned SENT jobcreator_npc
+Fri May  5 18:31:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT jobcreator_npc
+Fri May  5 18:33:30 2023	OWNER (STEAM_0:1:634690584) spawned SENT jobcreator_conversion_npc
+Fri May  5 18:33:37 2023	OWNER (STEAM_0:1:634690584) spawned SENT jobcreator_conversion_npc
+Fri May  5 18:33:44 2023	OWNER (STEAM_0:1:634690584) spawned SENT deathscreen_npc
+Fri May  5 18:33:55 2023	OWNER (STEAM_0:1:634690584) spawned SENT zgw_mat
+Fri May  5 18:34:00 2023	OWNER (STEAM_0:1:634690584) spawned SENT zgw_goldwasher
+Fri May  5 19:54:49 2023	hater of woman (STEAM_0:0:208720595) has joined the game
+Fri May  5 19:54:49 2023	hater of woman (STEAM_0:0:208720595) spawned
+Fri May  5 19:59:27 2023	Lugii (STEAM_0:1:552352244) spawned
+Fri May  5 19:59:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 19:59:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 19:59:37 2023	Lugii (STEAM_0:1:552352244): !goto 
+Fri May  5 19:59:42 2023	Lugii (STEAM_0:1:552352244): !goto hater of woman
+Fri May  5 20:00:47 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100
+Fri May  5 20:01:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 20:01:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 20:01:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 20:01:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 20:02:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 20:03:09 2023	Lugii (STEAM_0:1:552352244): !goto hater of woman
+Fri May  5 20:03:19 2023	Lugii (STEAM_0:1:552352244): !view hater of woman
+Fri May  5 20:09:10 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Fri May  5 20:09:10 2023	Lugii (STEAM_0:1:552352244) spawned
+Fri May  5 20:12:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT slownls_atm
+Fri May  5 20:14:41 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 5
+Fri May  5 20:14:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 20:14:53 2023	Lugii (STEAM_0:1:552352244): !noclip

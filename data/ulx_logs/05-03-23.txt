@@ -1,0 +1,466 @@
+<Logging continued from "data/ulx_logs/05-02-23.txt">
+[01:25:06] Server is shutting down/changing levels.
+
+
+
+[20:00:47] New map: rp_downtown_tits_v2
+[20:01:22] Client "Lugii" connected.
+[20:01:23] Client "1+1=11" connected.
+[20:01:23] Client "" spawned in server <BOT> (took 134 seconds).
+[20:01:23] Client "Katt <3" connected.
+[20:01:23] Client "" spawned in server <BOT> (took 134 seconds).
+[20:01:23] Client "Lucy" connected.
+[20:01:23] Client "" spawned in server <BOT> (took 134 seconds).
+[20:01:23] Client "Trina" connected.
+[20:01:23] Client "" spawned in server <BOT> (took 134 seconds).
+[20:01:23] Client "DION" connected.
+[20:01:23] Client "" spawned in server <BOT> (took 134 seconds).
+[20:01:24] ~Katt~ <3<BOT> changed their name to Katt <3
+[20:03:12] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 110 seconds).
+[20:03:13] Dropped "1+1=11" from server<BOT>
+[20:03:42] Lugii: !noclip
+[20:04:07] Lugii: !noclip
+[20:12:13] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:12:13] Client "d(^_^)b" connected.
+[20:12:13] Client "" spawned in server <BOT> (took 784 seconds).
+[20:12:13] Dropped "d(^_^)b" from server<BOT>
+[20:12:13] Client "Rarity" connected.
+[20:12:13] Client "" spawned in server <BOT> (took 784 seconds).
+[20:12:13] Dropped "Katt <3" from server<BOT>
+[20:12:13] Client "C4k3" connected.
+[20:12:13] Client "" spawned in server <BOT> (took 784 seconds).
+[20:12:13] Dropped "Lucy" from server<BOT>
+[20:12:13] Client "Scooter" connected.
+[20:12:13] Client "" spawned in server <BOT> (took 784 seconds).
+[20:12:14] Dropped "Trina" from server<BOT>
+[20:12:14] Client "Derp" connected.
+[20:12:14] Client "" spawned in server <BOT> (took 785 seconds).
+[20:12:14] Dropped "DION" from server<BOT>
+[20:12:14] Client "Pixies" connected.
+[20:12:14] Client "" spawned in server <BOT> (took 785 seconds).
+[20:19:28] Client "Lugii" connected.
+[20:20:50] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 82 seconds).
+[20:20:50] Dropped "Rarity" from server<BOT>
+[20:22:15] Lugii: !noclip
+[20:22:16] Lugii: !noclip
+[20:22:49] Lugii: !noclip
+[20:22:51] Lugii: !noclip
+[20:22:57] Lugii: !noclip
+[20:23:05] Lugii: !noclip
+[20:23:19] Lugii: !noclip
+[20:23:21] Lugii: !noclip
+[20:23:31] Lugii: !noclip
+[20:23:41] Lugii: !noclip
+[20:23:43] Client "tronix22" connected.
+[20:23:43] Lugii: !noclip
+[20:23:44] Lugii: !noclip
+[20:25:16] Lugii: !noclip
+[20:25:49] Lugii: !noclip
+[20:26:05] Lugii: !
+[20:26:09] Lugii: !noclip
+[20:26:26] Lugii: !noclip
+[20:27:47] Lugii: !noclip
+[20:27:52] Lugii: !noclip
+[20:28:11] Lugii: !noclip
+[20:28:13] Lugii: !noclip
+[20:28:26] Lugii: !noclip
+[20:28:35] Lugii: !noclip
+[20:29:20] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 337 seconds).
+[20:29:21] Dropped "C4k3" from server<BOT>
+[20:29:26] Lugii brought OWNER
+[20:29:26] Lugii: !bring OWNER
+[20:30:08] Lugii teleported to OWNER
+[20:30:08] Lugii: !goto OWNER
+[20:30:10] Lugii: !noclip
+[20:30:16] Lugii: !noclip
+[20:30:32] Lugii: !unbox
+[20:30:41] OWNER: /unbox
+[20:30:45] OWNER: !unbox
+[20:30:53] Lugii: !unbox
+[20:30:59] OWNER: /unarrest o
+[20:31:06] OWNER brought Lugii
+[20:31:06] OWNER: !bring l
+[20:31:07] Lugii teleported to OWNER
+[20:31:07] Lugii: !goto OWNER
+[20:31:12] Lugii killed OWNER using player
+[20:31:20] OWNER: /arrest l
+[20:31:29] OWNER: /unarrest l
+[20:31:34] Lugii teleported to OWNER
+[20:31:34] Lugii: !goto OWNER
+[20:31:43] Lugii gagged OWNER
+[20:31:43] Lugii: !gag OWNER
+[20:31:48] Lugii froze OWNER
+[20:31:48] Lugii: !freeze OWNER
+[20:31:58] Lugii: !freeze OWNER
+[20:32:03] OWNER unfroze Themself,Scooter
+[20:32:03] OWNER: !unfreeze o
+[20:32:04] Lugii froze OWNER
+[20:32:04] Lugii: !freeze OWNER
+[20:32:10] OWNER unfroze Themself,Scooter
+[20:32:10] OWNER: !unfreeze o
+[20:32:11] Lugii froze OWNER
+[20:32:11] Lugii: !freeze OWNER
+[20:32:21] OWNER unfroze Themself,Scooter
+[20:32:21] OWNER: !unfreeze o
+[20:32:22] Lugii froze OWNER
+[20:32:22] Lugii: !freeze OWNER
+[20:32:28] OWNER unfroze Themself,Scooter
+[20:32:28] OWNER: !unfreeze o
+[20:32:53] Lugii: !noclip
+[20:32:58] Lugii teleported to OWNER
+[20:32:58] Lugii: !goto OWNER
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube3x4x025.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x4x025.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x4x025.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube1x2x1.mdl
+[20:33:46] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned sent sammyservers_textscreen
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:33:47] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:33:52] Lugii: !noclip
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned sent zmlab_frezzer
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube3x4x025.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:14] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab_frezzingtray
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x4x025.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab_frezzingtray
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab_combiner
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x3x025.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent sammyservers_textscreen
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab_frezzingtray
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab_frezzingtray
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube1x2x1.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate4x7.mdl
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab_frezzingtray
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:15] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/canister02a.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned sent zmlab_filter
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x4x025.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/plates/plate8x8.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[20:34:16] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x1.mdl
+[20:36:07] Lugii: !noclip
+[20:36:09] Lugii: !noclip
+[20:36:12] Lugii teleported to OWNER
+[20:36:12] Lugii: !goto OWNER
+[20:36:15] Lugii returned Themself to their original position
+[20:36:15] Lugii: !return
+[20:36:57] Lugii<STEAM_0:1:552352244> spawned sent m9k_ammo_ar2
+[20:37:33] Lugii: !noclip
+[20:38:26] Lugii: !noclip
+[20:38:29] Lugii suicided!
+[20:38:53] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:38:53] Client "K9 Lady" connected.
+[20:38:53] Client "" spawned in server <BOT> (took 2384 seconds).
+[20:39:15] OWNER: someone joined
+[20:39:26] OWNER: look
+[20:39:31] OWNER: in cat
+[20:39:43] OWNER: yh k9 lady
+[20:41:15] Client "Lugii" connected.
+[20:43:03] OWNER: no
+[20:43:12] OWNER: no
+[20:43:35] OWNER: mine are litning cable
+[20:43:51] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 156 seconds).
+[20:43:51] Dropped "K9 Lady" from server<BOT>
+[20:44:30] Lugii: !noclip
+[20:44:32] Lugii: !noclip
+[20:44:35] Lugii teleported to OWNER
+[20:44:35] Lugii: !goto OWNER
+[20:44:41] OWNER: yh
+[20:44:45] OWNER: i made some
+[20:45:07] OWNER: i got to go
+[20:45:14] OWNER: shower
+[20:45:16] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[20:45:16] Client "Moi Loca" connected.
+[20:45:16] Client "" spawned in server <BOT> (took 2767 seconds).
+[20:47:35] Lugii: !levels
+[20:47:40] Lugii: !unbox
+[20:47:46] Lugii: /buy
+[20:47:49] Lugii: !buy
+[20:47:52] Lugii: /buy hi
+[20:48:13] Lugii was killed by entityflame
+[20:50:28] Lugii: !noclip
+[20:50:35] Lugii: !noclip
+[20:50:41] Lugii: !noclip
+[20:50:42] Lugii: !noclip
+[20:50:43] Lugii: !noclip
+[20:50:46] Lugii: !noclip
+[20:51:24] Lugii: !noclip
+[20:51:26] Lugii: !noclip
+[20:51:44] Lugii: !noclip
+[20:51:54] Lugii: !noclip
+[20:51:57] Lugii<STEAM_0:1:552352244> spawned model models/props_c17/trappropeller_blade.mdl
+[20:52:14] Lugii suicided!
+[20:54:57] Lugii: !noclip
+[20:55:02] Lugii: !noclip
+[20:56:56] Lugii: !noclip
+[20:57:05] Lugii: !noclip
+[20:57:27] Lugii: !noclip
+[20:57:30] Lugii: !noclip
+[21:02:06] Lugii<STEAM_0:1:552352244> spawned sent bank_vault
+[21:02:29] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:29] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:40] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:42] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:46] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:47] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:48] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:50] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:02:51] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:03:07] Lugii<STEAM_0:1:552352244> spawned sent item_healthkit
+[21:03:44] Lugii: !noclip
+[21:03:54] Lugii: !noclip
+[21:04:27] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001b.mdl
+[21:05:09] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[21:27:05] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001b.mdl
+[21:27:08] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001b.mdl
+[21:27:12] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001b.mdl
+[21:27:13] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001b.mdl
+[21:27:15] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001b.mdl
+[21:27:18] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[21:27:23] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[21:27:44] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[21:30:10] Lugii: !noclip
+[21:30:11] Lugii: !noclip
+[21:30:17] Lugii: !noclip
+[21:30:19] Lugii: !noclip
+[21:30:33] Lugii: !noclip
+[21:30:39] Lugii: !noclip
+[21:33:45] Lugii: !noclip
+[21:33:48] Lugii: !noclip
+[21:34:13] Lugii: !noclip
+[21:34:15] Lugii: !noclip
+[21:37:45] Lugii: !noclip
+[21:37:48] Lugii: !noclip
+[21:38:44] Lugii: !noclip
+[21:39:00] Lugii: !noclip
+[21:40:44] Lugii: !menu
+[21:52:33] Lugii: !noclip
+[21:52:44] Lugii: !noclip
+[21:52:46] Lugii: !noclip
+[21:52:49] Lugii: !noclip
+[21:55:32] Lugii: !noclip
+[21:55:34] Lugii: !noclip
+[21:56:24] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[21:57:22] Lugii: !noclip
+[21:57:24] Lugii: !noclip
+[21:57:50] Lugii: !noclip
+[21:58:06] Lugii: !noclip
+[21:58:13] Lugii: !noclip
+[21:58:15] Lugii: !noclip
+[21:58:20] Server is shutting down/changing levels.
+
+
+
+[22:00:46] New map: rp_downtown_tits_v2
+[22:06:10] Client "Lugii" connected.
+[22:06:11] Client "Apple Bloom" connected.
+[22:06:11] Client "" spawned in server <BOT> (took 408 seconds).
+[22:06:11] Client "><|||>" connected.
+[22:06:11] Client "" spawned in server <BOT> (took 408 seconds).
+[22:06:11] Client "Cr33p3r" connected.
+[22:06:11] Client "" spawned in server <BOT> (took 408 seconds).
+[22:06:11] Client "Cookie" connected.
+[22:06:11] Client "" spawned in server <BOT> (took 408 seconds).
+[22:06:11] Client "Cerberus" connected.
+[22:06:11] Client "" spawned in server <BOT> (took 408 seconds).
+[22:07:28] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 78 seconds).
+[22:07:28] Dropped "Apple Bloom" from server<BOT>
+[22:07:58] (Console) added Lugii to group VIP
+[22:08:10] (Console) added Lugii to group superadmin
+[22:08:35] Lugii: !noclip
+[22:08:39] Lugii: !noclip
+[22:10:40] Lugii: !noclip
+[22:10:42] Lugii: !noclip
+[22:10:49] Lugii: !noclip
+[22:10:53] Lugii: !noclip
+[22:11:54] Lugii: !noclip
+[22:12:03] Lugii: !noclip
+[22:18:06] Lugii: !noclip
+[22:18:08] Lugii: !noclip
+[22:18:10] Lugii: !noclip
+[22:18:11] Lugii: !noclip
+[22:18:12] Lugii: !noclip
+[22:18:13] Lugii: !noclip
+[22:22:34] Lugii: !noclip
+[22:22:35] Lugii: !noclip
+[22:22:36] Lugii: !noclip
+[22:22:37] Lugii: !noclip
+[22:22:38] Lugii: !noclip
+[22:22:41] (Console) added Lugii to group VIP
+[22:23:17] (Console) added Lugii to group superadmin
+[22:23:24] Lugii: !noclip
+[22:23:27] Lugii: !noclip
+[22:23:28] Lugii: !noclip
+[22:23:30] Lugii: !noclip
+[22:23:30] Lugii: !noclip
+[22:23:32] Lugii: !noclip
+[22:23:34] Lugii: !noclip
+[22:46:55] Dropped "Cerberus" from server<BOT>
+[22:46:55] Client "Nuclear Reactor Party!" connected.
+[22:46:55] Client "" spawned in server <BOT> (took 2852 seconds).
+[22:47:53] Server is shutting down/changing levels.
+
+
+
+[22:50:15] New map: rp_downtown_tits_v2
+[22:50:42] Client "Lugii" connected.
+[22:50:43] Client "Swexy" connected.
+[22:50:43] Client "" spawned in server <BOT> (took 114 seconds).
+[22:50:43] Client "DYSON" connected.
+[22:50:43] Client "" spawned in server <BOT> (took 114 seconds).
+[22:50:43] Client "Fee" connected.
+[22:50:43] Client "" spawned in server <BOT> (took 114 seconds).
+[22:50:43] Client "Donald Trump" connected.
+[22:50:43] Client "" spawned in server <BOT> (took 114 seconds).
+[22:50:43] Client "Broomhilda von Shaft" connected.
+[22:50:43] Client "" spawned in server <BOT> (took 114 seconds).
+[22:52:00] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 78 seconds).
+[22:52:00] Dropped "Swexy" from server<BOT>
+[22:52:51] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_npc
+[22:52:56] Lugii: !noclip
+[22:55:42] Lugii: !noclip
+[22:55:49] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_npc
+[22:56:10] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_box
+[22:56:13] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_npc
+[22:56:14] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_computer
+[22:56:29] Lugii: !noclip
+[22:57:45] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_npc
+[22:58:08] Lugii: !noclip
+[22:58:45] Lugii: !noclip
+[23:02:45] Lugii: !noclip
+[23:02:47] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_box
+[23:03:10] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_npc
+[23:04:31] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[23:04:31] Client "Hot Lips" connected.
+[23:04:31] Client "" spawned in server <BOT> (took 942 seconds).
+[23:04:31] Dropped "Hot Lips" from server<BOT>
+[23:04:31] Client "1+1=11" connected.
+[23:04:31] Client "" spawned in server <BOT> (took 942 seconds).
+[23:04:31] Dropped "DYSON" from server<BOT>
+[23:04:32] Client "Buttercup" connected.
+[23:04:32] Client "" spawned in server <BOT> (took 943 seconds).
+[23:04:32] Dropped "Fee" from server<BOT>
+[23:04:32] Client "Sexy Bunny" connected.
+[23:04:32] Client "" spawned in server <BOT> (took 943 seconds).
+[23:04:32] Dropped "Donald Trump" from server<BOT>
+[23:04:32] Client "Fluffy" connected.
+[23:04:32] Client "" spawned in server <BOT> (took 943 seconds).
+[23:04:32] Dropped "Broomhilda von Shaft" from server<BOT>
+[23:04:32] Client "Ace" connected.
+[23:04:32] Client "" spawned in server <BOT> (took 943 seconds).
+<Logging continued in "data/ulx_logs/05-04-23.txt">

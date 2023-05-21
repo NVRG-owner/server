@@ -1,0 +1,41 @@
+Sun Apr 23 21:40:05 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 21:40:05 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 21:41:29 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_hacking_usb
+Sun Apr 23 21:41:43 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_antivirus_usb
+Sun Apr 23 21:42:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_hacking_usb
+Sun Apr 23 21:43:11 2023	Lugii (STEAM_0:1:552352244): !men'
+Sun Apr 23 21:43:13 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 21:43:28 2023	Lugii (STEAM_0:1:552352244): /admin
+Sun Apr 23 21:44:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 21:44:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 21:46:44 2023	Console added $500 to Lugii's wallet
+Sun Apr 23 21:47:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 21:47:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 21:47:21 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 21:47:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 21:47:57 2023	Console added $10,000 to Lugii's wallet
+Sun Apr 23 21:48:28 2023	Lugii (STEAM_0:1:552352244) spawned SENT xenin_coinflip_npc
+Sun Apr 23 21:49:17 2023	Lugii (STEAM_0:1:552352244): /mthief
+Sun Apr 23 21:49:28 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 21:50:29 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:04 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 21:51:06 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:07 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:08 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:08 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:08 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:09 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:09 2023	Console added $5,000 to Lugii's wallet
+Sun Apr 23 21:51:34 2023	Lugii (STEAM_0:1:552352244): /buyprintertier6
+Sun Apr 23 21:51:50 2023	Console added $100,000 to Lugii's wallet
+Sun Apr 23 21:55:44 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 21:55:44 2023	Lugii (STEAM_0:1:552352244): !unragdoll Lugii
+Sun Apr 23 21:56:39 2023	Lugii (STEAM_0:1:552352244): 2
+Sun Apr 23 21:56:47 2023	Lugii (STEAM_0:1:552352244): yes,
+Sun Apr 23 21:58:22 2023	Lugii (STEAM_0:1:552352244) disconnected
+Sun Apr 23 22:06:11 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sun Apr 23 22:06:11 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sun Apr 23 22:07:35 2023	MrMillerUK (STEAM_0:1:525475507): !nocli[
+Sun Apr 23 22:07:40 2023	MrMillerUK (STEAM_0:1:525475507): !noclip
+Sun Apr 23 22:15:49 2023	MrMillerUK (STEAM_0:1:525475507): 
+Sun Apr 23 22:15:57 2023	MrMillerUK (STEAM_0:1:525475507) disconnected

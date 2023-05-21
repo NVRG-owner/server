@@ -1,0 +1,763 @@
+[17:45:51] New map: rp_downtown_tits_v2
+[17:46:34] Server is shutting down/changing levels.
+
+
+
+[17:47:21] New map: rp_downtown_tits_v2
+[17:47:37] Client "tronix22" connected.
+[17:48:09] Server is shutting down/changing levels.
+
+
+
+[17:53:21] New map: rp_downtown_tits_v2
+[17:53:21] Server is shutting down/changing levels.
+
+
+
+[17:55:05] New map: rp_downtown_tits_v2
+[17:55:22] Server is shutting down/changing levels.
+
+
+
+[19:11:34] New map: rp_downtown_tits_v2
+[19:11:45] Client "Lugii" connected.
+[19:12:38] Client "tronix22" connected.
+[19:13:18] Server is shutting down/changing levels.
+
+
+
+[19:16:31] New map: rp_downtown_tits_v2
+[19:16:37] Client "tronix22" connected.
+[19:17:24] Client "Lugii" connected.
+[19:18:26] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 62 seconds).
+[19:20:10] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 213 seconds).
+[19:21:32] (Console) added tronix22 to group superadmin
+[19:21:46] tronix22: !noclip
+[19:25:49] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[19:26:07] Client "tronix22" connected.
+[19:27:29] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 82 seconds).
+[19:28:46] tronix22 to admins: hi
+[19:28:52] tronix22: !noclip
+[19:28:58] tronix22 kicked Themself
+[19:28:58] tronix22: !kick t
+[19:28:58] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[19:32:28] Server is shutting down/changing levels.
+
+
+
+[19:34:14] New map: rp_downtown_tits_v2
+[19:36:40] Client "tronix22" connected.
+[19:37:45] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 65 seconds).
+[19:38:54] tronix22<STEAM_0:1:634690584> spawned sent drone_nanodrone
+[19:40:07] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_exmac
+[19:40:12] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_balltur
+[19:40:14] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_bird
+[19:40:24] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[19:40:42] tronix22: /dropmoney 500
+[19:40:49] tronix22<STEAM_0:1:634690584> spawned sent fpv_drone
+[19:41:01] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:41:06] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:41:18] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:41:26] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:41:37] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:41:41] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:41:53] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:42:13] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:42:24] tronix22<STEAM_0:1:634690584> spawned sent zwf_generator
+[19:42:29] tronix22<STEAM_0:1:634690584> spawned sent zwf_bong03_ent
+[19:42:49] tronix22<STEAM_0:1:634690584> spawned sent zwf_fuel
+[19:42:52] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:43:00] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:43:20] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:43:41] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[19:44:15] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[20:13:16] Server is shutting down/changing levels.
+
+
+
+[20:14:15] New map: rp_downtown_tits_v2
+[20:24:04] Server is shutting down/changing levels.
+
+
+
+[20:25:05] New map: rp_downtown_tits_v2
+[20:25:27] Client "tronix22" connected.
+[20:26:35] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 68 seconds).
+[20:27:59] Client "mery" connected.
+[20:28:20] tronix22: /pm mery the server is broken
+[20:28:48] tronix22: !bring m
+[20:29:29] tronix22: !bring m
+[20:30:25] Client "mery" spawned in server <STEAM_0:0:568544381> (took 146 seconds).
+[20:30:32] tronix22: mery
+[20:30:39] tronix22: the server is broken
+[20:30:48] tronix22: im fixing it now
+[20:30:56] mery: tronix why did you remove my commands
+[20:31:10] tronix22 brought mery
+[20:31:10] tronix22: !bring m
+[20:31:13] tronix22: yo
+[20:31:18] tronix22: server is broken
+[20:31:25] tronix22 brought mery
+[20:31:25] tronix22: !bring m
+[20:31:29] tronix22: yo
+[20:31:36] tronix22: server is brokn
+[20:31:42] tronix22: im fixing it now
+[20:32:17] tronix22 brought mery
+[20:32:17] tronix22: !bring m
+[20:32:21] tronix22: na
+[20:32:27] tronix22: broken im fixing
+[20:32:33] tronix22: imma shut it down
+[20:32:35] tronix22: and fix
+[20:32:50] Server is shutting down/changing levels.
+
+
+
+[22:26:39] New map: rp_downtown_tits_v2
+[22:27:06] Client "Lugii" connected.
+[22:27:37] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 31 seconds).
+[22:28:16] Server is shutting down/changing levels.
+
+
+
+[22:31:02] New map: rp_downtown_tits_v2
+[22:31:16] Client "MrMillerUK" connected.
+[22:31:34] Client "Lugii" connected.
+[22:31:47] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 31 seconds).
+[22:32:04] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 30 seconds).
+[22:32:23] Lugii: !menu
+[22:34:05] (Console) added Lugii to group superadmin
+[22:35:36] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[22:36:15] Client "tronix22" connected.
+[22:36:45] Client "MrMillerUK" connected.
+[22:37:09] Lugii: !kick MrMillerUK Internet Error
+[22:37:15] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 30 seconds).
+[22:37:59] Lugii: !restart
+[22:38:04] Lugii: !menu
+[22:38:59] Lugii: /drop
+[22:39:09] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 174 seconds).
+[22:39:12] MrMillerUK killed Lugii using player
+[22:39:16] Lugii: !noclip
+[22:39:32] Lugii granted god mode upon Themself
+[22:39:32] Lugii: !god Lugii
+[22:39:34] Lugii: !noclip
+[22:39:45] Lugii stripped weapons from MrMillerUK
+[22:39:45] Lugii: !strip MrMillerUK
+[22:40:00] tronix22: !menu
+[22:40:12] Lugii: !return
+[22:40:26] Lugii brought MrMillerUK
+[22:40:26] Lugii: !bring MrMillerUK
+[22:40:30] Lugii returned MrMillerUK to their original position
+[22:40:30] Lugii: !return MrMillerUK
+[22:40:39] tronix22 to admins: hi
+[22:40:41] tronix22: yh
+[22:40:47] tronix22: !noclip
+[22:40:52] tronix22: i di
+[22:40:59] tronix22: i idd
+[22:41:01] tronix22: did
+[22:41:49] Lugii brought MrMillerUK
+[22:41:49] Lugii: !bring MrMillerUK
+[22:41:55] Lugii returned MrMillerUK to their original position
+[22:41:55] Lugii: !return MrMillerUK
+[22:42:08] tronix22: /superstaff
+[22:42:13] tronix22: /staff
+[22:42:22] Lugii brought MrMillerUK
+[22:42:22] Lugii: !bring MrMillerUK
+[22:42:24] tronix22: oh we need to restart to make changes
+[22:42:28] Server is shutting down/changing levels.
+
+
+
+[22:43:20] New map: rp_downtown_tits_v2
+[22:45:42] Client "Lugii" connected.
+[22:46:06] Client "tronix22" connected.
+[22:46:09] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 27 seconds).
+[22:47:13] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 67 seconds).
+[22:47:25] Client "MrMillerUK" connected.
+[22:47:38] Server is shutting down/changing levels.
+
+
+
+[22:48:30] New map: rp_downtown_tits_v2
+[22:48:39] Client "Lugii" connected.
+[22:49:12] (Console) created group owner which inherits rights from group user
+[22:49:25] (Console) removed group owner
+[22:49:32] Client "MrMillerUK" connected.
+[22:49:39] (Console) created group owner which inherits rights from group superadmin
+[22:50:02] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 30 seconds).
+[22:51:04] Client "Lugii" connected.
+[22:51:35] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 31 seconds).
+[22:52:15] MrMillerUK: !menu
+[22:52:58] Server is shutting down/changing levels.
+
+
+
+[22:53:54] New map: rp_downtown_tits_v2
+[22:54:00] Client "Lugii" connected.
+[22:54:14] Client "MrMillerUK" connected.
+[22:54:35] Client "tronix22" connected.
+[22:54:44] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 30 seconds).
+[22:55:12] MrMillerUK: !MENU
+[22:55:39] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 64 seconds).
+[22:55:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_c17/gravestone003a.mdl
+[22:55:48] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[22:55:50] Client "Lugii" connected.
+[22:56:23] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 33 seconds).
+[22:56:30] tronix22: !menu
+[22:56:36] tronix22 added tronix22 to group owner
+[22:56:45] tronix22: /ownerstaff
+[22:58:34] tronix22: ok
+[22:58:45] tronix22: good luck
+[22:58:59] tronix22: see
+[22:59:05] tronix22<STEAM_0:1:634690584> spawned sent drone_imbagun
+[22:59:15] tronix22<STEAM_0:1:634690584> spawned sent refuelstation_diesel
+[22:59:50] tronix22 killed MrMillerUK using scoutpistol_d2ent
+[23:00:05] tronix22: yh bc i need to change server ip
+[23:00:08] tronix22: stop
+[23:00:12] Lugii granted god mode upon Themself
+[23:00:12] Lugii: !god Lugii
+[23:00:51] tronix22: good
+[23:01:18] tronix22<STEAM_0:1:634690584> spawned sent drone_xracer
+[23:01:32] tronix22<STEAM_0:1:634690584> spawned sent drone_racer
+[23:01:37] tronix22<STEAM_0:1:634690584> spawned sent drone_heavymarkiii
+[23:02:46] tronix22 granted god mode upon Themself
+[23:02:46] tronix22: !god t
+[23:04:34] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:04:45] tronix22: !noclip
+[23:04:49] Lugii: !noclip
+[23:04:51] Lugii: !noclip
+[23:05:01] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:05:11] tronix22: i gotta add npcs
+[23:05:18] tronix22: and save them to map
+[23:05:26] tronix22: !noclip
+[23:05:32] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:05:39] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:05:45] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:05:49] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:05:57] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:06:05] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:06:29] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:06:32] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:06:44] tronix22<STEAM_0:1:634690584> spawned sent zwf_buyer_npc
+[23:07:09] tronix22: !savezwf
+[23:07:19] tronix22: !bring mr
+[23:08:01] tronix22<STEAM_0:1:634690584> spawned sent zpizmak_oven
+[23:08:04] tronix22<STEAM_0:1:634690584> spawned sent zpizmak_opensign
+[23:08:12] tronix22<STEAM_0:1:634690584> spawned sent zpizmak_fridge
+[23:08:13] tronix22<STEAM_0:1:634690584> spawned sent zpizmak_customertable
+[23:08:18] Server is shutting down/changing levels.
+
+
+
+[23:09:15] New map: rp_downtown_tits_v2
+[23:09:27] Client "tronix22" connected.
+[23:09:30] Client "Lugii" connected.
+[23:10:31] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 64 seconds).
+[23:12:22] Client "Lugii" connected.
+[23:12:50] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 28 seconds).
+[23:13:05] tronix22: imma rp now
+[23:14:04] Lugii: !noclip
+[23:14:05] Lugii: !noclip
+[23:14:11] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube025x025x025.mdl
+[23:14:29] Lugii teleported to tronix22
+[23:14:29] Lugii: !goto tronix22
+[23:14:35] tronix22: im rp
+[23:14:41] Lugii killed tronix22 using player
+[23:14:51] Lugii: !return tronix22
+[23:14:59] Lugii brought tronix22
+[23:14:59] Lugii: !bring tronix22
+[23:15:03] tronix22: stop
+[23:15:09] Client "MrMillerUK" connected.
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:12] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:13] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:14] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:36] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:37] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:38] tronix22<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[23:15:40] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 31 seconds).
+[23:15:45] Lugii: !noclip
+[23:15:47] Lugii: !noclip
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube8x8x05.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube8x8x05.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:08] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/plates/plate1x5.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned sent keypad
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:09] Lugii<STEAM_0:1:552352244> spawned sent keypad
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube8x8x05.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned sent keypad
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:10] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x4x05.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x4x05.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/plates/plate1x5.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned sent keypad
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned sent keypad
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube8x8x05.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube025x4x025.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:11] Lugii<STEAM_0:1:552352244> spawned sent keypad
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x025.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube4x8x05.mdl
+[23:17:12] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube8x8x05.mdl
+[23:17:17] Lugii: !noclip
+[23:17:21] Lugii: !noclip
+[23:17:31] (Console) added MrMillerUK to group admin
+[23:18:06] MrMillerUK: !noclip
+[23:18:09] (Console) removed all access rights from MrMillerUK
+[23:18:33] tronix22 brought Lugii
+[23:18:33] tronix22: !bring lugii
+[23:18:35] tronix22: here
+[23:18:44] tronix22: /dropmoney 1000000
+[23:18:56] tronix22 returned Lugii to their original position
+[23:18:56] tronix22: !return lugii
+[23:19:10] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:12] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:13] tronix22<STEAM_0:1:634690584> spawned sent srp5_printer_special
+[23:19:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[23:19:16] tronix22<STEAM_0:1:634690584> spawned sent srp1_printer
+[23:19:19] tronix22<STEAM_0:1:634690584> spawned sent weapon_upgrade
+[23:19:22] tronix22<STEAM_0:1:634690584> spawned sent keypad_wire
+[23:19:25] tronix22<STEAM_0:1:634690584> spawned sent keypad
+[23:19:26] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:28] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube1x4x1.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube6x6x05.mdl
+[23:19:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube3x4x025.mdl
+[23:19:32] Lugii: !noclip
+[23:19:40] Lugii brought MrMillerUK
+[23:19:40] Lugii: !bring MrMillerUK
+[23:19:47] Lugii: !noclip MrMillerUK
+[23:19:49] tronix22: !unnoclip mr
+[23:20:05] Lugii: !noclip
+[23:20:07] tronix22<STEAM_0:1:634690584> spawned sent enterprise_atm
+[23:20:30] tronix22 brought MrMillerUK
+[23:20:30] tronix22: !bring mr
+[23:20:35] tronix22: he asked me to
+[23:20:36] tronix22: and here
+[23:20:39] Lugii: !noclip
+[23:20:42] tronix22: /dropmoney 1000000
+[23:20:45] Lugii: !noclip
+[23:20:48] Lugii teleported to tronix22
+[23:20:48] Lugii: !goto tronix22
+[23:20:50] tronix22: to remove u from admin
+[23:20:52] tronix22: cya
+[23:20:55] tronix22 returned Themself to their original position
+[23:20:55] tronix22: !return
+[23:20:57] Lugii returned Themself to their original position
+[23:20:57] Lugii: !return
+[23:20:59] Lugii: !noclip
+[23:21:01] tronix22 returned MrMillerUK to their original position
+[23:21:01] tronix22: !return mr
+[23:21:05] Lugii: !noclip
+[23:21:18] tronix22: yh
+[23:21:32] Lugii killed MrMillerUK using weapon_bm_rifle
+[23:21:37] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_balltur
+[23:21:59] Lugii: !noclip
+[23:22:04] Lugii brought MrMillerUK
+[23:22:04] Lugii: !bring MrMillerUK
+[23:22:05] Lugii: !noclip
+[23:22:08] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_balltur
+[23:22:13] tronix22: i was asked to
+[23:22:23] tronix22 brought MrMillerUK
+[23:22:23] tronix22: !bring mr
+[23:22:25] tronix22: here
+[23:22:30] Lugii: !noclip
+[23:22:33] tronix22: staf one
+[23:22:36] tronix22: /drop
+[23:22:44] tronix22: /return mr
+[23:22:47] tronix22: faster
+[23:22:48] Lugii brought MrMillerUK
+[23:22:48] Lugii: !bring MrMillerUK
+[23:22:51] Lugii: !noclip
+[23:22:57] tronix22<STEAM_0:1:634690584> spawned sent dronesrewrite_balltur
+[23:23:00] tronix22<STEAM_0:1:634690584> spawned sent refuelstation_diesel
+[23:23:07] Lugii killed MrMillerUK using weapon_bm_rifle
+[23:23:14] tronix22<STEAM_0:1:634690584> spawned sent refuelstation_diesel
+[23:23:19] Lugii: !noclip
+[23:23:24] Lugii brought MrMillerUK
+[23:23:24] Lugii: !bring MrMillerUK
+[23:23:40] tronix22 teleported to Lugii
+[23:23:40] tronix22: !goto lug
+[23:23:44] tronix22 killed Lugii using player
+[23:23:49] tronix22 returned Themself to their original position
+[23:23:49] tronix22: !return
+[23:23:52] tronix22 brought MrMillerUK
+[23:23:52] tronix22: !bring mr
+[23:23:55] tronix22 granted god mode upon Themself
+[23:23:55] tronix22: !god t
+[23:24:00] tronix22 granted god mode upon MrMillerUK
+[23:24:00] tronix22: !god m
+[23:24:09] tronix22: nah soz tmr
+[23:24:09] MrMillerUK: can you make me staff?
+[23:24:12] tronix22: fine
+[23:24:16] tronix22: !menu
+[23:24:37] (Console) added MrMillerUK to group admin
+[23:24:46] tronix22: there
+[23:24:48] tronix22: ok
+[23:24:50] tronix22: /drop
+[23:24:54] Lugii: !noclip
+[23:24:54] tronix22: u got god mode
+[23:24:59] tronix22 returned MrMillerUK to their original position
+[23:24:59] tronix22: !return m
+[23:25:05] Lugii: !noclip
+[23:25:05] tronix22 teleported to MrMillerUK
+[23:25:05] tronix22: !goto mr
+[23:25:16] Lugii revoked god mode from MrMillerUK
+[23:25:16] Lugii: !ungod MrMillerUK
+[23:25:19] Lugii killed MrMillerUK using player
+[23:25:28] MrMillerUK: !noclip
+[23:25:35] MrMillerUK: !noclip
+[23:25:40] MrMillerUK teleported to Lugii
+[23:25:40] MrMillerUK: !goto lug
+[23:25:44] Lugii killed MrMillerUK using player
+[23:25:50] MrMillerUK: !noclip
+[23:26:15] tronix22: only superadmin can
+[23:26:26] tronix22: nah he wernt
+[23:26:29] tronix22: here
+[23:26:32] Lugii: !noclip
+[23:26:37] Lugii: !noclip
+[23:26:42] tronix22: /drop
+[23:26:48] tronix22: ill take it away
+[23:26:52] Lugii: !noclip
+[23:27:14] tronix22 killed Lugii using player
+[23:27:22] Lugii: !ungod all
+[23:27:24] tronix22 killed MrMillerUK using player
+[23:27:29] Lugii revoked god mode from tronix22
+[23:27:29] Lugii: !ungod tronix22
+[23:27:30] tronix22 brought MrMillerUK
+[23:27:30] tronix22: !bring mr
+[23:27:32] Lugii: !return
+[23:27:34] tronix22 granted god mode upon Themself
+[23:27:34] tronix22: !god t
+[23:27:37] Lugii teleported to tronix22
+[23:27:37] Lugii: !goto tronix22
+[23:27:37] tronix22: /drop
+[23:27:39] Lugii revoked god mode from tronix22
+[23:27:39] Lugii: !ungod tronix22
+[23:27:40] Lugii killed tronix22 using player
+[23:27:40] Lugii killed MrMillerUK using player
+[23:27:46] tronix22: !xban
+[23:27:55] tronix22: i can ban
+[23:28:00] tronix22 killed MrMillerUK using player
+[23:28:01] Lugii teleported to tronix22
+[23:28:01] Lugii: !goto tronix22
+[23:28:02] Lugii killed tronix22 using player
+[23:28:08] tronix22: ok now stop
+[23:28:19] tronix22 cloaked Themself by amount 0
+[23:28:19] tronix22: !cloak tr
+[23:28:22] Lugii killed tronix22 using player
+[23:28:25] MrMillerUK: !noclip
+[23:28:27] tronix22 granted god mode upon Themself
+[23:28:27] tronix22: !god t
+[23:28:30] MrMillerUK: !noclip
+[23:28:34] Lugii revoked god mode from tronix22
+[23:28:34] Lugii: !ungod tronix22
+[23:28:34] tronix22 cloaked Themself by amount 0
+[23:28:34] tronix22: !cloak t
+[23:28:42] tronix22 killed Lugii using weapon_bm_qe_zapper
+[23:28:47] Lugii killed tronix22 using player
+[23:28:51] Lugii killed MrMillerUK using player
+[23:28:56] Lugii revoked god mode from tronix22
+[23:28:56] Lugii: !ungod tronix22
+[23:28:57] tronix22 granted god mode upon Themself
+[23:28:57] tronix22: !god tro
+[23:29:02] tronix22 cloaked Themself by amount 0
+[23:29:02] tronix22: !cloak
+[23:29:04] Lugii revoked god mode from tronix22
+[23:29:04] Lugii: !ungod tronix22
+[23:29:05] tronix22 killed Lugii using player
+[23:29:12] tronix22 killed Lugii using player
+[23:29:18] tronix22 killed Lugii using player
+[23:29:24] Lugii killed MrMillerUK using player
+[23:29:25] Lugii killed tronix22 using player
+[23:29:35] Lugii killed tronix22 using player
+[23:29:37] tronix22 kicked Lugii (rdm)
+[23:29:37] tronix22: !kick lugii rdm
+[23:29:37] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[23:29:42] tronix22: he got kicked
+[23:29:56] MrMillerUK: !noclip
+[23:29:59] (Console) kicked tronix22
+[23:29:59] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[23:30:07] Client "Lugii" connected.
+[23:30:15] Client "tronix22" connected.
+[23:31:23] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 68 seconds).
+[23:32:11] tronix22: !noclip
+[23:32:35] tronix22: lol
+[23:32:42] MrMillerUK: !noclip
+[23:32:49] MrMillerUK teleported to tronix22
+[23:32:49] MrMillerUK: !goto tro
+[23:32:49] tronix22 brought MrMillerUK
+[23:32:49] tronix22: !bring mr
+[23:32:55] tronix22: yh
+[23:33:09] tronix22 killed MrMillerUK using weapon_industrial_drill
+[23:33:16] tronix22 brought MrMillerUK
+[23:33:16] tronix22: !bring m
+[23:33:26] tronix22: /drop
+[23:33:31] tronix22 granted god mode upon Themself
+[23:33:31] tronix22: !god t
+[23:33:42] tronix22: grapples u
+[23:33:47] tronix22<STEAM_0:1:634690584> spawned sent drone_heavymarkiii
+[23:33:55] MrMillerUK was killed by rocket_dent
+[23:33:55] tronix22 was killed by rocket_dent
+[23:34:09] tronix22: yh
+[23:34:11] tronix22: here
+[23:34:20] tronix22: to many
+[23:34:42] tronix22: /drop
+[23:35:17] tronix22 brought MrMillerUK
+[23:35:17] tronix22: !bring m
+[23:35:22] tronix22: yh
+[23:35:42] tronix22<STEAM_0:1:634690584> spawned sent drone_mentity
+[23:36:06] MrMillerUK was killed by prop_physics
+[23:36:18] tronix22: spawned it
+[23:36:23] tronix22 brought MrMillerUK
+[23:36:23] tronix22: !bring m
+[23:36:33] tronix22: wait u gotarrest batton
+[23:36:43] tronix22<STEAM_0:1:634690584> spawned sent drone_entity
+[23:36:49] tronix22: good
+[23:37:22] tronix22 suicided!
+[23:37:31] tronix22<STEAM_0:1:634690584> spawned sent drone_entity
+[23:37:32] tronix22<STEAM_0:1:634690584> spawned sent drone_entity
+[23:37:33] tronix22<STEAM_0:1:634690584> spawned sent drone_dentity
+[23:37:37] tronix22: i got to go
+[23:37:46] tronix22: i got to go
+[23:37:55] tronix22: vcya
+[23:37:58] tronix22: i got to go
+[23:37:59] tronix22: yh
+[23:38:04] MrMillerUK: !noclip
+[23:38:15] MrMillerUK: !noclip
+[23:39:01] Dropped "tronix22" from server<STEAM_0:1:634690584>
+[23:39:42] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+<Logging continued in "data/ulx_logs/04-23-23.txt">

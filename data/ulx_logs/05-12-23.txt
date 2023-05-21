@@ -1,0 +1,53 @@
+[17:53:53] New map: rp_downtown_tits_v2
+[21:15:51] Client "MrMillerUK" connected.
+[21:15:52] Client "Derpy Hooves" connected.
+[21:15:52] Client "" spawned in server <BOT> (took 12239 seconds).
+[21:15:52] Client "DYSON" connected.
+[21:15:52] Client "" spawned in server <BOT> (took 12239 seconds).
+[21:15:52] Client "Los Lobos" connected.
+[21:15:52] Client "" spawned in server <BOT> (took 12239 seconds).
+[21:15:52] Client "Kitty" connected.
+[21:15:52] Client "" spawned in server <BOT> (took 12239 seconds).
+[21:15:52] Client "Olivia" connected.
+[21:15:52] Client "" spawned in server <BOT> (took 12239 seconds).
+[21:18:23] Dropped "Derpy Hooves" from server<BOT>
+[21:18:23] Client "BellaTrix" connected.
+[21:18:23] Client "" spawned in server <BOT> (took 12390 seconds).
+[21:18:23] Dropped "DYSON" from server<BOT>
+[21:18:23] Client "D00p" connected.
+[21:18:23] Client "" spawned in server <BOT> (took 12390 seconds).
+[21:18:23] Dropped "Los Lobos" from server<BOT>
+[21:18:23] Client "Rayman" connected.
+[21:18:23] Client "" spawned in server <BOT> (took 12390 seconds).
+[21:18:23] Dropped "Kitty" from server<BOT>
+[21:18:23] Client "Coach" connected.
+[21:18:23] Client "" spawned in server <BOT> (took 12390 seconds).
+[21:18:23] Dropped "Olivia" from server<BOT>
+[21:18:23] Client "DION" connected.
+[21:18:23] Client "" spawned in server <BOT> (took 12390 seconds).
+[21:19:17] Client "MrMillerUK" connected.
+[21:20:42] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 85 seconds).
+[21:20:42] Dropped "BellaTrix" from server<BOT>
+[21:21:13] (TEAM) MrMillerUK: !motd
+[21:21:32] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[21:21:32] Client "Gaben" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:21:32] Dropped "Gaben" from server<BOT>
+[21:21:32] Client "The Salt Bar" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:21:32] Dropped "D00p" from server<BOT>
+[21:21:32] Client "AppleJack" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:21:32] Dropped "Rayman" from server<BOT>
+[21:21:32] Client "Derp" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:21:32] Dropped "Coach" from server<BOT>
+[21:21:32] Client "Foxy" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:21:32] Dropped "DION" from server<BOT>
+[21:21:32] Client "Garry :D" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:21:32] Dropped "The Salt Bar" from server<BOT>
+[21:21:32] Client "(*)(*)" connected.
+[21:21:32] Client "" spawned in server <BOT> (took 12579 seconds).
+[21:38:39] Server is shutting down/changing levels.

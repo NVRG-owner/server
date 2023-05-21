@@ -1,0 +1,22 @@
+Sun Apr 23 11:25:22 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 11:25:22 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 11:26:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:26:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:26:38 2023	Lugii (STEAM_0:1:552352244): !unfreeze Lugii
+Sun Apr 23 11:26:40 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_bitcoin_screen
+Sun Apr 23 11:27:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:27:34 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_bitcoin_screen
+Sun Apr 23 11:30:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:30:49 2023	Lugii (STEAM_0:1:552352244): !setjail
+Sun Apr 23 11:30:53 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 11:31:31 2023	Lugii (STEAM_0:1:552352244): /help
+Sun Apr 23 11:31:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:31:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:31:57 2023	Lugii (STEAM_0:1:552352244): /setjail Lugii
+Sun Apr 23 11:32:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:32:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:32:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:32:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:32:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:32:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 11:32:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_shelf

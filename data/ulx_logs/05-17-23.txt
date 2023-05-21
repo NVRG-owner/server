@@ -1,0 +1,152 @@
+[18:42:47] New map: rp_downtown_tits_v2
+[18:46:30] Client "tronix22" connected.
+[18:46:31] Client "Volition" connected.
+[18:46:31] Client "" spawned in server <BOT> (took 332 seconds).
+[18:46:31] Client "Olivia" connected.
+[18:46:31] Client "" spawned in server <BOT> (took 332 seconds).
+[18:46:31] Client "Buttercup" connected.
+[18:46:31] Client "" spawned in server <BOT> (took 332 seconds).
+[18:46:32] Client "GirlDeaa" connected.
+[18:46:32] Client "" spawned in server <BOT> (took 333 seconds).
+[18:46:32] Client "Bloo Me" connected.
+[18:46:32] Client "" spawned in server <BOT> (took 333 seconds).
+[18:51:54] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 324 seconds).
+[18:51:55] Dropped "Volition" from server<BOT>
+[18:54:40] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggomods/vehicles/toyotagt1.mdl
+[18:54:51] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggogm/vehicles/yamahayfz450.mdl
+[18:55:20] OWNER<STEAM_0:1:634690584> spawned vehicle models/dannio/gscooters.mdl
+[18:57:14] OWNER<STEAM_0:1:634690584> spawned vehicle models/steelemancars/chev_nova_2/chevyii.mdl
+[18:57:24] OWNER<STEAM_0:1:634690584> spawned vehicle models/sentry/teslasemi.mdl
+[18:58:09] OWNER<STEAM_0:1:634690584> spawned vehicle models/djm_cars/audi/audir8/r8.mdl
+[18:58:55] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggomods/tanks/m1a1/body.mdl
+[18:59:35] OWNER<STEAM_0:1:634690584> spawned vehicle models/ilcar/ilcar.mdl
+[18:59:53] OWNER<STEAM_0:1:634690584> spawned sent alarm_hack
+[18:59:55] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_black
+[19:01:06] OWNER suicided!
+[19:02:07] Client "MrMillerUK" connected.
+[19:04:12] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 125 seconds).
+[19:04:12] Dropped "Olivia" from server<BOT>
+[19:04:29] OWNER suicided!
+[19:05:24] OWNER killed MrMillerUK using weapon_bm_welder
+[19:06:02] OWNER killed MrMillerUK using player
+[19:06:15] MrMillerUK: !noclip
+[19:06:45] MrMillerUK: !noclip
+[19:06:52] OWNER killed MrMillerUK using ent_bm_icbm
+[19:07:02] MrMillerUK: !noclip
+[19:07:07] OWNER brought MrMillerUK
+[19:07:07] OWNER: !bring mr
+[19:07:08] OWNER killed MrMillerUK using weapon_woofer_cannon
+[19:07:11] MrMillerUK: !noclip
+[19:07:16] MrMillerUK: !noclip
+[19:07:17] OWNER: !ring mr
+[19:07:21] OWNER brought MrMillerUK
+[19:07:21] OWNER: !bring mr
+[19:07:29] MrMillerUK: !noclip
+[19:07:55] MrMillerUK: !noclip
+[19:09:10] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[19:09:10] Client "(*)(*)" connected.
+[19:09:10] Client "" spawned in server <BOT> (took 1691 seconds).
+[19:09:22] OWNER: !goto (
+[19:11:03] OWNER: /admin help
+[19:12:27] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[19:14:40] OWNER suicided!
+[19:14:52] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[19:16:41] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_attack
+[19:16:50] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_upgrcase_ai_follow_owner
+[19:17:25] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_controller
+[19:17:28] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[19:17:53] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_console
+[19:19:32] OWNER<STEAM_0:1:634690584> spawned sent hacktool_drone
+[19:21:24] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[19:21:24] Client "Twilight Sparkle" connected.
+[19:21:24] Client "" spawned in server <BOT> (took 2425 seconds).
+[19:21:24] Dropped "Twilight Sparkle" from server<BOT>
+[19:21:24] Client "ρanda♥" connected.
+[19:21:24] Client "" spawned in server <BOT> (took 2425 seconds).
+[19:21:25] Dropped "(*)(*)" from server<BOT>
+[19:21:25] Client "Big Macintosh" connected.
+[19:21:25] Client "" spawned in server <BOT> (took 2426 seconds).
+[19:21:25] Dropped "Buttercup" from server<BOT>
+[19:21:25] Client "◼" connected.
+[19:21:25] Client "" spawned in server <BOT> (took 2426 seconds).
+[19:21:25] Dropped "GirlDeaa" from server<BOT>
+[19:21:25] Client "Cerberus" connected.
+[19:21:25] Client "" spawned in server <BOT> (took 2426 seconds).
+[19:21:25] Dropped "Bloo Me" from server<BOT>
+[19:21:25] Client "Blossom" connected.
+[19:21:25] Client "" spawned in server <BOT> (took 2426 seconds).
+[19:30:11] Client "MrMillerUK" connected.
+[19:30:21] Dropped "ρanda♥" from server<BOT>
+[19:30:21] Client "Fairy Liquid" connected.
+[19:30:21] Client "" spawned in server <BOT> (took 2962 seconds).
+[19:30:21] Dropped "Big Macintosh" from server<BOT>
+[19:30:21] Client "Zeus" connected.
+[19:30:21] Client "" spawned in server <BOT> (took 2962 seconds).
+[19:30:21] Dropped "◼" from server<BOT>
+[19:30:21] Client "Cr33p3r" connected.
+[19:30:21] Client "" spawned in server <BOT> (took 2962 seconds).
+[19:30:21] Dropped "Cerberus" from server<BOT>
+[19:30:21] Client "Buttercup" connected.
+[19:30:21] Client "" spawned in server <BOT> (took 2962 seconds).
+[19:30:21] Dropped "Blossom" from server<BOT>
+[19:30:21] Client "BASSHUNTER" connected.
+[19:30:21] Client "" spawned in server <BOT> (took 2962 seconds).
+[19:30:22] Dropped "Fairy Liquid" from server<BOT>
+[19:30:22] Client "C4k3" connected.
+[19:30:22] Client "" spawned in server <BOT> (took 2963 seconds).
+[19:31:24] Client "MrMillerUK" connected.
+[19:32:57] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 93 seconds).
+[19:32:57] Dropped "Zeus" from server<BOT>
+[19:33:37] MrMillerUK<STEAM_0:1:525475507> spawned model models/xqm/jetbody3_s3.mdl
+[19:33:43] MrMillerUK<STEAM_0:1:525475507> spawned model models/xqm/jetbody2huge.mdl
+[19:33:45] MrMillerUK<STEAM_0:1:525475507> spawned model models/xqm/jetbody2huge.mdl
+[19:33:48] MrMillerUK<STEAM_0:1:525475507> spawned model models/xqm/jetbody2huge.mdl
+[19:33:59] MrMillerUK<STEAM_0:1:525475507> spawned model models/xqm/jetbody3_s5.mdl
+[19:34:11] MrMillerUK: !noclip
+[19:35:05] MrMillerUK: !noclip
+[19:35:16] MrMillerUK<STEAM_0:1:525475507> spawned vehicle models/dannio/gscooters.mdl
+[19:35:52] MrMillerUK<STEAM_0:1:525475507> spawned vehicle models/buggy.mdl
+[19:37:14] MrMillerUK<STEAM_0:1:525475507> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[19:40:14] MrMillerUK: !noclip
+[19:43:13] MrMillerUK: !noclip
+[19:43:24] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[19:43:24] Client "Meta" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[19:43:24] Dropped "Meta" from server<BOT>
+[19:43:24] Client "Mrs. Cup Cake" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[19:43:24] Dropped "Cr33p3r" from server<BOT>
+[19:43:24] Client "1+1=11" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[19:43:24] Dropped "Buttercup" from server<BOT>
+[19:43:24] Client "Trigger" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[19:43:24] Dropped "BASSHUNTER" from server<BOT>
+[19:43:24] Client "Snips" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[19:43:24] Dropped "C4k3" from server<BOT>
+[19:43:24] Client "Ellis" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[19:43:24] Dropped "Mrs. Cup Cake" from server<BOT>
+[19:43:24] Client "Prodigy" connected.
+[19:43:24] Client "" spawned in server <BOT> (took 3745 seconds).
+[22:16:05] Client "MrMillerUK" connected.
+[22:17:36] Dropped "1+1=11" from server<BOT>
+[22:17:36] Client "Herp" connected.
+[22:17:36] Client "" spawned in server <BOT> (took 12997 seconds).
+[22:17:36] Dropped "Trigger" from server<BOT>
+[22:17:36] Client "Trina" connected.
+[22:17:36] Client "" spawned in server <BOT> (took 12997 seconds).
+[22:17:36] Dropped "Snips" from server<BOT>
+[22:17:36] Client "isabella" connected.
+[22:17:36] Client "" spawned in server <BOT> (took 12997 seconds).
+[22:17:36] Dropped "Ellis" from server<BOT>
+[22:17:36] Client "Fee" connected.
+[22:17:36] Client "" spawned in server <BOT> (took 12997 seconds).
+[22:17:36] Dropped "Prodigy" from server<BOT>
+[22:17:36] Client "Olivia" connected.
+[22:17:36] Client "" spawned in server <BOT> (took 12997 seconds).
+[22:17:36] Dropped "Herp" from server<BOT>
+[22:17:36] Client "VaL" connected.
+[22:17:36] Client "" spawned in server <BOT> (took 12997 seconds).
+<Logging continued in "data/ulx_logs/05-18-23.txt">

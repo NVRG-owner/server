@@ -1,0 +1,72 @@
+Sun Apr 23 12:39:11 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 12:39:11 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:39:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:39:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:39:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:39:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:39:56 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sun Apr 23 12:39:56 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 12:40:04 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 12:41:07 2023	tronix22 (STEAM_0:1:634690584) set tronix22's money to $10,000
+Sun Apr 23 12:41:20 2023	tronix22 (STEAM_0:1:634690584) set tronix22's money to $10,000,000
+Sun Apr 23 12:41:46 2023	tronix22 (STEAM_0:1:634690584): !refund
+Sun Apr 23 12:41:50 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 12:41:53 2023	Lugii (STEAM_0:1:552352244): !refund
+Sun Apr 23 12:42:25 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 12:42:48 2023	tronix22 (STEAM_0:1:634690584): /request hi
+Sun Apr 23 12:42:52 2023	tronix22 (STEAM_0:1:634690584): !request hi
+Sun Apr 23 12:42:57 2023	tronix22 (STEAM_0:1:634690584): /report hi
+Sun Apr 23 12:43:09 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:43:13 2023	Lugii was killed by tronix22 with a m9k_usp
+Sun Apr 23 12:43:14 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:43:20 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 12:43:25 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:43:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:43:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:43:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:43:44 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 12:43:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:43:52 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:43:57 2023	Lugii (STEAM_0:1:552352244): !warn tronix22 RDM
+Sun Apr 23 12:44:02 2023	Lugii (STEAM_0:1:552352244): !warns
+Sun Apr 23 12:44:38 2023	Lugii was killed by tronix22 with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 12:44:40 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:44:44 2023	tronix22 (STEAM_0:1:634690584): !god tr
+Sun Apr 23 12:44:46 2023	Lugii (STEAM_0:1:552352244): !jail tronix22
+Sun Apr 23 12:44:50 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:44:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:44:51 2023	tronix22 (STEAM_0:1:634690584): !unjail t
+Sun Apr 23 12:44:55 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:44:55 2023	Lugii was killed by tronix22 with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 12:44:55 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:44:56 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:45:05 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:45:06 2023	Lugii was killed by Himself with a suicide trick
+Sun Apr 23 12:45:07 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:45:11 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 12:45:12 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:45:13 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 12:45:17 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 12:45:18 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:46:04 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:46:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:46:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:46:37 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 12:46:38 2023	Lugii (STEAM_0:1:552352244): !afk
+Sun Apr 23 12:47:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:48:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:48:08 2023	tronix22 (STEAM_0:1:634690584): !logsd
+Sun Apr 23 12:48:11 2023	tronix22 (STEAM_0:1:634690584): !logs
+Sun Apr 23 12:48:50 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:50:03 2023	Lugii was killed by tronix22 with a weapon_supreme_badtime_bm_gblaster
+Sun Apr 23 12:50:05 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:50:07 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 12:50:09 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:50:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:50:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:50:54 2023	tronix22 (STEAM_0:1:634690584): !bring l
+Sun Apr 23 12:50:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:51:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:51:06 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 12:51:16 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 12:51:20 2023	Lugii (STEAM_0:1:552352244): !return tronix22

@@ -1,0 +1,50 @@
+Tue May  9 13:50:54 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Tue May  9 13:50:54 2023	Lugii (STEAM_0:1:552352244) spawned
+Tue May  9 13:51:24 2023	Lugii (STEAM_0:1:552352244): !mstore
+Tue May  9 13:51:28 2023	Lugii (STEAM_0:1:552352244): !madmin
+Tue May  9 13:51:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:08 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 13:52:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  9 16:45:21 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Tue May  9 16:45:21 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  9 16:47:55 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_server
+Tue May  9 16:48:13 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Tue May  9 16:49:04 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_laser_2
+Tue May  9 16:49:08 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Tue May  9 16:51:06 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Tue May  9 16:51:13 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Tue May  9 16:52:45 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_white
+Tue May  9 16:53:29 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor
+Tue May  9 16:54:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor
+Tue May  9 16:54:31 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor_2
+Tue May  9 16:55:03 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor_2
+Tue May  9 16:55:32 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor_2
+Tue May  9 16:58:31 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_siren
+Tue May  9 17:00:30 2023	OWNER (STEAM_0:1:634690584): !ignite ow
+Tue May  9 17:00:48 2023	OWNER was killed by Entity [1432][entityflame] with a entityflame
+Tue May  9 17:00:53 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  9 17:01:13 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_laser_2
+Tue May  9 17:01:19 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Tue May  9 17:01:40 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_hack
+Tue May  9 17:04:08 2023	OWNER (STEAM_0:1:634690584) spawned SENT bank_vault
+Tue May  9 17:04:24 2023	OWNER (STEAM_0:1:634690584) spawned SENT zrms_mineentrance_base
+Tue May  9 17:04:33 2023	OWNER (STEAM_0:1:634690584) spawned SENT zrms_refiner_bronze
+Tue May  9 17:04:39 2023	OWNER (STEAM_0:1:634690584) spawned SENT zrms_storagecrate
+Tue May  9 17:12:05 2023	Mox (STEAM_0:1:56497083) has joined the game
+Tue May  9 17:12:05 2023	Mox (STEAM_0:1:56497083) spawned
+Tue May  9 17:16:36 2023	Mox (STEAM_0:1:56497083): /admin
+Tue May  9 17:16:39 2023	Mox (STEAM_0:1:56497083): 
+Tue May  9 17:16:48 2023	Mox (STEAM_0:1:56497083): /menu
+Tue May  9 17:16:50 2023	Mox (STEAM_0:1:56497083): !menu
+Tue May  9 17:35:18 2023	Mox (STEAM_0:1:56497083): this server fucking sucks

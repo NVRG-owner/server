@@ -1,0 +1,24 @@
+Sat Apr 22 19:37:45 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sat Apr 22 19:38:54 2023	tronix22 (STEAM_0:1:634690584) spawned SENT drone_nanodrone
+Sat Apr 22 19:40:07 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_exmac
+Sat Apr 22 19:40:12 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_balltur
+Sat Apr 22 19:40:14 2023	tronix22 (STEAM_0:1:634690584) spawned SENT dronesrewrite_bird
+Sat Apr 22 19:40:24 2023	tronix22 (STEAM_0:1:634690584) spawned SENT enterprise_atm
+Sat Apr 22 19:40:42 2023	tronix22 (STEAM_0:1:634690584): /dropmoney 500
+Sat Apr 22 19:40:49 2023	tronix22 (STEAM_0:1:634690584) spawned SENT fpv_drone
+Sat Apr 22 19:41:01 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:41:06 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:41:18 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:41:26 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:41:37 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:41:41 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:41:53 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:42:13 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:42:24 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_generator
+Sat Apr 22 19:42:29 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_bong03_ent
+Sat Apr 22 19:42:49 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_fuel
+Sat Apr 22 19:42:52 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:43:00 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:43:20 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:43:41 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc
+Sat Apr 22 19:44:15 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zwf_buyer_npc

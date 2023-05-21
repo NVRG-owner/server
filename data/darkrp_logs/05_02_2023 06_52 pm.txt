@@ -1,0 +1,81 @@
+Tue May  2 18:52:39 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Tue May  2 18:52:40 2023	Lugii (STEAM_0:1:552352244) spawned
+Tue May  2 18:52:56 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Tue May  2 18:52:56 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  2 18:53:10 2023	Lugii (STEAM_0:1:552352244): !warn
+Tue May  2 18:58:18 2023	OWNER (STEAM_0:1:634690584): !warn
+Tue May  2 19:00:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:00:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:00:29 2023	Lugii (STEAM_0:1:552352244): !warn OWNER Test
+Tue May  2 19:00:30 2023	OWNER (STEAM_0:1:634690584): !warn
+Tue May  2 19:00:39 2023	Lugii (STEAM_0:1:552352244): !warn OWNER Test
+Tue May  2 19:00:50 2023	Lugii (STEAM_0:1:552352244): !warn OWNER Test
+Tue May  2 19:01:36 2023	Lugii (STEAM_0:1:552352244): !warn STEAM_0:1:634690584 Test
+Tue May  2 19:01:41 2023	Lugii (STEAM_0:1:552352244): !warn STEAM_0:1:634690584 Test
+Tue May  2 19:01:50 2023	Lugii (STEAM_0:1:552352244): !warns STEAM_0:1:634690584
+Tue May  2 19:01:53 2023	Lugii (STEAM_0:1:552352244): !warns
+Tue May  2 19:02:19 2023	Lugii (STEAM_0:1:552352244): !warn STEAM_0:1:634690584 Test
+Tue May  2 19:02:21 2023	Lugii (STEAM_0:1:552352244): !warn STEAM_0:1:634690584 Test
+Tue May  2 19:02:22 2023	Lugii (STEAM_0:1:552352244): !warn STEAM_0:1:634690584 Test
+Tue May  2 19:02:44 2023	Lugii (STEAM_0:1:552352244): !warns
+Tue May  2 19:03:30 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Tue May  2 19:03:30 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  2 19:03:40 2023	Lugii (STEAM_0:1:552352244): !warns
+Tue May  2 19:04:20 2023	Lugii (STEAM_0:1:552352244): !warn
+Tue May  2 19:04:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:05:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:10:15 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Tue May  2 19:12:16 2023	OWNER was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Tue May  2 19:12:17 2023	Lugii (STEAM_0:1:552352244): 
+Tue May  2 19:12:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:12:32 2023	Lugii (STEAM_0:1:552352244): !warn
+Tue May  2 19:12:40 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  2 19:12:50 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:13:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:13:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:14:14 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:14:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:14:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT item_ammo_smg1_large
+Tue May  2 19:14:56 2023	Lugii (STEAM_0:1:552352244) spawned SENT item_ammo_357_large
+Tue May  2 19:15:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_ar2
+Tue May  2 19:15:06 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_ar2
+Tue May  2 19:15:07 2023	Lugii (STEAM_0:1:552352244) spawned SENT m9k_ammo_ar2
+Tue May  2 19:15:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:15:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:15:16 2023	Lugii (STEAM_0:1:552352244): 
+Tue May  2 19:15:36 2023	OWNER was killed by Lugii with a m9k_honeybadger
+Tue May  2 19:15:57 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  2 19:16:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:16:05 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:16:18 2023	Lugii (STEAM_0:1:552352244): 
+Tue May  2 19:16:42 2023	Lugii (STEAM_0:1:552352244) spawned SENT aphone_npc
+Tue May  2 19:16:53 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Tue May  2 19:17:17 2023	Lugii (STEAM_0:1:552352244): /dropmoney 2500000
+Tue May  2 19:17:25 2023	OWNER (STEAM_0:1:634690584) added $1,000,000 to tronix22's wallet
+Tue May  2 19:17:26 2023	Lugii (STEAM_0:1:552352244): /dropmoney 250000
+Tue May  2 19:17:27 2023	Lugii (STEAM_0:1:552352244) has dropped $250,000
+Tue May  2 19:18:45 2023	Lugii (STEAM_0:1:552352244): !warn
+Tue May  2 19:21:44 2023	Lugii (STEAM_0:1:552352244): !hp Lugii 100
+Tue May  2 19:23:20 2023	Lugii (STEAM_0:1:552352244): 5000000
+Tue May  2 19:26:24 2023	Lugii (STEAM_0:1:552352244): !setmoney OWNER 0
+Tue May  2 19:27:22 2023	Lugii (STEAM_0:1:552352244) set tronix22's money to $0
+Tue May  2 19:31:16 2023	OWNER (STEAM_0:1:634690584): !remotebitminers
+Tue May  2 19:31:59 2023	OWNER (STEAM_0:1:634690584): !remotebitminers
+Tue May  2 19:34:21 2023	OWNER was killed by Lugii with a weapon_bm_ams
+Tue May  2 19:34:35 2023	Lugii (STEAM_0:1:552352244): 
+Tue May  2 19:34:43 2023	Lugii (STEAM_0:1:552352244) set tronix22's money to $0
+Tue May  2 19:34:43 2023	OWNER (STEAM_0:1:634690584) spawned
+Tue May  2 19:34:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:34:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:34:54 2023	Lugii (STEAM_0:1:552352244) set tronix22's money to $10,000
+Tue May  2 19:34:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:34:59 2023	OWNER (STEAM_0:1:634690584) added $50,000 to tronix22's wallet
+Tue May  2 19:35:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:35:34 2023	OWNER was killed by Lugii with a m9k_deagle
+Tue May  2 19:35:42 2023	Lugii (STEAM_0:1:552352244): !kick OWNER :<
+Tue May  2 19:38:35 2023	Lugii (STEAM_0:1:552352244): /hotelowner
+Tue May  2 19:38:40 2023	Lugii (STEAM_0:1:552352244): hotelowner
+Tue May  2 19:38:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:38:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:49:13 2023	Lugii (STEAM_0:1:552352244): /restartserver
+Tue May  2 19:49:17 2023	Lugii (STEAM_0:1:552352244): restartserver

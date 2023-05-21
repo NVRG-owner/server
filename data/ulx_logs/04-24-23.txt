@@ -1,0 +1,1116 @@
+<Logging continued from "data/ulx_logs/04-23-23.txt">
+[00:30:11] Server is shutting down/changing levels.
+
+
+
+[08:02:11] New map: rp_downtown_tits_v2
+[08:17:07] Server is shutting down/changing levels.
+
+
+
+[08:33:28] New map: rp_downtown_tits_v2
+[14:07:15] Server is shutting down/changing levels.
+
+
+
+[17:01:18] New map: rp_downtown_tits_v2
+[17:01:51] Server is shutting down/changing levels.
+
+
+
+[17:05:17] New map: rp_downtown_tits_v2
+[17:07:57] Client "tronix22" connected.
+[17:12:07] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 250 seconds).
+[17:13:20] OWNER: /admin
+[17:14:25] OWNER: !menu
+[17:14:56] (Console) added OWNER to group superadmin
+[17:15:12] OWNER: !menu
+[17:15:18] OWNER: /admin
+[17:16:12] (Console) added OWNER to group admin
+[17:16:27] OWNER: !menu
+[17:16:42] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/furnituredrawer001a_chunk01.mdl
+[17:16:46] OWNER<STEAM_0:1:634690584> spawned sent bm2_extra_fuel_line
+[17:16:49] OWNER<STEAM_0:1:634690584> spawned sent drone_cargo
+[17:17:17] (Console) added OWNER to group superadmin
+[17:17:27] OWNER: /staff
+[17:19:00] OWNER was killed by entityflame
+[17:19:05] OWNER: /admin
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:17] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x6x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x4x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube05x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube2x2x025.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube4x6x05.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:22:18] OWNER<STEAM_0:1:634690584> spawned model models/hunter/blocks/cube075x3x075.mdl
+[17:35:14] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[17:35:16] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[17:35:18] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[17:36:28] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[17:36:35] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[17:37:06] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[17:38:24] OWNER: !noclip
+[17:39:01] OWNER: !noclip
+[17:48:10] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_hacking_usb
+[17:48:23] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_antivirus_usb
+[17:48:57] OWNER<STEAM_0:1:634690584> spawned sent drone_lasermarkiii
+[17:49:13] OWNER<STEAM_0:1:634690584> spawned sent drone_warriormarkiii
+[17:49:18] OWNER<STEAM_0:1:634690584> spawned sent drone_melon
+[17:49:21] OWNER<STEAM_0:1:634690584> spawned sent drone_repairmarkiii
+[17:49:33] OWNER<STEAM_0:1:634690584> spawned sent item_drr_grenades
+[17:49:54] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[17:50:26] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[17:51:03] OWNER<STEAM_0:1:634690584> spawned sent dronesrewrite_dronebox
+[17:52:22] OWNER: !noclip
+[17:53:06] OWNER: !noclip
+[17:55:39] OWNER was killed by entityflame
+[17:56:51] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[18:10:12] Server is shutting down/changing levels.
+
+
+
+[18:30:55] New map: rp_downtown_tits_v2
+[18:31:28] Client "Lugii" connected.
+[18:32:41] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 73 seconds).
+[18:39:23] Client "tronix22" connected.
+[18:41:05] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 102 seconds).
+[18:42:45] tronix22: !noclip
+[18:42:47] tronix22: yo
+[18:43:20] tronix22 brought Lugii
+[18:43:20] tronix22: !bring lugi
+[18:44:35] tronix22 killed Lugii using player
+[18:44:44] tronix22: !bring lug
+[18:46:24] tronix22: !bring l
+[18:46:39] tronix22 suicided!
+[18:47:37] Server is shutting down/changing levels.
+
+
+
+[18:48:56] New map: rp_downtown_tits_v2
+[18:49:34] Server is shutting down/changing levels.
+
+
+
+[18:52:46] New map: rp_downtown_tits_v2
+[18:53:07] Client "Lugii" connected.
+[18:55:55] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 168 seconds).
+[18:56:17] Client "tronix22" connected.
+[18:57:11] Lugii: !noclip
+[18:57:12] Lugii: !noclip
+[18:57:14] Lugii: !noclip
+[18:57:19] Lugii: !noclip
+[18:57:44] Lugii: !noclip
+[18:57:50] Lugii: !noclip
+[18:57:55] Lugii: !noclip
+[18:57:57] Lugii: !noclip
+[19:00:28] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 251 seconds).
+[19:00:50] Client "MrMillerUK" connected.
+[19:01:58] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 68 seconds).
+[19:02:30] Lugii: !noclip
+[19:02:32] Lugii: !noclip
+[19:02:33] OWNER: !menu
+[19:03:03] Lugii: !freeze
+[19:03:07] Lugii granted god mode upon Themself
+[19:03:07] Lugii: !god Lugii
+[19:03:19] OWNER granted god mode upon Themself
+[19:03:19] OWNER: !god ow
+[19:03:22] Lugii<STEAM_0:1:552352244> spawned sent bank_vault
+[19:03:24] OWNER killed MrMillerUK using player
+[19:03:37] Lugii killed MrMillerUK using player
+[19:03:45] Lugii: // missclick
+[19:03:57] OWNER: !noclip
+[19:04:06] OWNER brought MrMillerUK
+[19:04:06] OWNER: !bring mr
+[19:04:18] Lugii<STEAM_0:1:552352244> spawned vehicle models/tiggomods/vehicles/ram.mdl
+[19:04:40] OWNER: !noclip
+[19:04:57] OWNER brought MrMillerUK
+[19:05:06] OWNER: ./tickets
+[19:05:14] Lugii teleported to MrMillerUK
+[19:05:14] Lugii: !goto MrMillerUK
+[19:05:34] OWNER: !noclip
+[19:05:35] Lugii: !noclip
+[19:05:38] Lugii: !noclip
+[19:05:41] Lugii returned Themself to their original position
+[19:05:41] Lugii: !return
+[19:05:51] Lugii<STEAM_0:1:552352244> spawned vehicle models/tiggomods/vehicles/porsche911.mdl
+[19:06:23] Lugii: !noclip
+[19:06:25] MrMillerUK brought OWNER
+[19:06:35] Lugii<STEAM_0:1:552352244> spawned vehicle models/steelemancars/chevrolet_nascar/chevrolet_nascar.mdl
+[19:06:45] MrMillerUK returned OWNER to their original position
+[19:06:58] Lugii: !noclip
+[19:06:59] Lugii: !noclip
+[19:07:05] Lugii<STEAM_0:1:552352244> spawned vehicle models/sentry/cybertruck.mdl
+[19:07:13] OWNER<STEAM_0:1:634690584> spawned vehicle models/nova/airboat_seat.mdl
+[19:07:16] MrMillerUK: !noclip
+[19:07:26] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggomods/vehicles/paganizonda.mdl
+[19:07:30] MrMillerUK: !noclip
+[19:07:39] MrMillerUK: !noclip
+[19:07:44] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggomods/tanks/m1a1/body.mdl
+[19:07:44] Lugii<STEAM_0:1:552352244> spawned vehicle models/sentry/teslasemi.mdl
+[19:07:48] Lugii<STEAM_0:1:552352244> spawned vehicle models/lonewolfie/lam_huracan.mdl
+[19:07:51] Lugii<STEAM_0:1:552352244> spawned vehicle models/lonewolfie/bugatti_veyron_grandsport.mdl
+[19:07:56] Lugii<STEAM_0:1:552352244> spawned vehicle models/djm_cars/lamborghini/lamborghini_huracan_evo/lamborghini_huracan_evo.mdl
+[19:08:11] MrMillerUK: !noclip
+[19:08:18] OWNER killed MrMillerUK using player
+[19:08:39] MrMillerUK: !noclip
+[19:08:46] MrMillerUK: !noclip
+[19:08:53] Lugii killed MrMillerUK using weapon_bm_ams
+[19:08:55] OWNER<STEAM_0:1:634690584> spawned vehicle models/djm_cars/lamborghini/lamborghini_huracan_evo/lamborghini_huracan_evo.mdl
+[19:08:59] Lugii brought MrMillerUK
+[19:08:59] Lugii: !bring MrMillerUK
+[19:09:04] Lugii: !noclip
+[19:09:11] Lugii: !noclip
+[19:09:14] Lugii: !noclip
+[19:09:17] Lugii: !noclip
+[19:09:24] OWNER<STEAM_0:1:634690584> spawned vehicle models/lonewolfie/bugatti_veyron_grandsport.mdl
+[19:09:28] OWNER<STEAM_0:1:634690584> spawned vehicle models/sentry/teslasemi.mdl
+[19:09:34] OWNER<STEAM_0:1:634690584> spawned vehicle models/steelemancars/chevrolet_nascar/chevrolet_nascar.mdl
+[19:09:36] OWNER<STEAM_0:1:634690584> spawned vehicle models/steelemancars/dw12indycar/dw12_indycar.mdl
+[19:09:39] OWNER<STEAM_0:1:634690584> spawned vehicle models/steelemancars/flipcar/flipcar.mdl
+[19:10:08] OWNER: !noclip
+[19:10:31] MrMillerUK: !!
+[19:11:24] Lugii: !bring tro
+[19:11:29] Lugii brought OWNER
+[19:11:29] Lugii: !bring OWNER
+[19:11:45] Lugii: 1warn
+[19:12:54] Lugii: !noclip
+[19:12:55] Lugii: !noclip
+[19:13:02] Lugii: !noclip
+[19:13:04] Lugii killed MrMillerUK using weapon_supreme_badtime_bm_gblaster
+[19:13:05] Lugii: !noclip
+[19:13:15] Lugii: !bring MrMillerUK
+[19:13:16] Lugii: !noclip
+[19:13:20] Lugii brought MrMillerUK
+[19:13:20] Lugii: !bring MrMillerUK
+[19:13:41] Lugii killed MrMillerUK using ent_ionbeacon
+[19:13:44] Lugii: !noclip
+[19:13:51] OWNER brought Lugii,MrMillerUK
+[19:13:51] OWNER: !bring l
+[19:14:08] Lugii killed MrMillerUK using player
+[19:14:13] Lugii: // crossfire
+[19:14:27] Lugii returned MrMillerUK to their original position
+[19:14:27] Lugii: !return MrMillerUK
+[19:14:35] Lugii brought MrMillerUK
+[19:14:35] Lugii: !bring MrMillerUK
+[19:14:37] Lugii killed MrMillerUK using player
+[19:14:41] Lugii: // crossfire
+[19:14:46] MrMillerUK: !goto tro
+[19:14:48] Lugii brought MrMillerUK
+[19:14:48] Lugii: !bring MrMillerUK
+[19:15:14] OWNER granted god mode upon MrMillerUK
+[19:15:14] OWNER: !god mr
+[19:15:36] OWNER: !noclip
+[19:15:57] Lugii: !noclip
+[19:16:05] Lugii: !noclip
+[19:16:10] MrMillerUK: !noclip
+[19:16:15] Lugii brought MrMillerUK
+[19:16:15] Lugii: !bring MrMillerUK
+[19:16:22] Lugii revoked god mode from MrMillerUK
+[19:16:22] Lugii: !ungod MrMillerUK
+[19:16:23] Lugii killed MrMillerUK using player
+[19:16:25] Lugii: !noclip
+[19:16:32] Lugii: !noclip
+[19:16:36] Lugii: !bring all
+[19:16:37] MrMillerUK granted god mode upon Themself
+[19:16:37] MrMillerUK: !god Mr
+[19:16:41] Lugii brought MrMillerUK
+[19:16:41] Lugii: !bring MrMillerUK
+[19:17:16] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[19:18:44] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_hacking_usb
+[19:19:45] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[19:19:47] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[19:19:49] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[19:19:59] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_hacking_usb
+[19:20:13] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_antivirus_usb
+[19:21:26] MrMillerUK: /pm t yo you need to make it so i can warn ppl
+[19:22:33] MrMillerUK: !NOCLIP
+[19:23:06] MrMillerUK: !goto tronix
+[19:23:20] MrMillerUK: /noclip
+[19:24:15] MrMillerUK: !
+[19:25:10] (Console) added MrMillerUK to group admin
+[19:25:28] OWNER: .!warn
+[19:26:13] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_junk/cardboard_box003a.mdl
+[19:26:19] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[19:26:33] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[19:26:48] (Console) granted access "awarn_warn" to MrMillerUK
+[19:27:31] OWNER: !noclip
+[19:27:39] Lugii<STEAM_0:1:552352244> spawned sent pax_scoreboard
+[19:27:59] Lugii<STEAM_0:1:552352244> spawned sent xenin_coinflip_npc
+[19:29:10] OWNER<STEAM_0:1:634690584> spawned sent pax_scoreboard
+[19:29:34] OWNER<STEAM_0:1:634690584> spawned sent pax_scoreboard
+[19:30:15] MrMillerUK: !noclip
+[19:30:52] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:30:57] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:31:10] OWNER: !noclip
+[19:31:18] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[19:31:24] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:31:43] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:31:50] Client "MrMillerUK" connected.
+[19:31:53] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:32:11] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:32:25] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 35 seconds).
+[19:32:34] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:32:42] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:32:49] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:33:02] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:33:18] OWNER<STEAM_0:1:634690584> spawned sent xenin_coinflip_npc
+[19:33:55] MrMillerUK: !goto tronix
+[19:34:07] (Console) granted access "awarn_options" to group admin
+[19:34:16] OWNER teleported to MrMillerUK
+[19:34:16] OWNER: !goto mr
+[19:36:34] OWNER: !addjailpos
+[19:36:44] OWNER: !setjailpos
+[19:36:53] OWNER: !nring mr
+[19:36:55] MrMillerUK: !noclip
+[19:36:58] OWNER brought MrMillerUK
+[19:36:58] OWNER: !bring mr
+[19:37:25] OWNER: /addjailpos
+[19:37:34] OWNER: /addjailpos
+[19:37:34] MrMillerUK: !noclip
+[19:37:42] OWNER: /addjailpos
+[19:37:57] OWNER: /addjailpos
+[19:38:00] MrMillerUK: !noclip
+[19:38:03] OWNER: /addjailpos
+[19:38:08] OWNER: /setjailpos
+[19:38:15] OWNER: /addjailpos
+[19:38:23] OWNER: /addjailpos
+[19:38:31] OWNER: /addjailpos
+[19:38:40] (TEAM) OWNER: /addjailpos
+[19:38:46] MrMillerUK: !noclip
+[19:39:01] MrMillerUK: !noclip
+[19:39:16] OWNER brought MrMillerUK
+[19:39:16] OWNER: !bring mr
+[19:39:16] Client "Tokio Grinch." connected.
+[19:39:28] OWNER: !goto tokio
+[19:39:36] OWNER: !noclip
+[19:39:42] MrMillerUK: !noclip
+[19:39:55] OWNER: !goto t
+[19:40:34] MrMillerUK: !noclip
+[19:46:33] OWNER brought MrMillerUK
+[19:46:33] OWNER: !bring mr
+[19:46:54] OWNER returned MrMillerUK to their original position
+[19:46:54] OWNER: !return mr
+[19:51:57] Client "LoGaming" connected.
+[19:52:41] OWNER brought MrMillerUK
+[19:52:41] OWNER: !bring mr
+[19:53:38] Client "LoGaming" connected.
+[19:53:46] OWNER: !goto lo
+[19:53:59] OWNER: !goto Lo
+[19:55:31] MrMillerUK: !noclip
+[19:56:39] Client "LoGaming" connected.
+[19:56:42] (TEAM) MrMillerUK: !noclip
+[19:57:01] OWNER: !noclip
+[19:57:07] OWNER brought Lugii
+[19:57:07] OWNER: !bring lug
+[19:57:37] OWNER<STEAM_0:1:634690584> spawned sent keypad
+[19:57:39] OWNER<STEAM_0:1:634690584> spawned sent sent_jetpack
+[19:57:56] Client "LoGaming" connected.
+[19:58:03] MrMillerUK: !noclip
+[19:58:19] MrMillerUK: !noclip
+[19:58:40] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:00:10] Client "LoGaming" spawned in server <STEAM_0:1:206012460> (took 134 seconds).
+[20:00:26] LoGaming: /a yo
+[20:00:34] MrMillerUK teleported to LoGaming
+[20:00:34] MrMillerUK: !goto Lo
+[20:00:37] OWNER teleported to LoGaming
+[20:00:37] OWNER: !goto lo
+[20:00:43] MrMillerUK: hi
+[20:00:54] LoGaming: !menu
+[20:01:04] LoGaming to admins: fortrnite
+[20:01:27] OWNER: /dropmoney 500000
+[20:01:54] MrMillerUK: /pm T whats the command to be invisible
+[20:02:20] LoGaming: !store
+[20:02:32] (TEAM) OWNER: !noclip
+[20:02:44] OWNER cloaked Themself by amount 0
+[20:02:44] OWNER: !cloak
+[20:02:50] OWNER uncloaked Themself
+[20:02:50] OWNER: !uncloak
+[20:02:55] MrMillerUK cloaked Themself by amount 0
+[20:02:55] MrMillerUK: !cloak
+[20:03:01] OWNER cloaked Themself by amount 0
+[20:03:01] OWNER: !cloak
+[20:03:01] MrMillerUK: !noclip
+[20:03:05] OWNER teleported to LoGaming
+[20:03:05] OWNER: !goto lo
+[20:03:36] MrMillerUK uncloaked Themself
+[20:03:36] MrMillerUK: !uncloak
+[20:03:40] MrMillerUK: !noclip
+[20:03:42] OWNER teleported to LoGaming
+[20:03:42] OWNER: !goto lo
+[20:03:44] MrMillerUK: !noclip
+[20:03:49] MrMillerUK: !noclip
+[20:04:05] MrMillerUK: !noclip
+[20:04:22] MrMillerUK: !noclip
+[20:04:41] LoGaming<STEAM_0:1:206012460> spawned model models/props_phx/construct/metal_wire_angle360x2.mdl
+[20:04:52] MrMillerUK: !noclip
+[20:05:00] MrMillerUK: !noclip
+[20:05:16] OWNER brought MrMillerUK
+[20:05:16] OWNER: !bring mr
+[20:05:27] LoGaming<STEAM_0:1:206012460> spawned model models/maxofs2d/balloon_classic.mdl
+[20:05:36] OWNER returned MrMillerUK to their original position
+[20:05:36] OWNER: !return mr
+[20:05:39] OWNER teleported to MrMillerUK
+[20:05:39] OWNER: !goto mr
+[20:06:19] MrMillerUK: !noclip
+[20:06:28] LoGaming<STEAM_0:1:206012460> spawned model models/props_trainstation/train001.mdl
+[20:06:42] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:06:58] MrMillerUK: !noclip
+[20:07:04] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_shelf
+[20:07:07] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[20:07:08] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[20:07:09] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[20:07:09] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[20:07:15] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:15] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:15] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:15] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:15] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:16] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:16] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:16] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:18] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:18] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:18] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:18] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:07:25] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[20:07:26] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[20:07:42] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_cooling3
+[20:07:53] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_rgb
+[20:08:02] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_ups
+[20:08:30] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:08:31] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:08:31] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:08:31] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:08:31] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_upgrade_miner
+[20:09:17] MrMillerUK: !noclip
+[20:09:23] MrMillerUK: !noclip
+[20:09:23] OWNER: !noclip
+[20:09:49] OWNER: !bring mr
+[20:09:50] MrMillerUK: !noclip
+[20:09:55] OWNER brought MrMillerUK
+[20:09:55] OWNER: !bring mr
+[20:09:59] MrMillerUK: !noclip
+[20:10:01] OWNER: !noclip
+[20:10:09] OWNER: !noclip
+[20:10:13] OWNER cloaked Themself by amount 0
+[20:10:13] OWNER: !cloak
+[20:10:16] OWNER: !goto l
+[20:10:23] OWNER teleported to LoGaming
+[20:10:23] OWNER: !goto lo
+[20:10:32] LoGaming: yo
+[20:10:51] LoGaming: yeeee
+[20:12:33] (TEAM) OWNER: !rainbow hi
+[20:13:16] LoGaming: /a 
+[20:13:18] LoGaming: /a test
+[20:13:20] OWNER uncloaked Themself
+[20:13:20] (TEAM) OWNER: !uncloak
+[20:13:31] LoGaming: /a you guys might want to disable FAdmin in the darkrp modification settings
+[20:13:41] LoGaming: its the default admin system but you are using ulx
+[20:13:50] LoGaming: /a its the default admin system but you are using ulx instead
+[20:13:53] LoGaming: /a so you dont need it
+[20:14:02] OWNER teleported to LoGaming
+[20:14:03] OWNER: !goto lo
+[20:14:19] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:33] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:37] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:42] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:45] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:14:46] MrMillerUK was killed by prop_physics
+[20:14:54] MrMillerUK: !noclip
+[20:15:05] MrMillerUK: !noclip
+[20:15:07] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:15:19] LoGaming: !menu
+[20:15:22] OWNER: !menu
+[20:15:24] LoGaming: !menu
+[20:15:25] LoGaming: !menu
+[20:15:25] LoGaming: !menu
+[20:15:26] LoGaming: !menu
+[20:15:45] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:15:55] OWNER returned Themself to their original position
+[20:15:55] OWNER: !return
+[20:16:26] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube075x2x075.mdl
+[20:16:29] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube075x2x075.mdl
+[20:16:44] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube075x2x075.mdl
+[20:16:45] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube075x2x075.mdl
+[20:16:46] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube075x2x075.mdl
+[20:16:46] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:16:46] MrMillerUK<STEAM_0:1:525475507> spawned model models/hunter/blocks/cube075x2x075.mdl
+[20:16:56] LoGaming: /me Salutes
+[20:17:04] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:17:05] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:06] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:07] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:17:07] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:08] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:09] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:10] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:11] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:11] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:17:12] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:13] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:14] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:14] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:15] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:16] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:17] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:17] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:18] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:19] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:20] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:23] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:24] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:25] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:26] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:27] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:27] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:29] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:29] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:30] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:31] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:32] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:33] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:34] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:35] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:36] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:37] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:38] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:39] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:40] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:41] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:42] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:42] OWNER: !noclip
+[20:17:43] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:44] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:45] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:46] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:47] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:48] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:49] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:49] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:50] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:51] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:52] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:53] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:54] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:55] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:56] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:57] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:58] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:17:59] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:00] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:01] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:02] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:04] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:05] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:06] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:07] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:08] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:08] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:09] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:10] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:11] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:12] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:12] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:16] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:16] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:17] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:18] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:19] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:20] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:21] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:22] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:23] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:26] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:26] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:27] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:28] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:29] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:30] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:31] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:32] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:33] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:33] OWNER: !noclip
+[20:18:34] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:35] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:35] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:36] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:37] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:39] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:40] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:41] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:42] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:42] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:43] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:44] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:45] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:45] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:46] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:47] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:48] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:49] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:50] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:50] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:51] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:52] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:53] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:54] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:55] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:55] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:18:56] LoGaming<STEAM_0:1:206012460> spawned model models/mechanics/wheels/wheel_speed_72.mdl
+[20:19:02] LoGaming was killed by prop_physics
+[20:19:06] OWNER<STEAM_0:1:634690584> spawned model models/props_lab/blastdoor001c.mdl
+[20:20:48] MrMillerUK: /pm l stop breaking server pls
+[20:20:52] OWNER teleported to LoGaming
+[20:20:52] OWNER: !goto lo
+[20:21:22] OWNER returned Themself to their original position
+[20:21:22] OWNER: !return
+[20:21:48] LoGaming: /a maybe server hosting
+[20:21:58] OWNER: /pm lo yh
+[20:22:19] OWNER: /pm logaming yh imma upgrade it to 6ghz cpu this month
+[20:22:24] LoGaming: nawwwww
+[20:22:30] LoGaming: /a nawh use my hosting
+[20:22:55] Client "rejusyeet" connected.
+[20:23:03] MrMillerUK: !goto re
+[20:23:14] MrMillerUK teleported to LoGaming
+[20:23:14] MrMillerUK: !goto Lo
+[20:24:34] MrMillerUK: /dropmoney 1000
+[20:24:35] OWNER cloaked Themself by amount 0
+[20:24:35] OWNER: !cloak
+[20:24:39] OWNER teleported to LoGaming
+[20:24:39] (TEAM) OWNER: !goto lo
+[20:25:06] OWNER: look
+[20:25:25] MrMillerUK: !noclip
+[20:25:41] OWNER teleported to MrMillerUK
+[20:25:41] OWNER: !goto mr
+[20:25:50] OWNER teleported to LoGaming
+[20:25:50] OWNER: !goto lo
+[20:25:56] Client "rejusyeet" connected.
+[20:26:21] MrMillerUK: !noclip
+[20:26:27] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:26:30] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:26:35] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_lab/blastdoor001c.mdl
+[20:27:45] OWNER cloaked Themself by amount 0
+[20:27:45] OWNER: !cloak
+[20:27:49] OWNER teleported to LoGaming
+[20:27:49] (TEAM) OWNER: !goto lo
+[20:28:00] MrMillerUK: !noclip
+[20:28:10] MrMillerUK: !noclip
+[20:28:20] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[20:28:26] OWNER: for u
+[20:28:50] OWNER uncloaked Themself
+[20:28:50] OWNER: !uncloak
+[20:28:54] OWNER: here
+[20:29:00] OWNER: yh
+[20:29:08] OWNER: k
+[20:29:50] Client "rejusyeet" connected.
+[20:30:34] Client "rejusyeet" connected.
+[20:31:43] MrMillerUK: !noclip
+[20:31:54] MrMillerUK: !noclip
+[20:32:12] OWNER brought MrMillerUK
+[20:32:12] OWNER: !bring mr
+[20:32:21] Dropped "LoGaming" from server<STEAM_0:1:206012460>
+[20:32:21] Client "LoGaming" connected.
+[20:32:23] OWNER returned MrMillerUK to their original position
+[20:32:23] OWNER: !return mr
+[20:32:30] OWNER: !goto lo
+[20:32:37] OWNER: !noclip
+[20:32:43] MrMillerUK: !noclip
+[20:32:49] MrMillerUK: !noclip
+[20:32:51] Client "LoGaming" spawned in server <STEAM_0:1:206012460> (took 30 seconds).
+[20:33:25] MrMillerUK suicided!
+[20:33:26] LoGaming<STEAM_0:1:206012460> spawned model models/props_lab/blastdoor001c.mdl
+[20:33:35] Client "rejusyeet" connected.
+[20:33:39] LoGaming<STEAM_0:1:206012460> spawned model models/props_lab/blastdoor001b.mdl
+[20:33:39] MrMillerUK teleported to LoGaming
+[20:33:39] MrMillerUK: !goto lo
+[20:33:45] OWNER teleported to LoGaming
+[20:33:45] OWNER: !goto lo
+[20:33:49] LoGaming<STEAM_0:1:206012460> spawned model models/props_lab/blastdoor001c.mdl
+[20:33:52] MrMillerUK: !noclip
+[20:33:58] MrMillerUK cloaked Themself by amount 0
+[20:33:58] MrMillerUK: !cloak
+[20:35:22] MrMillerUK uncloaked Themself
+[20:35:22] MrMillerUK: !uncloak
+[20:35:55] MrMillerUK: w
+[20:36:00] OWNER brought MrMillerUK
+[20:36:00] OWNER: !bring mr
+[20:36:06] OWNER<STEAM_0:1:634690584> spawned sent sent_jetpack
+[20:36:11] OWNER<STEAM_0:1:634690584> spawned sent sent_jetpack
+[20:36:24] MrMillerUK granted god mode upon Themself
+[20:36:24] MrMillerUK: !god
+[20:36:32] MrMillerUK: !noclip
+[20:36:51] MrMillerUK: !noclip
+[20:37:01] OWNER<STEAM_0:1:634690584> spawned sent keypad_wire
+[20:37:33] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggomods/vehicles/lambomurci.mdl
+[20:38:03] MrMillerUK: !noclip
+[20:38:06] MrMillerUK: !nocli[
+[20:38:12] MrMillerUK: !noclip
+[20:39:08] OWNER brought MrMillerUK
+[20:39:08] OWNER: !bring mr
+[20:39:47] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggogm/vehicles/yamahayfz450.mdl
+[20:39:52] OWNER<STEAM_0:1:634690584> spawned vehicle models/tiggogm/vehicles/yamahayfz450.mdl
+[20:40:29] Client "rejusyeet" spawned in server <STEAM_0:0:725841280> (took 414 seconds).
+[20:40:34] OWNER: !noclip
+[20:40:44] OWNER: hi
+[20:41:55] MrMillerUK uncloaked Themself
+[20:41:55] MrMillerUK: !uncloak
+[20:42:18] OWNER: !noclip
+[20:43:53] OWNER brought MrMillerUK
+[20:43:53] OWNER: !bring mr
+[20:44:01] MrMillerUK: /pm tr gaster blast
+[20:44:07] OWNER returned MrMillerUK to their original position
+[20:44:07] OWNER: !return mr
+[20:44:51] MrMillerUK granted god mode upon Themself
+[20:44:51] MrMillerUK: !god
+[20:47:36] OWNER brought LoGaming,MrMillerUK
+[20:47:36] OWNER: !bring l
+[20:47:48] OWNER: !return l
+[20:47:54] OWNER returned LoGaming to their original position
+[20:47:54] OWNER: !return lo
+[20:47:58] LoGaming: /a dw
+[20:48:05] Client "Lugii" connected.
+[20:48:24] OWNER: !noclip
+[20:48:41] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 36 seconds).
+[20:48:47] MrMillerUK: !noclip
+[20:48:54] OWNER brought rejusyeet
+[20:48:54] OWNER: !bring rej
+[20:48:58] Lugii: !noclip
+[20:49:05] OWNER: /dropmoney 500000
+[20:49:10] Lugii teleported to OWNER
+[20:49:10] Lugii: !goto OWNER
+[20:49:13] Lugii: !noclip
+[20:49:18] MrMillerUK: !noclip
+[20:49:21] OWNER returned rejusyeet to their original position
+[20:49:21] OWNER: !return rej
+[20:49:34] MrMillerUK teleported to rejusyeet
+[20:49:34] MrMillerUK: !goto rej
+[20:49:36] OWNER: !noclip
+[20:49:44] Lugii teleported to rejusyeet
+[20:49:44] Lugii: !goto rejusyeet
+[20:49:47] Lugii was killed by entityflame
+[20:49:47] rejusyeet was killed by entityflame
+[20:49:54] Lugii: !return rejusyeet
+[20:50:00] Lugii: !noclip
+[20:50:23] Lugii: !noclip
+[20:50:52] Lugii: !noclip
+[20:50:55] Lugii: !noclip
+[20:51:03] Lugii: !noclip
+[20:51:09] Lugii: !noclip
+[20:51:11] MrMillerUK: !noclip
+[20:51:26] Lugii: !noclip
+[20:51:37] Lugii: !noclip
+[20:52:01] MrMillerUK: !noclip
+[20:52:32] Lugii: !noclip
+[20:52:35] Lugii: !noclip
+[20:53:01] MrMillerUK: !noclip
+[20:53:03] Lugii: !noclip
+[20:53:07] Lugii: !noclip
+[20:53:49] Lugii: !noclip
+[20:53:54] Lugii: !noclip
+[20:53:56] Lugii: !noclip
+[20:53:57] Lugii: !noclip
+[20:54:03] Lugii: // raid
+[20:54:16] Lugii killed rejusyeet using player
+[20:54:48] MrMillerUK: !noclip
+[20:54:54] Lugii teleported to OWNER
+[20:54:54] Lugii: !goto OWNER
+[20:54:55] Lugii: !noclip
+[20:54:56] Lugii: !noclip
+[20:54:58] MrMillerUK: !noclip
+[20:55:02] Lugii brought rejusyeet
+[20:55:02] Lugii: !bring rejusyeet
+[20:55:38] MrMillerUK: !noclip
+[20:55:38] OWNER: !noclip
+[20:55:53] Lugii returned rejusyeet to their original position
+[20:55:53] Lugii: !return rejusyeet
+[20:56:00] Lugii returned Themself to their original position
+[20:56:00] Lugii: !return Lugii
+[20:56:03] Lugii: !noclip
+[20:56:11] Lugii: !noclip
+[20:56:23] MrMillerUK: !noclip
+[20:56:35] Lugii brought OWNER
+[20:56:35] Lugii: !bring OWNER
+[20:56:42] MrMillerUK: !noclip
+[20:57:08] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_item_palette
+[20:57:46] Lugii: !noclip
+[20:58:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_palette
+[20:58:57] Lugii: !noclip
+[20:59:02] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[20:59:08] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_item_palette
+[20:59:13] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:14] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:16] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:17] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:19] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:42] MrMillerUK: /dropmoney 100000
+[20:59:51] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:53] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:54] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:55] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:56] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[20:59:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:00:23] MrMillerUK: !noclip
+[21:00:26] Lugii: !noclip
+[21:00:30] Lugii: !noclip
+[21:00:30] MrMillerUK: !noclip
+[21:00:33] Lugii teleported to OWNER
+[21:00:33] Lugii: !goto OWNER
+[21:00:52] Lugii brought OWNER
+[21:00:52] Lugii: !bring OWNER
+[21:01:48] LoGaming: /a can i get vip
+[21:01:51] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:01:54] LoGaming: /a default plant pots are ;(
+[21:01:55] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:56] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:56] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:56] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:58] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:01:58] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:02:46] MrMillerUK: /pm lo make a ticket and ask about it maybe
+[21:03:00] MrMillerUK: !noclip
+[21:03:05] MrMillerUK: !noclip
+[21:03:11] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:03:11] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:03:11] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:03:11] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:03:12] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:03:12] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:03:15] MrMillerUK: !noclip
+[21:03:17] Lugii: !noclip
+[21:03:18] OWNER: !noclip
+[21:03:18] Lugii: !noclip
+[21:03:21] MrMillerUK: !noclip
+[21:03:25] Lugii brought LoGaming
+[21:03:29] (TEAM) MrMillerUK: !noclip
+[21:03:46] MrMillerUK: !noclip
+[21:04:10] OWNER returned LoGaming to their original position
+[21:04:12] OWNER teleported to LoGaming
+[21:04:18] Lugii: !noclip
+[21:04:22] Lugii: !noclip
+[21:04:27] OWNER returned Themself to their original position
+[21:04:27] OWNER: !return
+[21:04:32] OWNER: !noclip
+[21:04:43] Lugii: !flips
+[21:05:01] MrMillerUK: !noclip
+[21:05:03] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:03] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:04] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:05] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:06] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:07] Lugii: !cf
+[21:05:07] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:09] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:11] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:11] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_meth
+[21:05:19] MrMillerUK: !noclip
+[21:05:31] LoGaming: !cf
+[21:05:53] LoGaming: /a W
+[21:05:54] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_palette
+[21:05:54] Lugii: !cf
+[21:05:55] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:05:56] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:05:56] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:05:57] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:05:58] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:15] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:16] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:16] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:17] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:17] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:18] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:18] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:43] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:44] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:44] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:45] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:45] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:46] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:46] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:47] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:06:48] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:07:14] Lugii: !cf
+[21:07:31] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:07:32] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:07:43] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_palette
+[21:07:46] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_palette
+[21:07:58] LoGaming: /a selling that good 100% zaza zaza
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned model models/props_junk/sawblade001a.mdl
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_carwheel
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned vehicle models/nova/airboat_seat.mdl
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_palette
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_carwheel
+[21:07:59] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_car_lambomurci
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_car_yamahayfz450
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_carwheel
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_carwheel
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_power_rtg
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned model models/props_junk/sawblade001a.mdl
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned vehicle models/nova/airboat_seat.mdl
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent sammyservers_textscreen
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent spawned_money
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned sent sent_sakarias_carwheel
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned model models/props_lab/blastdoor001c.mdl
+[21:08:00] OWNER<STEAM_0:1:634690584> spawned vehicle models/nova/airboat_seat.mdl
+[21:08:02] LoGaming: /a soon idk
+[21:08:09] LoGaming: /a very expensive 
+[21:08:12] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_palette
+[21:08:13] LoGaming: /a handgrown
+[21:08:28] Lugii: !cf
+[21:08:29] OWNER<STEAM_0:1:634690584> spawned sent zmlab2_item_crate
+[21:09:06] MrMillerUK cloaked Themself by amount 0
+[21:09:06] MrMillerUK: !cloak
+[21:09:12] MrMillerUK: !noclip
+[21:09:16] Lugii uncloaked MrMillerUK
+[21:09:16] Lugii: !uncloak MrMillerUK
+[21:09:20] Lugii: !cf
+[21:09:39] Lugii: !noclip
+[21:09:40] MrMillerUK: !uncloal
+[21:09:42] Lugii: !noclip
+[21:09:44] MrMillerUK uncloaked Themself
+[21:09:44] MrMillerUK: !uncloak
+[21:09:49] MrMillerUK: !noclip
+[21:09:58] Lugii: !noclip
+[21:10:00] Client "mery" connected.
+[21:10:11] LoGaming: !cf
+[21:10:17] Lugii: !noclip
+[21:10:18] Lugii: !noclip
+[21:10:18] Lugii: !noclip
+[21:10:22] OWNER: !noclip
+[21:10:31] LoGaming: /a gg
+[21:10:36] MrMillerUK: gg
+[21:10:36] Lugii: !noclip
+[21:10:47] Lugii: !noclip
+[21:10:51] LoGaming: !cf
+[21:11:18] LoGaming: /a darn gg
+[21:11:22] Lugii: // gg
+[21:11:25] Lugii: !cf
+[21:11:36] LoGaming: /a anyone wanna buy weed 
+[21:11:38] LoGaming: /a joints
+[21:11:40] Lugii: !noclip
+[21:11:44] Lugii: !noclip
+[21:12:14] Lugii: !cf
+[21:12:22] OWNER: !noclip
+[21:12:33] Client "mery" spawned in server <STEAM_0:0:568544381> (took 153 seconds).
+[21:12:39] Lugii: !cf
+[21:13:26] Lugii: !noclip
+[21:13:28] Lugii: !noclip
+[21:13:34] OWNER brought MrMillerUK
+[21:13:34] OWNER: !bring mr
+[21:13:42] OWNER: /dropmoney 500000
+[21:13:49] OWNER returned MrMillerUK to their original position
+[21:13:49] OWNER: !return mr
+[21:13:56] Lugii: !noclip
+[21:13:58] Lugii: !noclip
+[21:14:33] OWNER brought mery
+[21:14:33] OWNER: !bring mery
+[21:14:35] OWNER: yo
+[21:14:43] Lugii teleported to OWNER
+[21:14:43] Lugii: !goto OWNER
+[21:14:43] OWNER: what
+[21:14:52] OWNER: oh ye ill give em back
+[21:14:55] OWNER: !menu
+[21:15:06] OWNER added mery to group admin
+[21:15:15] OWNER: in admin land
+[21:15:16] mery: !noclip
+[21:15:19] Lugii: !noclip
+[21:15:21] Lugii: !noclip
+[21:15:21] Lugii: !noclip
+[21:15:23] Lugii: !noclip
+[21:15:24] OWNER returned mery to their original position
+[21:15:24] OWNER: !return mery
+[21:15:26] OWNER: yh
+[21:15:28] Lugii: !noclip
+[21:15:28] OWNER: afk
+[21:15:30] Lugii: !noclip
+[21:15:30] Client "rezeň26" connected.
+[21:15:33] LoGaming: /a selling joints in spawn
+[21:15:34] LoGaming: /a zaza
+[21:15:36] LoGaming: /a weed
+[21:15:46] MrMillerUK: !nolcip
+[21:15:46] LoGaming: /a 50k for top shelf zaza
+[21:15:51] MrMillerUK: !noclip
+[21:16:03] OWNER: nah soz bc were still making changes to that
+[21:16:07] OWNER: !noclip
+[21:16:07] MrMillerUK: !noclip
+[21:16:35] mery: !noclip
+[21:16:44] LoGaming: !cf
+[21:16:46] Lugii: !cf
+[21:16:54] LoGaming: !cf
+[21:16:56] (csay from OWNER) the owner hasd to leave now have fun!!!
+[21:17:06] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[21:18:30] MrMillerUK: !noclip
+[21:18:51] LoGaming: /dropweapon
+[21:18:57] Lugii teleported to mery
+[21:18:57] Lugii: !goto mery
+[21:19:00] MrMillerUK: !noclip
+[21:19:29] LoGaming: weed
+[21:19:41] MrMillerUK<STEAM_0:1:525475507> spawned model models/props_junk/propanecanister001a.mdl
+[21:19:56] Lugii teleported to MrMillerUK
+[21:19:56] Lugii: !goto MrMillerUK
+[21:19:56] mery: !noclip
+[21:20:05] Lugii teleported to rejusyeet
+[21:20:05] Lugii: !goto rejusyeet
+[21:20:27] Lugii: /cheque "LoGaming" 5000
+[21:20:40] mery cloaked Themself by amount 0
+[21:20:40] mery: !cloak mery
+[21:20:41] LoGaming: /buyuniammo
+[21:20:42] LoGaming: /buyuniammo
+[21:20:45] Lugii: !goto ow
+[21:20:46] Lugii: !noclip
+[21:20:50] Lugii: !noclip
+[21:20:58] Lugii teleported to rejusyeet
+[21:20:58] Lugii: !goto rejusyeet
+[21:21:01] Lugii: !noclip
+[21:21:03] Lugii: !noclip
+[21:21:28] Lugii: !noclip
+[21:21:35] Lugii: !noclip
+[21:21:40] MrMillerUK: !noclip
+[21:22:13] mery: !noclip
+[21:22:21] Lugii: !noclip
+[21:22:21] MrMillerUK: !noclip
+[21:22:23] Lugii: !noclip
+[21:22:24] LoGaming: /a ok im gonna leave 
+[21:22:28] LoGaming: /a cya epic server
+[21:22:32] LoGaming: /a very cewl 
+[21:22:35] Dropped "LoGaming" from server<STEAM_0:1:206012460>
+[21:22:37] Lugii: !noclip
+[21:22:39] Lugii: !noclip
+[21:23:41] Lugii teleported to mery
+[21:23:41] Lugii: !goto mery
+[21:23:42] mery: !noclip
+[21:23:49] Lugii uncloaked mery
+[21:23:49] Lugii: !uncloak mery
+[21:23:50] mery: /inholster
+[21:24:31] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_generator_fuel_small
+[21:24:42] Lugii: !noclip
+[21:24:45] Lugii: !noclip
+[21:24:52] mery: !noclip
+[21:25:02] mery: !props
+[21:25:29] Lugii: !noclip
+[21:25:35] Lugii: !noclip
+[21:25:54] mery: !motd
+[21:26:22] Lugii teleported to mery
+[21:26:22] Lugii: !goto mery
+[21:26:26] Lugii: !noclip
+[21:26:29] mery: !noclip
+[21:27:06] Lugii: !noclip
+[21:27:22] Lugii teleported to MrMillerUK
+[21:27:22] Lugii: !goto MrMillerUK
+[21:27:23] Lugii: !noclip
+[21:27:25] Lugii: !noclip
+[21:27:34] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:28:05] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:28:10] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:28:17] Client "𝐀𝐥𝐞𝐂𝐚𝐫𝐞" connected.
+[21:28:29] mery: welcome
+[21:28:43] MrMillerUK teleported to rejusyeet
+[21:28:43] MrMillerUK: !goto rej
+[21:28:47] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:28:55] Lugii uncloaked mery
+[21:28:55] Lugii: !uncloak mery
+[21:28:56] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:28:58] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:00] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:00] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:01] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:02] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:03] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:37] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[21:29:38] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:29:45] Lugii: !goto mery
+[21:29:47] Lugii: !noclip
+[21:29:51] Lugii teleported to mery
+[21:29:51] Lugii: !goto mery
+[21:30:03] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:30:11] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:30:11] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:30:31] Lugii teleported to rejusyeet
+[21:30:31] Lugii: !goto rejusyeet
+[21:30:35] Lugii: !noclip
+[21:31:49] Lugii: !noclip
+[21:31:54] Lugii: !noclip
+[21:31:55] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x5x025.mdl
+[21:32:16] Lugii: !noclip
+[21:32:21] Lugii: !noclip
+[21:32:23] rejusyeet<STEAM_0:0:725841280> spawned model models/props_c17/canister01a.mdl
+[21:32:41] Lugii teleported to rejusyeet
+[21:32:41] Lugii: !goto rejusyeet
+[21:33:07] Lugii suicided!
+[21:33:16] Lugii teleported to rejusyeet
+[21:33:16] Lugii: !goto rejusyeet
+[21:33:36] Lugii: !noclip
+[21:33:39] (Console) added mery to group superadmin
+[21:33:43] Lugii: !noclip
+[21:33:59] Lugii: !menu
+[21:34:11] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x125x025.mdl
+[21:34:14] Lugii removed all access rights from mery
+[21:34:17] rejusyeet<STEAM_0:0:725841280> spawned model models/props_junk/ibeam01a.mdl
+[21:34:33] rejusyeet suicided!
+[21:35:32] (Console) added mery to group superadmin
+[21:35:43] Lugii: !xban
+[21:35:51] Lugii banned mery permanently (Griefer)
+[21:35:51] Dropped "mery" from server<STEAM_0:0:568544381>
+[21:36:51] (Console) unbanned steamid STEAM_0:0:568544381 (mery)
+[21:37:11] Lugii: !unban
+[21:37:17] Lugii: !unban STEAM_0:0:568544381
+[21:37:21] Client "mery" connected.
+[21:37:50] Client "mery" spawned in server <STEAM_0:0:568544381> (took 29 seconds).
+[21:37:59] mery: !noclip
+[21:38:25] mery: !noclip
+[21:39:50] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x125x025.mdl
+[21:39:56] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x150x025.mdl
+[21:40:12] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x150x025.mdl
+[21:40:20] mery<STEAM_0:0:568544381> spawned model models/hunter/blocks/cube025x150x025.mdl
+[21:40:51] Lugii: !noclip
+[21:40:51] mery: !noclip
+[21:40:54] Lugii: !noclip
+[21:40:59] Lugii teleported to mery
+[21:40:59] Lugii: !goto mery
+[21:41:01] Lugii: !noclip
+[21:41:02] Lugii: !noclip

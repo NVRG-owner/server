@@ -1,0 +1,17 @@
+Tue May  2 19:53:19 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Tue May  2 19:53:20 2023	Lugii (STEAM_0:1:552352244) spawned
+Tue May  2 19:53:45 2023	Lugii (STEAM_0:1:552352244): !warn
+Tue May  2 19:55:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:55:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:55:57 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:56:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:56:14 2023	Lugii (STEAM_0:1:552352244): /sellalldoors
+Tue May  2 19:56:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:57:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:58:58 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 19:59:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 20:01:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 20:01:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 20:01:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT dronesrewrite_upgrcase_nightvision
+Tue May  2 20:07:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Tue May  2 20:07:01 2023	Lugii (STEAM_0:1:552352244): !noclip

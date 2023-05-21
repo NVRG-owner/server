@@ -1,0 +1,4 @@
+Sun Apr 23 13:31:49 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 13:31:49 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 13:32:22 2023	Lugii (STEAM_0:1:552352244): /tif
+Sun Apr 23 13:32:24 2023	Lugii (STEAM_0:1:552352244): /thief

@@ -1,0 +1,51 @@
+[21:55:35] New map: rp_downtown_tits_v2
+[21:56:25] Client "tronix22" connected.
+[21:57:07] Client "Lugii" connected.
+[21:58:17] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 70 seconds).
+[21:59:37] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 192 seconds).
+[21:59:52] Lugii: !noclip
+[22:01:07] Lugii: !noclip
+[22:01:46] Lugii<STEAM_0:1:552352244> spawned sent zbl_npc
+[22:01:48] Lugii: !noclip
+[22:02:20] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methbuyer
+[22:02:28] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[22:02:31] Lugii: !noclip
+[22:02:34] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth_baggy
+[22:02:38] Lugii<STEAM_0:1:552352244> spawned sent zmlab_combiner
+[22:02:50] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[22:03:05] Lugii<STEAM_0:1:552352244> spawned sent zrms_buyer
+[22:03:10] Lugii: !noclip
+[22:03:19] OWNER brought Lugii
+[22:03:19] OWNER: !bring lug
+[22:03:25] OWNER brought Lugii
+[22:03:25] OWNER: !bring lug
+[22:03:28] Lugii: !noclip
+[22:03:31] OWNER uncloaked Lugii
+[22:03:31] OWNER: !uncloak l
+[22:03:44] OWNER brought Lugii
+[22:03:44] OWNER: !bring lug
+[22:04:56] Lugii: !noclip
+[22:05:13] Lugii: !noclip
+[22:05:29] OWNER granted god mode upon Lugii
+[22:05:29] OWNER: !god lug
+[22:06:29] OWNER: !got own
+[22:06:33] OWNER granted god mode upon Themself
+[22:06:33] OWNER: !god ow
+[22:08:45] Lugii: !noclip
+[22:08:47] Lugii: !noclip
+[22:08:53] OWNER brought Lugii
+[22:08:53] OWNER: !bring l
+[22:09:03] Lugii: !noclip
+[22:09:06] Lugii: !noclip
+[22:09:10] Lugii: !noclip
+[22:09:28] Lugii: !noclip
+[22:10:06] Lugii: !noclip
+[22:10:19] Lugii: !noclip
+[22:11:08] OWNER suicided!
+[22:11:09] Lugii revoked god mode from OWNER
+[22:11:09] Lugii: !ungod OWNER
+[22:12:14] Lugii killed OWNER using player
+[22:12:28] Lugii killed OWNER using player
+[22:14:06] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[22:14:35] Dropped "OWNER" from server<STEAM_0:1:634690584>
+<Logging continued in "data/ulx_logs/04-26-23.txt">

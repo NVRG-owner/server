@@ -1,0 +1,354 @@
+[13:14:48] New map: rp_downtown_tits_v2
+[13:15:23] Client "Lugii" connected.
+[13:15:24] Client "Hot Lips" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "T-REX" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Katt <3" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Cookie" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "C0n | Ƹ̵̡Ӝ̵̨̄Ʒ" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Pr0" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Blossom" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Moi Loca" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Faith" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Kitty" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Coach" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:24] Client "Ace" connected.
+[13:15:24] Client "" spawned in server <BOT> (took 94 seconds).
+[13:15:25] Client "(*)(*)" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "dudette" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "Sweetex" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "Obama" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "Khaleesi" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "Trigger" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "Pound Cake" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "1+3+3=7" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "Defcon" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:25] Client "D00p" connected.
+[13:15:25] Client "" spawned in server <BOT> (took 95 seconds).
+[13:15:26] ~Katt~ <3<BOT> changed their name to Katt <3
+[13:16:27] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 64 seconds).
+[13:16:27] Dropped "Hot Lips" from server<BOT>
+[13:22:00] Server is shutting down/changing levels.
+
+
+
+[13:23:46] New map: rp_downtown_tits_v2
+[13:25:46] Client "Lugii" connected.
+[13:25:47] Client "Moi Loca" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Andrax" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Cerberus" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Raw." connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Sweetex" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Flesh Pound" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "The G-Unit" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Mina | <3" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:47] Client "Atomic Boom!" connected.
+[13:25:47] Client "" spawned in server <BOT> (took 179 seconds).
+[13:25:48] Client "Xenia" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Prodigy" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Meow :3" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "dudette" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Snips" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "d(^_^)b" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Blossom" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Sweetie Belle" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Lucy" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Mrs. Cup Cake" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:48] Client "Tiny Tim" connected.
+[13:25:48] Client "" spawned in server <BOT> (took 180 seconds).
+[13:25:49] Dropped "Moi Loca" from server<BOT>
+[13:25:49] Dropped "Andrax" from server<BOT>
+[13:25:49] Dropped "Cerberus" from server<BOT>
+[13:25:49] Dropped "Raw." from server<BOT>
+[13:25:49] Dropped "Sweetex" from server<BOT>
+[13:25:49] Dropped "Flesh Pound" from server<BOT>
+[13:25:49] Dropped "The G-Unit" from server<BOT>
+[13:25:49] Dropped "Mina | <3" from server<BOT>
+[13:25:49] Dropped "Atomic Boom!" from server<BOT>
+[13:25:49] Dropped "Xenia" from server<BOT>
+[13:25:49] Dropped "Prodigy" from server<BOT>
+[13:25:49] Dropped "Meow :3" from server<BOT>
+[13:25:49] Dropped "dudette" from server<BOT>
+[13:25:49] Dropped "Snips" from server<BOT>
+[13:25:49] Dropped "d(^_^)b" from server<BOT>
+[13:25:49] Dropped "Blossom" from server<BOT>
+[13:25:49] Dropped "Sweetie Belle" from server<BOT>
+[13:25:49] Dropped "Lucy" from server<BOT>
+[13:25:49] Dropped "Mrs. Cup Cake" from server<BOT>
+[13:25:49] Dropped "Tiny Tim" from server<BOT>
+[13:26:10] Client "Lugii" connected.
+[13:26:56] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 46 seconds).
+[13:27:46] Server is shutting down/changing levels.
+
+
+
+[13:32:33] New map: rp_downtown_tits_v2
+[13:32:46] Client "Lugii" connected.
+[13:32:47] Client "T-REX" connected.
+[13:32:47] Client "" spawned in server <BOT> (took 71 seconds).
+[13:32:47] Client "Boom Headshot!" connected.
+[13:32:47] Client "" spawned in server <BOT> (took 71 seconds).
+[13:32:47] Client "ρanda♥" connected.
+[13:32:47] Client "" spawned in server <BOT> (took 71 seconds).
+[13:32:47] Client "Mojo Jojo" connected.
+[13:32:47] Client "" spawned in server <BOT> (took 71 seconds).
+[13:32:47] Client "Spyro" connected.
+[13:32:47] Client "" spawned in server <BOT> (took 71 seconds).
+[13:33:34] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 48 seconds).
+[13:33:34] Dropped "T-REX" from server<BOT>
+[13:39:34] Lugii: !goto Boom Headshot!
+[13:39:39] Lugii: !menu
+[13:41:34] Lugii: !levels
+[13:41:38] Lugii: !level
+[13:50:32] Server is shutting down/changing levels.
+
+
+
+[13:59:25] New map: rp_downtown_tits_v2
+[15:49:30] Server is shutting down/changing levels.
+
+
+
+[15:52:05] New map: rp_downtown_tits_v2
+[15:52:13] Server is shutting down/changing levels.
+
+
+
+[15:55:17] New map: rp_downtown_tits_v2
+[15:55:48] Client "Lugii" connected.
+[15:55:49] Client "Fairy Liquid" connected.
+[15:55:49] Client "" spawned in server <BOT> (took 92 seconds).
+[15:55:49] Client "Derp" connected.
+[15:55:49] Client "" spawned in server <BOT> (took 92 seconds).
+[15:55:49] Client "Broomhilda von Shaft" connected.
+[15:55:49] Client "" spawned in server <BOT> (took 92 seconds).
+[15:55:49] Client "Rainbow Dash" connected.
+[15:55:49] Client "" spawned in server <BOT> (took 92 seconds).
+[15:55:49] Client "C4k3" connected.
+[15:55:49] Client "" spawned in server <BOT> (took 92 seconds).
+[15:57:16] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 88 seconds).
+[15:57:16] Dropped "Fairy Liquid" from server<BOT>
+[15:57:51] Lugii: !levels
+[15:57:53] Lugii: /level
+[16:05:14] Lugii: levels
+[16:05:16] Lugii: level
+[16:05:18] Lugii: /level
+[16:05:30] Lugii: !level
+[16:08:56] Lugii<STEAM_0:1:552352244> spawned sent zwf_muffinmix
+[16:09:03] Lugii<STEAM_0:1:552352244> spawned sent zwf_muffin
+[16:11:25] Lugii<STEAM_0:1:552352244> spawned sent zmlab_combiner
+[16:26:04] Lugii: !noclip
+[16:26:07] Lugii: !noclip
+[16:32:47] Lugii: !noclip
+[16:32:49] Lugii: !noclip
+[16:32:51] Lugii: !noclip
+[16:32:53] Lugii: !noclip
+[16:33:48] Lugii: !noclip
+[16:33:51] Lugii: !noclip
+[16:34:00] Server is shutting down/changing levels.
+
+
+
+[20:06:14] New map: rp_downtown_tits_v2
+[20:15:25] Client "Lugii" connected.
+[20:15:26] Client "Fluffy" connected.
+[20:15:26] Client "" spawned in server <BOT> (took 623 seconds).
+[20:15:26] Client "Trina" connected.
+[20:15:26] Client "" spawned in server <BOT> (took 623 seconds).
+[20:15:26] Client "hun" connected.
+[20:15:26] Client "" spawned in server <BOT> (took 623 seconds).
+[20:15:26] Client "T-REX" connected.
+[20:15:26] Client "" spawned in server <BOT> (took 623 seconds).
+[20:15:26] Client "Boom Headshot!" connected.
+[20:15:26] Client "" spawned in server <BOT> (took 623 seconds).
+[20:16:42] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 77 seconds).
+[20:16:42] Dropped "Fluffy" from server<BOT>
+[20:18:28] Lugii: !noclip
+[20:18:37] Lugii: !noclip
+[20:29:55] Client "MrMillerUK" connected.
+[20:30:05] Lugii: !warns
+[20:31:22] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 87 seconds).
+[20:31:23] Dropped "Trina" from server<BOT>
+[20:31:47] Lugii<STEAM_0:1:552352244> spawned sent zgw_bucket
+[20:31:51] Lugii<STEAM_0:1:552352244> spawned sent zgw_mat
+[20:32:56] (TEAM) MrMillerUK: !warn
+[20:32:56] Lugii brought MrMillerUK
+[20:32:56] Lugii: !bring MrMillerUK
+[20:33:03] MrMillerUK: !warns
+[20:33:08] Lugii: !warn
+[20:33:14] MrMillerUK: !noclip
+[20:33:47] MrMillerUK: !noclip
+[20:34:43] MrMillerUK: !noclip
+[20:34:49] MrMillerUK: !noclip
+[20:38:25] Lugii teleported to MrMillerUK
+[20:38:25] Lugii: !goto MrMillerUK
+[20:38:49] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[20:38:49] Client "Buttercup" connected.
+[20:38:49] Client "" spawned in server <BOT> (took 2026 seconds).
+[20:38:58] Server is shutting down/changing levels.
+
+
+
+[20:41:20] New map: rp_downtown_tits_v2
+[20:41:44] Client "Lugii" connected.
+[20:41:45] Client "Kitty" connected.
+[20:41:45] Client "" spawned in server <BOT> (took 90 seconds).
+[20:41:45] Client "Snapshot" connected.
+[20:41:45] Client "" spawned in server <BOT> (took 90 seconds).
+[20:41:45] Client "GirlDeaa" connected.
+[20:41:45] Client "" spawned in server <BOT> (took 90 seconds).
+[20:41:45] Client "SpY" connected.
+[20:41:45] Client "" spawned in server <BOT> (took 90 seconds).
+[20:41:45] Client "Snips" connected.
+[20:41:45] Client "" spawned in server <BOT> (took 90 seconds).
+[20:43:01] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 77 seconds).
+[20:43:01] Dropped "Kitty" from server<BOT>
+[20:51:07] Server is shutting down/changing levels.
+
+
+
+[20:53:06] New map: rp_downtown_tits_v2
+[20:53:35] Client "Lugii" connected.
+[20:53:36] Client "The Salt Bar" connected.
+[20:53:36] Client "" spawned in server <BOT> (took 99 seconds).
+[20:53:36] Client "Scooter" connected.
+[20:53:36] Client "" spawned in server <BOT> (took 99 seconds).
+[20:53:36] Client "Floofy" connected.
+[20:53:36] Client "" spawned in server <BOT> (took 99 seconds).
+[20:53:36] Client "Flesh Pound" connected.
+[20:53:36] Client "" spawned in server <BOT> (took 99 seconds).
+[20:53:36] Client "Kitty" connected.
+[20:53:36] Client "" spawned in server <BOT> (took 99 seconds).
+[20:54:37] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 62 seconds).
+[20:54:37] Dropped "The Salt Bar" from server<BOT>
+[20:55:21] Lugii: !levels
+[20:55:52] Lugii: !noclip
+[20:55:53] Lugii: !noclip
+[20:57:26] Lugii: !noclip
+[20:57:33] Lugii: !noclip
+[20:57:48] Lugii<STEAM_0:1:552352244> spawned sent ztm_buyermachine
+[20:58:05] Lugii<STEAM_0:1:552352244> spawned sent ztm_trash
+[20:58:32] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycler
+[20:58:51] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[20:58:58] Lugii<STEAM_0:1:552352244> spawned sent ztm_leafpile
+[20:59:22] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:00:10] Lugii: /dropmoney 4207278
+[21:00:32] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:00:33] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:00:33] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:00:33] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:01:09] Lugii: /dropmoney 150000
+[21:01:43] Lugii<STEAM_0:1:552352244> spawned sent ztm_trashbag
+[21:01:47] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:01:50] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:01:51] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:03:29] Lugii: !noclip
+[21:04:29] Lugii: !noclip
+[21:04:36] Lugii: !noclip
+[21:04:41] Lugii: !noclip
+[21:05:14] Lugii: !noclip
+[21:05:25] Lugii: !noclip
+[21:05:32] Lugii: !noclip
+[21:05:33] Lugii: !noclip
+[21:07:33] Lugii: !remotebitminer
+[21:08:05] Lugii: !remotebitminer
+[21:08:09] Lugii: !remotebitminer
+[21:11:43] Lugii: !remotebitminer
+[21:16:56] Lugii: !remotebitminer
+[21:20:58] Lugii: /buychpnpin
+[21:22:57] Lugii: !saveatms
+[21:24:31] Lugii<STEAM_0:1:552352244> spawned sent zmlab_combiner
+[21:24:38] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methylamin
+[21:24:39] Lugii<STEAM_0:1:552352244> spawned sent zmlab_methylamin
+[21:25:01] Lugii<STEAM_0:1:552352244> spawned sent zmlab_collectcrate
+[21:25:03] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[21:25:04] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[21:25:04] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[21:25:07] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[21:25:08] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[21:25:10] Lugii<STEAM_0:1:552352244> spawned sent zmlab_meth
+[21:25:32] Lugii: /meth
+[21:25:38] Lugii: /methcooker
+[21:25:42] Lugii: !noclip
+[21:25:43] Lugii: !noclip
+[21:33:13] Lugii: /dropmoney 8833358
+[21:33:20] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[21:33:20] Client "Mandingo Party" connected.
+[21:33:20] Client "" spawned in server <BOT> (took 2483 seconds).
+[21:33:20] Dropped "Mandingo Party" from server<BOT>
+[21:33:20] Client "Betilla" connected.
+[21:33:20] Client "" spawned in server <BOT> (took 2483 seconds).
+[21:33:20] Dropped "Scooter" from server<BOT>
+[21:33:20] Client "Katt <3" connected.
+[21:33:20] Client "" spawned in server <BOT> (took 2483 seconds).
+[21:33:21] Dropped "Floofy" from server<BOT>
+[21:33:21] Client "Sexy Bunny" connected.
+[21:33:21] Client "" spawned in server <BOT> (took 2484 seconds).
+[21:33:21] Dropped "Flesh Pound" from server<BOT>
+[21:33:21] Client "Trina" connected.
+[21:33:21] Client "" spawned in server <BOT> (took 2484 seconds).
+[21:33:21] Dropped "Kitty" from server<BOT>
+[21:33:21] Client "Scooter" connected.
+[21:33:21] Client "" spawned in server <BOT> (took 2484 seconds).
+[22:22:51] Client "MrMillerUK" connected.
+[22:25:06] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 135 seconds).
+[22:25:06] Dropped "Betilla" from server<BOT>
+[22:26:58] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[22:26:58] Client "Vixen" connected.
+[22:26:58] Client "" spawned in server <BOT> (took 5701 seconds).
+[22:26:58] Dropped "Vixen" from server<BOT>
+[22:26:58] Client "Pixies" connected.
+[22:26:58] Client "" spawned in server <BOT> (took 5701 seconds).
+[22:26:58] Dropped "Katt <3" from server<BOT>
+[22:26:58] Client "Kaya 🐻🐾🐲" connected.
+[22:26:58] Client "" spawned in server <BOT> (took 5701 seconds).
+[22:26:58] Dropped "Sexy Bunny" from server<BOT>
+[22:26:58] Client "BASSHUNTER" connected.
+[22:26:58] Client "" spawned in server <BOT> (took 5701 seconds).
+[22:26:58] Dropped "Trina" from server<BOT>
+[22:26:58] Client "Super Man" connected.
+[22:26:58] Client "" spawned in server <BOT> (took 5701 seconds).
+[22:26:58] Dropped "Scooter" from server<BOT>
+[22:26:58] Client "Flump" connected.
+[22:26:58] Client "" spawned in server <BOT> (took 5701 seconds).
+[22:26:59] Dropped "Pixies" from server<BOT>
+[22:26:59] Client "Swexy" connected.
+[22:26:59] Client "" spawned in server <BOT> (took 5702 seconds).
+<Logging continued in "data/ulx_logs/05-01-23.txt">

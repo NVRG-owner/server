@@ -1,0 +1,35 @@
+Sun Apr 23 12:55:01 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 12:55:01 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 12:55:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 12:55:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 13:01:40 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sun Apr 23 13:01:40 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 13:02:59 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 13:04:16 2023	tronix22 (STEAM_0:1:634690584): /theif
+Sun Apr 23 13:04:20 2023	Lugii (STEAM_0:1:552352244): /thief
+Sun Apr 23 13:04:20 2023	tronix22 (STEAM_0:1:634690584): /theif
+Sun Apr 23 13:04:22 2023	Lugii (STEAM_0:1:552352244): thief
+Sun Apr 23 13:04:27 2023	tronix22 (STEAM_0:1:634690584): /mastertheif
+Sun Apr 23 13:04:40 2023	Lugii (STEAM_0:1:552352244): !bring tronix22
+Sun Apr 23 13:04:51 2023	tronix22 (STEAM_0:1:634690584): /theif
+Sun Apr 23 13:05:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 13:05:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 13:05:32 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 13:05:37 2023	Lugii (STEAM_0:1:552352244): /dropmoney 711
+Sun Apr 23 13:05:38 2023	Lugii (STEAM_0:1:552352244) has dropped $711
+Sun Apr 23 13:06:09 2023	Lugii was killed by tronix22 with a weapon_gblaster_gaster
+Sun Apr 23 13:06:11 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 13:06:15 2023	Lugii (STEAM_0:1:552352244): !return
+Sun Apr 23 13:06:18 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 13:06:21 2023	Lugii (STEAM_0:1:552352244): !
+Sun Apr 23 13:06:25 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 13:06:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 13:06:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 13:06:30 2023	Lugii (STEAM_0:1:552352244): !goto tronix22
+Sun Apr 23 13:06:35 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 13:06:42 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 13:08:17 2023	tronix22 (STEAM_0:1:634690584): /theif
+Sun Apr 23 13:13:22 2023	tronix22 (STEAM_0:1:634690584): /thif
+Sun Apr 23 13:13:25 2023	tronix22 (STEAM_0:1:634690584): /theif
+Sun Apr 23 13:13:44 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 13:13:57 2023	tronix22 (STEAM_0:1:634690584) disconnected

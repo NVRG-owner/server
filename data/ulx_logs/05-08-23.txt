@@ -1,0 +1,230 @@
+[18:47:30] New map: rp_downtown_tits_v2
+[18:49:49] Server is shutting down/changing levels.
+
+
+
+[18:52:34] New map: rp_downtown_tits_v2
+[18:53:12] Client "Lugii" connected.
+[18:53:13] Client "Sexy Bunny" connected.
+[18:53:13] Client "" spawned in server <BOT> (took 142 seconds).
+[18:53:13] Client "Rainbow Dash" connected.
+[18:53:13] Client "" spawned in server <BOT> (took 142 seconds).
+[18:53:13] Client "Knotty" connected.
+[18:53:13] Client "" spawned in server <BOT> (took 142 seconds).
+[18:53:13] Client "Katt <3" connected.
+[18:53:13] Client "" spawned in server <BOT> (took 142 seconds).
+[18:53:13] Client "Floofy" connected.
+[18:53:13] Client "" spawned in server <BOT> (took 142 seconds).
+[18:53:14] ~Katt~ <3<BOT> changed their name to Katt <3
+[18:54:50] Client "Mahdi" connected.
+[18:55:24] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 132 seconds).
+[18:55:25] Dropped "Sexy Bunny" from server<BOT>
+[18:57:35] Lugii: !noclip
+[18:57:36] Lugii: !noclip
+[18:57:39] Lugii: !noclip
+[18:57:41] Lugii: !noclip
+[18:57:43] Lugii: !noclip
+[18:58:02] Lugii: !noclip
+[18:58:03] Lugii: !noclip
+[18:58:03] Lugii: !noclip
+[18:58:46] Lugii<STEAM_0:1:552352244> spawned sent alarm_hack
+[18:58:55] Lugii<STEAM_0:1:552352244> spawned sent alarm_computer_black
+[18:59:01] Lugii<STEAM_0:1:552352244> spawned sent alarm_hack
+[18:59:18] Lugii<STEAM_0:1:552352244> spawned sent alarm_hack
+[18:59:29] Lugii<STEAM_0:1:552352244> spawned sent alarm_hack
+[19:00:09] Lugii<STEAM_0:1:552352244> spawned sent alarm_laser_2
+[19:00:29] Lugii: !noclip
+[19:00:31] Lugii: !noclip
+[19:00:32] Lugii: !noclip
+[19:00:34] Lugii: !noclip
+[19:00:37] Lugii: !noclip
+[19:00:41] Lugii: Ok
+[19:00:44] Lugii: !noclip
+[19:00:53] Lugii<STEAM_0:1:552352244> spawned sent alarm_terminal
+[19:01:39] Lugii<STEAM_0:1:552352244> spawned sent alarm_siren
+[19:02:29] Lugii: !noclip
+[19:02:37] Lugii: !noclip
+[19:02:44] Lugii: !noclip
+[19:02:54] Lugii: !noclip
+[19:03:43] Lugii: !noclip
+[19:03:46] Lugii: !noclip
+[19:03:50] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[19:09:32] Lugii<STEAM_0:1:552352244> spawned sent ch_atm_credit_card
+[19:10:43] Lugii<STEAM_0:1:552352244> spawned sent zrms_mineentrance_base
+[19:11:41] Lugii: /dropmoney 881
+[19:20:00] Lugii: !noclip
+[19:20:25] Lugii: !noclip
+[19:21:17] Lugii: !noclip
+[19:21:18] Lugii: !noclip
+[19:21:19] Lugii: !noclip
+[19:21:28] Lugii: !noclip
+[19:21:30] Lugii: !noclip
+[19:21:32] Lugii: !noclip
+[19:21:32] Lugii: !noclip
+[19:21:36] Lugii: !noclip
+[19:21:47] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:21:48] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:21:49] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:21:50] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:21:50] (csay from Console) hi lugii
+[19:21:59] (csay from Console) imma call u on discord
+[19:22:10] Lugii: k
+[19:22:10] (csay from Console) brb
+[19:22:15] Lugii: ok
+[19:22:38] Lugii: !noclip
+[19:22:40] Lugii: !noclip
+[19:22:45] Lugii: !noclip
+[19:22:47] Lugii: !noclip
+[19:22:56] Lugii: :>
+[19:25:59] Client "tronix22" connected.
+[19:28:04] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:28:05] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:28:12] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:28:13] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:28:13] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:28:18] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:28:44] Lugii<STEAM_0:1:552352244> spawned sent zwf_jar
+[19:29:49] Lugii: !noclip
+[19:30:14] Client "hampik78" connected.
+[19:30:28] Lugii: !noclip
+[19:30:35] Lugii: !noclip
+[19:30:36] Lugii: !noclip
+[19:30:48] Lugii: !noclip
+[19:31:09] Lugii: !noclip
+[19:31:24] Lugii: !noclip
+[19:31:33] Lugii: !noclip
+[19:31:57] Lugii: !noclip
+[19:32:39] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 400 seconds).
+[19:32:39] Dropped "Rainbow Dash" from server<BOT>
+[19:33:00] Lugii suicided!
+[19:33:30] Lugii: !noclip
+[19:33:34] Lugii teleported to OWNER
+[19:33:34] Lugii: !goto OWNER
+[19:33:38] Lugii: !noclip
+[19:33:42] Lugii teleported to OWNER
+[19:33:42] Lugii: !goto OWNER
+[19:34:36] Lugii killed OWNER using weapon_bm_ams
+[19:34:59] Lugii: !noclip
+[19:35:00] Lugii: !noclip
+[19:35:52] Lugii suicided!
+[19:38:27] Lugii suicided!
+[19:39:06] Lugii: !noclip
+[19:39:06] Lugii suicided!
+[19:39:17] Lugii: !noclip
+[19:39:33] Lugii suicided!
+[19:39:45] Lugii: !noclip
+[19:40:15] Lugii suicided!
+[19:50:25] Lugii: !noclip
+[19:50:46] Lugii: !noclip
+[19:50:56] Lugii<STEAM_0:1:552352244> spawned sent alarm_terminal
+[19:51:16] Lugii<STEAM_0:1:552352244> spawned sent alarm_siren
+[19:51:57] Lugii<STEAM_0:1:552352244> spawned sent alarm_motion_sensor
+[19:52:11] Lugii<STEAM_0:1:552352244> spawned sent alarm_server
+[19:52:20] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_white
+[19:52:21] Lugii<STEAM_0:1:552352244> spawned sent alarm_computer_white
+[19:53:00] Lugii: !noclip
+[19:53:04] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_black
+[19:53:04] Lugii: !noclip
+[19:53:09] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[19:53:18] OWNER<STEAM_0:1:634690584> spawned sent alarm_server
+[19:53:39] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[19:54:50] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[19:54:50] Client "Flump" connected.
+[19:54:50] Client "" spawned in server <BOT> (took 3839 seconds).
+[19:55:23] Lugii: !noclip
+[19:55:30] Lugii: !noclip
+[20:00:14] Client "tronix22" connected.
+[20:05:55] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 341 seconds).
+[20:05:55] Dropped "Flump" from server<BOT>
+[20:06:43] Lugii: !noclip
+[20:07:10] Lugii froze OWNER
+[20:07:10] Lugii: !freeze OWNER
+[20:07:17] Lugii unfroze OWNER
+[20:07:17] Lugii: !unfreeze OWNER
+[20:07:19] OWNER unfroze Themself,Floofy,Knotty
+[20:07:19] OWNER: !unfreeze o
+[20:08:25] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_white
+[20:08:27] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_black
+[20:08:29] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor
+[20:08:31] OWNER<STEAM_0:1:634690584> spawned sent alarm_fire_sensor
+[20:08:32] OWNER<STEAM_0:1:634690584> spawned sent alarm_hack
+[20:08:40] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[20:08:53] OWNER<STEAM_0:1:634690584> spawned sent alarm_server
+[20:09:01] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[20:09:37] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:09:37] Client "Prodigy" connected.
+[20:09:37] Client "" spawned in server <BOT> (took 4726 seconds).
+[20:10:36] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[20:10:57] Client "Lugii" connected.
+[20:11:00] OWNER<STEAM_0:1:634690584> spawned sent alarm_siren
+[20:11:12] OWNER<STEAM_0:1:634690584> spawned sent alarm_hack
+[20:11:15] OWNER<STEAM_0:1:634690584> spawned sent alarm_hack
+[20:12:12] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 75 seconds).
+[20:12:13] Dropped "Prodigy" from server<BOT>
+[20:15:01] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_white
+[20:15:04] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_black
+[20:15:06] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[20:15:12] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[20:15:12] Client "Fee" connected.
+[20:15:12] Client "" spawned in server <BOT> (took 5061 seconds).
+[20:15:22] Client "tronix22" connected.
+[20:15:42] Client "tronix22" connected.
+[20:15:49] Client "tronix22" connected.
+[20:17:50] Client "tronix22" connected.
+[20:23:25] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 335 seconds).
+[20:23:25] Dropped "Fee" from server<BOT>
+[20:24:25] Lugii: !noclip
+[20:24:50] Lugii teleported to OWNER
+[20:24:50] Lugii: !goto OWNER
+[20:24:57] OWNER: /unarrest
+[20:25:00] (TEAM) Lugii: /unarrest OWNER
+[20:25:02] OWNER: /unaresst
+[20:25:04] Lugii brought OWNER
+[20:25:04] Lugii: !bring OWNER
+[20:25:15] Lugii: !noclip
+[20:25:16] Lugii: !noclip
+[20:25:19] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_white
+[20:25:23] Lugii: /arrest Lugii
+[20:25:25] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_black
+[20:25:28] Lugii: /unarrest Lugii
+[20:25:29] OWNER<STEAM_0:1:634690584> spawned sent alarm_server
+[20:25:33] Lugii teleported to OWNER
+[20:25:33] Lugii: !goto OWNER
+[20:25:38] OWNER<STEAM_0:1:634690584> spawned sent alarm_server
+[20:25:44] Lugii<STEAM_0:1:552352244> spawned sent alarm_terminal
+[20:25:58] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[20:26:10] Lugii<STEAM_0:1:552352244> spawned sent alarm_server
+[20:26:14] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[20:26:36] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[20:27:19] Lugii: !noclip
+[20:27:51] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[20:28:26] OWNER: 1981
+[20:28:30] OWNER<STEAM_0:1:634690584> spawned sent alarm_siren
+[20:28:45] Lugii<STEAM_0:1:552352244> spawned sent alarm_computer_black
+[20:28:52] Lugii<STEAM_0:1:552352244> spawned sent alarm_hack
+[20:28:55] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor
+[20:29:03] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[20:29:07] Lugii<STEAM_0:1:552352244> spawned sent alarm_laser_2
+[20:29:19] Lugii<STEAM_0:1:552352244> spawned sent alarm_laser_rec
+[20:29:29] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[20:29:29] Client "Pound Cake" connected.
+[20:29:29] Client "" spawned in server <BOT> (took 5918 seconds).
+[20:29:52] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[20:29:52] Client "Ace" connected.
+[20:29:52] Client "" spawned in server <BOT> (took 5941 seconds).
+[20:29:52] Dropped "Ace" from server<BOT>
+[20:29:52] Client "BellaTrix" connected.
+[20:29:52] Client "" spawned in server <BOT> (took 5941 seconds).
+[20:29:52] Dropped "Pound Cake" from server<BOT>
+[20:29:52] Client "<3 FEMALE META | :3" connected.
+[20:29:52] Client "" spawned in server <BOT> (took 5941 seconds).
+[20:29:52] Dropped "Knotty" from server<BOT>
+[20:29:52] Client "Bubbles" connected.
+[20:29:52] Client "" spawned in server <BOT> (took 5941 seconds).
+[20:29:52] Dropped "Katt <3" from server<BOT>
+[20:29:52] Client "Mojo Jojo" connected.
+[20:29:52] Client "" spawned in server <BOT> (took 5941 seconds).
+[20:29:52] Dropped "Floofy" from server<BOT>
+[20:29:52] Client "Flesh Pound" connected.
+[20:29:52] Client "" spawned in server <BOT> (took 5941 seconds).
+<Logging continued in "data/ulx_logs/05-09-23.txt">

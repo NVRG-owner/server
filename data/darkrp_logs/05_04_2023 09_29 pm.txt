@@ -1,0 +1,21 @@
+Thu May  4 21:29:04 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Thu May  4 21:29:04 2023	Lugii (STEAM_0:1:552352244) spawned
+Thu May  4 21:29:39 2023	Lugii (STEAM_0:1:552352244): !menu
+Thu May  4 21:31:46 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 21:31:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 21:31:53 2023	Lugii (STEAM_0:1:552352244): !setspawn point
+Thu May  4 21:32:00 2023	Lugii (STEAM_0:1:552352244): !setspawnpoint
+Thu May  4 21:33:38 2023	Lugii (STEAM_0:1:552352244): !spawnpoint
+Thu May  4 21:33:41 2023	Lugii (STEAM_0:1:552352244): hey
+Thu May  4 21:33:50 2023	Lugii (STEAM_0:1:552352244): !xgui
+Thu May  4 21:34:51 2023	Lugii (STEAM_0:1:552352244): hi
+Thu May  4 21:34:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 21:34:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 21:37:28 2023	Lugii (STEAM_0:1:552352244): ulx showMotd
+Thu May  4 21:37:54 2023	Lugii (STEAM_0:1:552352244): !motd
+Thu May  4 21:37:58 2023	Lugii (STEAM_0:1:552352244): !motd
+Thu May  4 21:38:06 2023	Lugii (STEAM_0:1:552352244): !motd
+Thu May  4 21:41:59 2023	Lugii (STEAM_0:1:552352244): p
+Thu May  4 21:42:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 21:42:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 21:42:52 2023	Lugii (STEAM_0:1:552352244): _restartserver

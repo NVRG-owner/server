@@ -1,0 +1,89 @@
+Sun Apr 23 18:50:14 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 18:50:15 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 18:51:06 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sun Apr 23 18:51:06 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 18:54:17 2023	tronix22 (STEAM_0:1:634690584):  !zmlab2_save
+Sun Apr 23 18:54:23 2023	tronix22 (STEAM_0:1:634690584): !zmlab2_save
+Sun Apr 23 18:54:47 2023	tronix22 (STEAM_0:1:634690584):  !zmlab2_save
+Sun Apr 23 18:54:57 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:55:08 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_dropoff
+Sun Apr 23 18:55:16 2023	tronix22 (STEAM_0:1:634690584):  !zmlab2_save
+Sun Apr 23 18:55:25 2023	tronix22 (STEAM_0:1:634690584): !zmlab2_save
+Sun Apr 23 18:55:30 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_dropoff
+Sun Apr 23 18:56:07 2023	tronix22 (STEAM_0:1:634690584) spawned SENT zmlab2_dropoff
+Sun Apr 23 18:56:38 2023	tronix22 (STEAM_0:1:634690584): !zmlab2_save
+Sun Apr 23 18:57:38 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 18:58:18 2023	tronix22 (STEAM_0:1:634690584) set tronix22's money to $10,000,000,000,000
+Sun Apr 23 18:58:34 2023	tronix22 (STEAM_0:1:634690584): !goto lu
+Sun Apr 23 18:58:58 2023	tronix22 (STEAM_0:1:634690584): look
+Sun Apr 23 18:59:02 2023	tronix22 (STEAM_0:1:634690584): it not work
+Sun Apr 23 18:59:05 2023	tronix22 (STEAM_0:1:634690584): oh
+Sun Apr 23 18:59:11 2023	tronix22 (STEAM_0:1:634690584): i idnt sdo them
+Sun Apr 23 18:59:12 2023	tronix22 (STEAM_0:1:634690584): here
+Sun Apr 23 18:59:22 2023	tronix22 (STEAM_0:1:634690584): /dropmoney 1000000000
+Sun Apr 23 18:59:23 2023	tronix22 (STEAM_0:1:634690584) has dropped $1,000,000,000
+Sun Apr 23 18:59:29 2023	tronix22 (STEAM_0:1:634690584): bc
+Sun Apr 23 18:59:37 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 18:59:42 2023	tronix22 (STEAM_0:1:634690584): fix motd pls
+Sun Apr 23 18:59:49 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:00:03 2023	tronix22 (STEAM_0:1:634690584): pls fix motd
+Sun Apr 23 19:00:07 2023	Lugii (STEAM_0:1:552352244): !freeze Lugii
+Sun Apr 23 19:00:09 2023	tronix22 (STEAM_0:1:634690584): 
+Sun Apr 23 19:00:26 2023	tronix22 (STEAM_0:1:634690584): !unfreeze lu
+Sun Apr 23 19:00:50 2023	tronix22 (STEAM_0:1:634690584): noone joined
+Sun Apr 23 19:01:08 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 19:01:11 2023	tronix22 (STEAM_0:1:634690584): pls fix motd
+Sun Apr 23 19:01:20 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 19:01:42 2023	tronix22 (STEAM_0:1:634690584): ok
+Sun Apr 23 19:02:21 2023	Lugii was killed by tronix22 with a m9k_dbarrel
+Sun Apr 23 19:02:25 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:02:31 2023	tronix22 was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 19:02:32 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 19:02:33 2023	tronix22 (STEAM_0:1:634690584): bro
+Sun Apr 23 19:02:37 2023	tronix22 (STEAM_0:1:634690584): i was testing gun
+Sun Apr 23 19:02:38 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 19:02:41 2023	tronix22 (STEAM_0:1:634690584): yh 
+Sun Apr 23 19:03:51 2023	tronix22 (STEAM_0:1:634690584): !cloak
+Sun Apr 23 19:03:54 2023	Lugii was killed by tronix22 with a m9k_aw50
+Sun Apr 23 19:03:58 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:04:17 2023	Lugii was killed by tronix22 with a m9k_aw50
+Sun Apr 23 19:04:19 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:04:25 2023	tronix22 (STEAM_0:1:634690584): soz i stop now
+Sun Apr 23 19:04:36 2023	Lugii was killed by tronix22 with a weapon_bm_ams
+Sun Apr 23 19:04:44 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:04:50 2023	Lugii was killed by tronix22 with a m9k_aw50
+Sun Apr 23 19:04:52 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:04:55 2023	tronix22 was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 19:04:57 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sun Apr 23 19:04:59 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 19:05:03 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 19:05:11 2023	tronix22 (STEAM_0:1:634690584): how savbe prison place look
+Sun Apr 23 19:05:18 2023	tronix22 (STEAM_0:1:634690584): it no save
+Sun Apr 23 19:05:22 2023	Lugii (STEAM_0:1:552352244): /buypowercable
+Sun Apr 23 19:05:31 2023	tronix22 (STEAM_0:1:634690584): /buybitminer
+Sun Apr 23 19:06:02 2023	tronix22 (STEAM_0:1:634690584): /rpname OWNER
+Sun Apr 23 19:06:13 2023	OWNER (STEAM_0:1:634690584): /job all jobs
+Sun Apr 23 19:06:28 2023	Lugii (STEAM_0:1:552352244): /buypowercable
+Sun Apr 23 19:06:30 2023	OWNER (STEAM_0:1:634690584): yo
+Sun Apr 23 19:06:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 19:06:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 19:06:39 2023	OWNER (STEAM_0:1:634690584): how to set and save jail pos
+Sun Apr 23 19:06:49 2023	Lugii (STEAM_0:1:552352244): !uncloak OWNER
+Sun Apr 23 19:06:51 2023	OWNER (STEAM_0:1:634690584): yo
+Sun Apr 23 19:06:54 2023	OWNER (STEAM_0:1:634690584): how
+Sun Apr 23 19:07:01 2023	OWNER (STEAM_0:1:634690584): do u set up movabel door
+Sun Apr 23 19:07:08 2023	OWNER (STEAM_0:1:634690584): oh
+Sun Apr 23 19:07:09 2023	OWNER (STEAM_0:1:634690584): nvm
+Sun Apr 23 19:07:44 2023	OWNER was killed by Himself with a suicide trick
+Sun Apr 23 19:07:46 2023	OWNER (STEAM_0:1:634690584) spawned
+Sun Apr 23 19:08:48 2023	OWNER (STEAM_0:1:634690584): umm
+Sun Apr 23 19:08:48 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 19:08:51 2023	OWNER (STEAM_0:1:634690584): !menu
+Sun Apr 23 19:09:02 2023	OWNER (STEAM_0:1:634690584): ok
+Sun Apr 23 19:09:05 2023	OWNER (STEAM_0:1:634690584): wait
+Sun Apr 23 19:09:11 2023	OWNER (STEAM_0:1:634690584): ur gonna be co owner
+Sun Apr 23 19:09:14 2023	OWNER (STEAM_0:1:634690584): !menu
+Sun Apr 23 19:09:49 2023	OWNER (STEAM_0:1:634690584) disconnected
+Sun Apr 23 19:10:00 2023	Lugii (STEAM_0:1:552352244): !bans
+Sun Apr 23 19:10:03 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 19:10:28 2023	Lugii (STEAM_0:1:552352244): !menu

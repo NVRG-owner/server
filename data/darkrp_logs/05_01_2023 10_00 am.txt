@@ -1,0 +1,30 @@
+Mon May  1 10:00:46 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Mon May  1 10:00:46 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 10:01:19 2023	Lugii (STEAM_0:1:552352244): !dconfig
+Mon May  1 10:01:22 2023	Lugii (STEAM_0:1:552352244): !config
+Mon May  1 10:01:26 2023	Lugii (STEAM_0:1:552352244): !dconfig
+Mon May  1 10:05:47 2023	Lugii (STEAM_0:1:552352244): !dconfig
+Mon May  1 10:09:31 2023	Lugii (STEAM_0:1:552352244) spawned SENT wac_pl_ultralight
+Mon May  1 10:10:57 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 10:11:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 10:16:04 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 10:27:13 2023	Lugii (STEAM_0:1:552352244): !remotebitminers
+Mon May  1 10:27:25 2023	Lugii (STEAM_0:1:552352244): !remotebitminers
+Mon May  1 10:27:58 2023	Lugii (STEAM_0:1:552352244): !remotebitminers
+Mon May  1 10:45:34 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 10:45:56 2023	Lugii (STEAM_0:1:552352244): /dropmoney 256139659
+Mon May  1 10:46:07 2023	Lugii (STEAM_0:1:552352244): /dropmoney 25613959
+Mon May  1 10:46:08 2023	Lugii (STEAM_0:1:552352244) has dropped $25,613,959
+Mon May  1 10:46:21 2023	Lugii was killed by Entity [1372][gunlab] with a gunlab
+Mon May  1 10:46:24 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 10:46:28 2023	Lugii (STEAM_0:1:552352244): !return
+Mon May  1 10:46:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 10:46:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 10:46:54 2023	Lugii (STEAM_0:1:552352244) spawned SENT drone_cargomarkii
+Mon May  1 10:46:59 2023	Lugii (STEAM_0:1:552352244) spawned SENT drone_cargo
+Mon May  1 10:47:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 10:47:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 10:47:09 2023	Lugii (STEAM_0:1:552352244) spawned SENT refuelstation_diesel
+Mon May  1 10:47:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT refuelstation_plasma
+Mon May  1 10:51:16 2023	Lugii was killed by Himself with a suicide trick
+Mon May  1 10:51:18 2023	Lugii (STEAM_0:1:552352244) spawned

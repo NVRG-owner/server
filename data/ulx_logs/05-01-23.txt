@@ -1,0 +1,775 @@
+<Logging continued from "data/ulx_logs/04-30-23.txt">
+[08:45:05] Server is shutting down/changing levels.
+
+
+
+[08:49:45] New map: rp_downtown_tits_v2
+[08:50:24] Client "Lugii" connected.
+[08:50:25] Client "Woody" connected.
+[08:50:25] Client "" spawned in server <BOT> (took 115 seconds).
+[08:50:25] Client "VaL" connected.
+[08:50:25] Client "" spawned in server <BOT> (took 115 seconds).
+[08:50:25] Client "Trigger" connected.
+[08:50:25] Client "" spawned in server <BOT> (took 115 seconds).
+[08:50:25] Client "Pinky Pie" connected.
+[08:50:25] Client "" spawned in server <BOT> (took 115 seconds).
+[08:50:25] Client "isabella" connected.
+[08:50:25] Client "" spawned in server <BOT> (took 115 seconds).
+[08:52:47] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 143 seconds).
+[08:52:47] Dropped "Woody" from server<BOT>
+[08:53:59] Lugii: !noclip
+[08:54:08] Lugii: !noclip
+[08:54:25] Lugii<STEAM_0:1:552352244> spawned sent zpf_resource
+[08:54:33] Lugii: !noclip
+[08:54:47] Lugii: !noclip
+[08:54:50] Lugii<STEAM_0:1:552352244> spawned sent zpf_resource
+[08:54:59] Lugii<STEAM_0:1:552352244> spawned sent zpf_resource
+[08:58:16] Lugii: /unbox
+[08:58:21] Lugii: !unbox
+[08:58:56] Lugii: !noclip
+[08:59:05] Lugii: !noclip
+[09:05:55] Lugii: !noclip
+[09:06:14] Lugii: !noclip
+[09:06:27] Lugii: !noclip
+[09:06:35] Lugii: !noclip
+[09:07:05] Lugii: !levels
+[09:11:52] Server is shutting down/changing levels.
+
+
+
+[09:13:54] New map: rp_downtown_tits_v2
+[09:14:02] Server is shutting down/changing levels.
+
+
+
+[09:18:52] New map: rp_downtown_tits_v2
+[09:19:18] Client "Lugii" connected.
+[09:19:19] Client "Big Macintosh" connected.
+[09:19:19] Client "" spawned in server <BOT> (took 101 seconds).
+[09:19:19] Client "Foo Foo" connected.
+[09:19:19] Client "" spawned in server <BOT> (took 101 seconds).
+[09:19:19] Client "puta" connected.
+[09:19:19] Client "" spawned in server <BOT> (took 101 seconds).
+[09:19:19] Client "Blossom" connected.
+[09:19:19] Client "" spawned in server <BOT> (took 101 seconds).
+[09:19:19] Client "Rayman" connected.
+[09:19:19] Client "" spawned in server <BOT> (took 101 seconds).
+[09:20:32] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 74 seconds).
+[09:20:32] Dropped "Big Macintosh" from server<BOT>
+[09:21:04] Lugii: /level
+[09:21:07] Lugii: !levels
+[09:21:14] Lugii: !level
+[09:21:16] Lugii: !xp
+[09:21:18] Lugii: /xp
+[09:22:41] Lugii: /xp
+[09:23:42] Server is shutting down/changing levels.
+
+
+
+[09:25:40] New map: rp_downtown_tits_v2
+[09:26:00] Client "Lugii" connected.
+[09:26:01] Client "hun" connected.
+[09:26:01] Client "" spawned in server <BOT> (took 92 seconds).
+[09:26:01] Client "dude" connected.
+[09:26:01] Client "" spawned in server <BOT> (took 92 seconds).
+[09:26:01] Client "TANK" connected.
+[09:26:01] Client "" spawned in server <BOT> (took 92 seconds).
+[09:26:01] Client "Kitty" connected.
+[09:26:01] Client "" spawned in server <BOT> (took 92 seconds).
+[09:26:01] Client "Sweetex" connected.
+[09:26:01] Client "" spawned in server <BOT> (took 92 seconds).
+[09:27:06] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 66 seconds).
+[09:27:07] Dropped "hun" from server<BOT>
+[09:39:15] (TEAM) Lugii: /unbox
+[09:39:19] Lugii: /unbox
+[09:39:23] Lugii: xban
+[09:39:25] Lugii: !xban
+[09:40:11] Lugii: /restart
+[09:40:19] Lugii: !noclip
+[09:40:24] Lugii: !noclip
+[09:55:43] Server is shutting down/changing levels.
+
+
+
+[09:56:39] New map: rp_downtown_tits_v2
+[09:56:43] Client "SpY" connected.
+[09:56:43] Client "" spawned in server <BOT> (took 50 seconds).
+[09:56:43] Client "Bloo Me" connected.
+[09:56:43] Client "" spawned in server <BOT> (took 50 seconds).
+[09:56:43] Client "Sweetex" connected.
+[09:56:43] Client "" spawned in server <BOT> (took 50 seconds).
+[09:56:43] Client "Prodigy" connected.
+[09:56:43] Client "" spawned in server <BOT> (took 50 seconds).
+[09:57:53] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 120 seconds).
+[09:57:53] Dropped "Bot02" from server<BOT>
+[09:58:19] Lugii: !dconfig
+[09:58:33] Server is shutting down/changing levels.
+
+
+
+[09:59:29] New map: rp_downtown_tits_v2
+[09:59:34] Client "Derpy Hooves" connected.
+[09:59:34] Client "" spawned in server <BOT> (took 51 seconds).
+[09:59:34] Client "ρanda♥" connected.
+[09:59:34] Client "" spawned in server <BOT> (took 51 seconds).
+[09:59:34] Client "Knotty" connected.
+[09:59:34] Client "" spawned in server <BOT> (took 51 seconds).
+[09:59:34] Client "Atomic Boom!" connected.
+[09:59:34] Client "" spawned in server <BOT> (took 51 seconds).
+[10:00:46] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 123 seconds).
+[10:00:46] Dropped "Bot03" from server<BOT>
+[10:01:19] Lugii: !dconfig
+[10:01:22] Lugii: !config
+[10:01:26] Lugii: !dconfig
+[10:05:47] Lugii: !dconfig
+[10:09:31] Lugii<STEAM_0:1:552352244> spawned sent wac_pl_ultralight
+[10:10:57] Lugii: !noclip
+[10:11:47] Lugii: !noclip
+[10:12:03] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube3x8x025.mdl
+[10:12:24] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube3x8x025.mdl
+[10:12:29] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube3x8x025.mdl
+[10:12:30] Lugii<STEAM_0:1:552352244> spawned model models/hunter/blocks/cube3x8x025.mdl
+[10:27:13] Lugii: !remotebitminers
+[10:27:25] Lugii: !remotebitminers
+[10:27:58] Lugii: !remotebitminers
+[10:45:56] Lugii: /dropmoney 256139659
+[10:46:07] Lugii: /dropmoney 25613959
+[10:46:21] Lugii was killed by gunlab
+[10:46:28] Lugii: !return
+[10:46:29] Lugii: !noclip
+[10:46:32] Lugii: !noclip
+[10:46:54] Lugii<STEAM_0:1:552352244> spawned sent drone_cargomarkii
+[10:46:59] Lugii<STEAM_0:1:552352244> spawned sent drone_cargo
+[10:47:03] Lugii: !noclip
+[10:47:04] Lugii: !noclip
+[10:47:09] Lugii<STEAM_0:1:552352244> spawned sent refuelstation_diesel
+[10:47:33] Lugii<STEAM_0:1:552352244> spawned sent refuelstation_plasma
+[10:51:16] Lugii suicided!
+[10:51:34] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[10:51:34] Client "Donald Trump" connected.
+[10:51:34] Client "" spawned in server <BOT> (took 3171 seconds).
+[10:51:34] Dropped "Donald Trump" from server<BOT>
+[10:51:34] Client "Buttercup" connected.
+[10:51:34] Client "" spawned in server <BOT> (took 3171 seconds).
+[10:51:34] Dropped "Derpy Hooves" from server<BOT>
+[10:51:34] Client "Pinky Pie" connected.
+[10:51:34] Client "" spawned in server <BOT> (took 3171 seconds).
+[10:51:34] Dropped "ρanda♥" from server<BOT>
+[10:51:34] Client "Kam" connected.
+[10:51:34] Client "" spawned in server <BOT> (took 3171 seconds).
+[10:51:34] Dropped "Knotty" from server<BOT>
+[10:51:34] Client "isabella" connected.
+[10:51:34] Client "" spawned in server <BOT> (took 3171 seconds).
+[10:51:34] Dropped "Atomic Boom!" from server<BOT>
+[10:51:34] Client "><|||>" connected.
+[10:51:34] Client "" spawned in server <BOT> (took 3171 seconds).
+[13:26:00] Server is shutting down/changing levels.
+
+
+
+[13:28:32] New map: rp_downtown_tits_v2
+[13:29:20] Server is shutting down/changing levels.
+
+
+
+[13:31:47] New map: rp_downtown_tits_v2
+[13:32:01] Client "Lugii" connected.
+[13:32:02] Client "Xira" connected.
+[13:32:02] Client "" spawned in server <BOT> (took 110 seconds).
+[13:32:02] Client "Scootalo" connected.
+[13:32:02] Client "" spawned in server <BOT> (took 110 seconds).
+[13:32:02] Client "Lucy" connected.
+[13:32:02] Client "" spawned in server <BOT> (took 110 seconds).
+[13:32:02] Client "Mina | <3" connected.
+[13:32:02] Client "" spawned in server <BOT> (took 110 seconds).
+[13:32:02] Client "DYSON" connected.
+[13:32:02] Client "" spawned in server <BOT> (took 110 seconds).
+[13:33:35] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 94 seconds).
+[13:33:36] Dropped "Xira" from server<BOT>
+[13:35:42] Lugii: !noclip
+[14:03:13] Lugii: !noclip
+[14:03:14] Lugii: !noclip
+[14:03:15] Lugii: !noclip
+[14:03:23] Lugii: !noclip
+[14:03:31] Lugii: !noclip
+[14:04:01] Lugii: !noclip
+[14:04:27] Lugii<STEAM_0:1:552352244> spawned sent aphone_npc
+[14:04:45] Lugii suicided!
+[14:05:13] Lugii: !noclip
+[14:05:20] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:05:30] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:05:58] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:06:12] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:06:33] Lugii<STEAM_0:1:552352244> spawned sent bank_vault
+[14:06:48] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:07:25] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:08:02] Lugii: !noclip
+[14:09:55] Lugii: !noclip
+[14:10:00] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:10:10] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:10:40] Lugii: !noclip
+[14:10:55] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[14:11:24] Lugii: !noclip
+[14:11:31] Lugii: !noclip
+[14:11:33] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[14:11:55] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[14:12:12] Lugii: !noclip
+[14:12:15] Lugii: !noclip
+[14:12:38] Lugii<STEAM_0:1:552352244> spawned model models/props_docks/channelmarker_gib02.mdl
+[14:12:40] Lugii: w
+[14:12:45] Lugii: !motd
+[14:18:06] Lugii: !addons
+[14:23:38] Lugii<STEAM_0:1:552352244> spawned model models/props_lab/blastdoor001c.mdl
+[14:24:23] Lugii<STEAM_0:1:552352244> spawned sent zmlab2_npc
+[14:24:36] Lugii<STEAM_0:1:552352244> spawned sent zrush_fuelbuyer_npc
+[14:24:47] Lugii<STEAM_0:1:552352244> spawned sent zrms_buyer
+[14:25:06] Lugii<STEAM_0:1:552352244> spawned sent zwf_buyer_npc
+[14:25:45] Lugii: !noclip
+[14:25:57] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:26:07] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:26:41] Lugii: !noclip
+[14:26:45] Lugii<STEAM_0:1:552352244> spawned sent ztm_buyermachine
+[14:27:01] Lugii<STEAM_0:1:552352244> spawned sent ztm_manhole
+[14:27:08] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycler
+[14:27:25] Lugii: !noclip
+[14:27:28] Lugii: !noclip
+[14:27:31] Lugii: !noclip
+[14:28:18] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycler
+[14:30:49] Lugii: !config
+[14:30:51] Lugii: !dconfig
+[14:30:57] Lugii: !dconfig2
+[14:31:08] Lugii: FUCK
+[14:33:59] Lugii: !noclip
+[14:35:22] Lugii<STEAM_0:1:552352244> spawned sent jobcreator_npc
+[14:39:24] Lugii: hey
+[14:42:06] Lugii: 76561199064970217
+[14:48:55] Lugii: /developer
+[14:49:12] Lugii<STEAM_0:1:552352244> spawned sent jobcreator_conversion_npc
+[14:49:38] Lugii<STEAM_0:1:552352244> spawned sent deathscreen_npc
+[14:55:39] Lugii: /developer
+[14:55:46] Lugii: developer
+[14:58:10] Lugii: !noclip
+[14:58:24] Lugii<STEAM_0:1:552352244> spawned sent deathscreen_npc
+[14:58:27] Lugii: !noclip
+[15:00:53] Lugii: !noclip
+[15:00:55] Lugii: !noclip
+[15:01:50] Lugii<STEAM_0:1:552352244> spawned sent bank_npc
+[15:01:52] Lugii<STEAM_0:1:552352244> spawned sent xenin_coinflip_npc
+[15:01:53] Lugii<STEAM_0:1:552352244> spawned sent deathscreen_npc
+[15:10:12] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[15:10:12] Client "Bubbles" connected.
+[15:10:12] Client "" spawned in server <BOT> (took 6000 seconds).
+[15:10:12] Dropped "Bubbles" from server<BOT>
+[15:10:12] Client "Rarity" connected.
+[15:10:12] Client "" spawned in server <BOT> (took 6000 seconds).
+[15:10:12] Dropped "Scootalo" from server<BOT>
+[15:10:12] Client "Flump" connected.
+[15:10:12] Client "" spawned in server <BOT> (took 6000 seconds).
+[15:10:12] Dropped "Lucy" from server<BOT>
+[15:10:12] Client "Cr33p3r" connected.
+[15:10:12] Client "" spawned in server <BOT> (took 6000 seconds).
+[15:10:12] Dropped "Mina | <3" from server<BOT>
+[15:10:12] Client "Spyro" connected.
+[15:10:12] Client "" spawned in server <BOT> (took 6000 seconds).
+[15:10:12] Dropped "DYSON" from server<BOT>
+[15:10:12] Client "Derp" connected.
+[15:10:12] Client "" spawned in server <BOT> (took 6000 seconds).
+[15:10:42] Server is shutting down/changing levels.
+
+
+
+[15:13:11] New map: rp_downtown_tits_v2
+[15:14:10] Client "Lugii" connected.
+[15:14:11] Client "3===D" connected.
+[15:14:11] Client "" spawned in server <BOT> (took 150 seconds).
+[15:14:11] Client "dudette" connected.
+[15:14:11] Client "" spawned in server <BOT> (took 150 seconds).
+[15:14:11] Client "Hot Lips" connected.
+[15:14:11] Client "" spawned in server <BOT> (took 150 seconds).
+[15:14:11] Client "Alli" connected.
+[15:14:11] Client "" spawned in server <BOT> (took 150 seconds).
+[15:14:11] Client "ρanda♥" connected.
+[15:14:11] Client "" spawned in server <BOT> (took 150 seconds).
+[15:14:12] 3===D~~~<BOT> changed their name to 3===D
+[15:15:40] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 90 seconds).
+[15:15:41] Dropped "3===D" from server<BOT>
+[15:16:45] Lugii: !noclip
+[15:16:46] Lugii: !noclip
+[15:17:27] Lugii: !noclip
+[15:17:28] Lugii: !noclip
+[15:17:55] Lugii: !noclip
+[15:17:57] Lugii: !noclip
+[15:17:58] Lugii: !noclip
+[15:18:38] Lugii: !noclip
+[15:19:15] Lugii<STEAM_0:1:552352244> spawned sent zwf_muffinmix
+[15:19:25] Lugii<STEAM_0:1:552352244> spawned sent zpizmak_opensign
+[15:20:28] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[15:20:28] Client "Defcon" connected.
+[15:20:28] Client "" spawned in server <BOT> (took 527 seconds).
+[15:20:28] Dropped "Defcon" from server<BOT>
+[15:20:28] Client "Fluttershy" connected.
+[15:20:28] Client "" spawned in server <BOT> (took 527 seconds).
+[15:20:28] Dropped "dudette" from server<BOT>
+[15:20:28] Client "Khaleesi" connected.
+[15:20:28] Client "" spawned in server <BOT> (took 527 seconds).
+[15:20:29] Dropped "Hot Lips" from server<BOT>
+[15:20:29] Client "Raw." connected.
+[15:20:29] Client "" spawned in server <BOT> (took 528 seconds).
+[15:20:29] Dropped "Alli" from server<BOT>
+[15:20:29] Client "BellaTrix" connected.
+[15:20:29] Client "" spawned in server <BOT> (took 528 seconds).
+[15:20:29] Dropped "ρanda♥" from server<BOT>
+[15:20:29] Client "Meow :3" connected.
+[15:20:29] Client "" spawned in server <BOT> (took 528 seconds).
+[16:02:44] Server is shutting down/changing levels.
+
+
+
+[16:05:30] New map: rp_downtown_tits_v2
+[16:06:33] Client "Lugii" connected.
+[16:06:34] Client "Kaya 🐻🐾🐲" connected.
+[16:06:34] Client "" spawned in server <BOT> (took 168 seconds).
+[16:06:34] Client "Atomic Boom!" connected.
+[16:06:34] Client "" spawned in server <BOT> (took 168 seconds).
+[16:06:34] Client "Lucy" connected.
+[16:06:34] Client "" spawned in server <BOT> (took 168 seconds).
+[16:06:34] Client "Fluttershy" connected.
+[16:06:34] Client "" spawned in server <BOT> (took 168 seconds).
+[16:06:34] Client "Gabe Newell" connected.
+[16:06:34] Client "" spawned in server <BOT> (took 168 seconds).
+[16:08:03] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 90 seconds).
+[16:08:03] Dropped "Kaya 🐻🐾🐲" from server<BOT>
+[16:09:07] Lugii<STEAM_0:1:552352244> spawned sent slownls_atm
+[16:10:16] Lugii<STEAM_0:1:552352244> spawned sent slownls_atm
+[16:10:35] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[16:10:35] Client "Olivia" connected.
+[16:10:35] Client "" spawned in server <BOT> (took 409 seconds).
+[16:10:35] Dropped "Olivia" from server<BOT>
+[16:10:35] Client "Floofy" connected.
+[16:10:35] Client "" spawned in server <BOT> (took 409 seconds).
+[16:10:35] Dropped "Atomic Boom!" from server<BOT>
+[16:10:35] Client "Jaffa Cake" connected.
+[16:10:35] Client "" spawned in server <BOT> (took 409 seconds).
+[16:10:35] Dropped "Lucy" from server<BOT>
+[16:10:35] Client "Coach" connected.
+[16:10:35] Client "" spawned in server <BOT> (took 409 seconds).
+[16:10:36] Dropped "Fluttershy" from server<BOT>
+[16:10:36] Client "DYSON" connected.
+[16:10:36] Client "" spawned in server <BOT> (took 410 seconds).
+[16:10:36] Dropped "Gabe Newell" from server<BOT>
+[16:10:36] Client "T-REX" connected.
+[16:10:36] Client "" spawned in server <BOT> (took 410 seconds).
+[16:10:36] Client "Lugii" connected.
+[16:11:47] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 71 seconds).
+[16:11:48] Dropped "Floofy" from server<BOT>
+[16:12:25] Lugii<STEAM_0:1:552352244> spawned sent slownls_atm
+[16:12:55] Lugii<STEAM_0:1:552352244> spawned sent slownls_atm
+[16:13:12] Lugii: !noclip
+[16:13:13] Lugii: !noclip
+[16:17:19] Lugii<STEAM_0:1:552352244> spawned sent slownls_atm_money
+[16:17:22] Lugii<STEAM_0:1:552352244> spawned sent slownls_atm
+[16:24:55] Server is shutting down/changing levels.
+
+
+
+[16:30:25] New map: rp_downtown_tits_v2
+[16:30:48] Client "Lugii" connected.
+[16:30:49] Client "(*)(*)" connected.
+[16:30:49] Client "" spawned in server <BOT> (took 132 seconds).
+[16:30:49] Client "Rainbow Dash" connected.
+[16:30:49] Client "" spawned in server <BOT> (took 132 seconds).
+[16:30:49] Client "Lisa" connected.
+[16:30:49] Client "" spawned in server <BOT> (took 132 seconds).
+[16:30:49] Client "Los Lobos" connected.
+[16:30:49] Client "" spawned in server <BOT> (took 132 seconds).
+[16:30:49] Client "Rarity" connected.
+[16:30:49] Client "" spawned in server <BOT> (took 132 seconds).
+[16:32:09] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 81 seconds).
+[16:32:09] Dropped "(*)(*)" from server<BOT>
+[16:32:48] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[16:32:52] Client "MrMillerUK" connected.
+[16:33:02] Lugii: !noclip
+[16:33:46] Lugii: !motd
+[16:34:10] Lugii: !noclip
+[16:34:19] Lugii: !noclip
+[16:34:56] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[16:35:09] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 137 seconds).
+[16:35:10] Dropped "Rainbow Dash" from server<BOT>
+[16:35:13] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[16:35:31] Lugii<STEAM_0:1:552352244> spawned sent ch_atm
+[16:35:38] Lugii: !noclip
+[16:35:39] Lugii: !noclip
+[16:35:41] Lugii: !noclip
+[16:35:47] Lugii brought MrMillerUK
+[16:35:47] Lugii: !bring MrMillerUK
+[16:36:41] Lugii: !noclip
+[16:36:54] Lugii: !noclip
+[16:36:56] Lugii: !noclip
+[16:36:57] Lugii: !noclip
+[16:37:02] MrMillerUK: !noclip
+[16:38:15] Lugii<STEAM_0:1:552352244> spawned sent ch_atm_credit_card
+[16:38:20] Lugii<STEAM_0:1:552352244> spawned sent ch_atm_card_scanner
+[16:38:24] Lugii<STEAM_0:1:552352244> spawned sent ch_atm_money
+[16:38:35] Lugii: !noclip
+[16:38:37] Lugii: !noclip
+[16:38:38] Lugii: !noclip
+[16:38:39] Lugii: !noclip
+[16:38:43] MrMillerUK: !
+[16:39:30] Lugii: !noclip
+[16:39:35] Lugii: !noclip
+[16:43:19] Lugii<STEAM_0:1:552352244> spawned sent ch_atm_card_scanner
+[16:44:13] Lugii: !noclip
+[16:44:19] Lugii: !noclip
+[16:44:23] Lugii: !noclip
+[16:45:06] Lugii: !noclip
+[16:45:12] Lugii: !noclip
+[16:45:13] Lugii: !noclip
+[16:45:14] Lugii: !noclip
+[16:45:16] Lugii: !noclip
+[16:45:47] MrMillerUK cloaked Themself by amount 0
+[16:45:47] MrMillerUK: !cloak
+[16:45:55] Lugii uncloaked MrMillerUK
+[16:45:55] Lugii: !uncloak MrMillerUK
+[16:45:58] Lugii teleported to MrMillerUK
+[16:45:58] Lugii: !goto MrMillerUK
+[16:46:00] Lugii killed MrMillerUK using player
+[16:46:00] (TEAM) MrMillerUK: !noclip
+[16:46:10] Lugii: !noclip
+[16:46:14] Lugii: !noclip
+[16:47:12] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[16:47:12] Client "1+3+3=7" connected.
+[16:47:12] Client "" spawned in server <BOT> (took 1115 seconds).
+[16:50:23] Lugii<STEAM_0:1:552352244> spawned sent ch_atm_credit_card
+[16:51:59] Client "Jigzyy" connected.
+[16:58:25] Lugii: !noclip
+[16:58:26] Lugii: !noclip
+[16:58:32] Lugii: /setspawn
+[16:58:44] Lugii: /setspawn
+[17:05:28] Client "Jigzyy" spawned in server <STEAM_0:0:525573342> (took 809 seconds).
+[17:05:28] Dropped "1+3+3=7" from server<BOT>
+[17:07:23] Lugii: !noclip
+[17:07:26] Lugii: !noclip
+[17:07:54] Jigzyy: !motd
+[17:07:58] Lugii: !motd
+[17:09:25] Jigzyy: 1 sec
+[17:09:57] Lugii teleported to Jigzyy
+[17:09:57] Lugii: !goto Jigzyy
+[17:11:50] Lugii: !noclip
+[17:11:58] Lugii: !noclip
+[17:12:16] Lugii: !noclip
+[17:12:28] Lugii: !noclip
+[17:12:30] Lugii teleported to Jigzyy
+[17:12:30] Lugii: !goto Jigzyy
+[17:12:40] Lugii: !noclip
+[17:12:41] Lugii: !noclip
+[17:13:15] Jigzyy: Where can I get the addons
+[17:13:28] Jigzyy: Everything is errors for me
+[17:14:05] Lugii: https://steamcommunity.com/sharedfiles/filedetails/?id=2834719105
+[17:14:10] Lugii teleported to Jigzyy
+[17:14:10] Lugii: !goto Jigzyy
+[17:14:14] Lugii: https://steamcommunity.com/sharedfiles/filedetails/?id=2834719105
+[17:14:41] Jigzyy: your copy chat button doesnt work
+[17:15:05] Lugii: !noclip
+[17:15:07] Lugii: !noclip
+[17:15:10] Lugii: !menu
+[17:15:51] Lugii: !xban
+[17:15:57] Lugii: !warn
+[17:15:58] Jigzyy: I'm down to help you all improve the server
+[17:17:15] Jigzyy: I can help you with things and give suggestions. 
+[17:17:33] Jigzyy: I wouldn't add anymore addons for now, work on changing the map
+[17:17:56] Lugii: !noclip
+[17:18:09] Lugii: !noclip
+[17:18:39] Lugii: !noclip
+[17:18:48] Lugii: !noclip
+[17:18:56] Lugii: !noclip
+[17:19:03] Lugii: !noclip
+[17:19:24] Jigzyy: I will when I get back, I need to go AFK for a bit
+[17:19:29] Lugii: !noclip
+[17:19:35] Lugii: !noclip
+[17:19:39] Lugii brought Jigzyy
+[17:19:39] Lugii: !bring Jigzyy
+[17:20:02] Lugii: !noclip
+[17:20:07] Lugii: !noclip
+[17:20:10] Lugii: /flip
+[17:20:12] Jigzyy: I can help you improve the server, keep it in mind if you need me :)
+[17:20:27] Lugii: !noclip
+[17:20:33] Lugii: !noclip
+[17:20:56] Jigzyy: Why cant I sit
+[17:21:35] Lugii: /restartserver
+[17:21:38] Lugii: /restart
+[17:22:42] Lugii: restartserver
+[17:22:44] Lugii: /restartserver
+[17:24:16] Server is shutting down/changing levels.
+
+
+
+[17:27:04] New map: rp_downtown_tits_v2
+[17:28:02] Client "Lugii" connected.
+[17:28:03] Client "DYSON" connected.
+[17:28:03] Client "" spawned in server <BOT> (took 166 seconds).
+[17:28:03] Client "BASSHUNTER" connected.
+[17:28:03] Client "" spawned in server <BOT> (took 166 seconds).
+[17:28:03] Client "Vixen" connected.
+[17:28:03] Client "" spawned in server <BOT> (took 166 seconds).
+[17:28:03] Client "Scooter" connected.
+[17:28:03] Client "" spawned in server <BOT> (took 166 seconds).
+[17:28:03] Client "Flesh Pound" connected.
+[17:28:03] Client "" spawned in server <BOT> (took 166 seconds).
+[17:29:31] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 89 seconds).
+[17:29:32] Dropped "DYSON" from server<BOT>
+[17:32:24] Lugii suicided!
+[17:32:46] Lugii: !noclip
+[17:32:47] Lugii: !noclip
+[17:33:39] Lugii suicided!
+[17:34:39] Lugii suicided!
+[17:35:09] Lugii granted god mode upon Themself
+[17:35:09] Lugii: !god Lugii
+[17:35:15] Lugii: !noclip
+[17:35:16] Lugii: !noclip
+[17:35:23] Lugii revoked god mode from Themself
+[17:35:23] Lugii: !ungod Lugii
+[17:35:32] Lugii: !sethp Lugii 1000000
+[17:35:39] Lugii set the hp for Themself to 100000000
+[17:35:39] Lugii: !hp Lugii 100000000
+[17:36:57] Lugii: !whip Lugii 99998990
+[17:37:28] Lugii whipped Themself 100 times with 999999999 damage
+[17:37:28] Lugii: !whip Lugii 100 999999999
+[17:37:28] Lugii suicided!
+[17:37:52] Lugii: !noclip
+[17:38:10] Lugii: /flipsadmin
+[17:38:15] Lugii: /adminatm
+[17:38:35] Lugii: !noclip
+[17:40:03] Lugii: !noclip
+[17:40:04] Lugii: !noclip
+[17:40:05] Lugii: !noclip
+[17:40:19] Lugii: !noclip
+[17:40:38] Lugii ignited Themself for 300 seconds
+[17:40:38] Lugii: !ignite Lugii
+[17:40:42] Lugii: !menu
+[17:40:48] Lugii extinguished Themself
+[17:40:54] Lugii ignited Themself for 1 seconds
+[17:41:00] Lugii ignited Themself for 10 seconds
+[17:41:08] Lugii extinguished Themself
+[17:41:14] Lugii ignited Themself for 1 seconds
+[17:41:16] Lugii ignited Themself for 1 seconds
+[17:41:17] Lugii was killed by entityflame
+[17:42:27] Lugii: !ignite MrMillerUK
+[17:42:30] Lugii: !xban
+[17:42:40] Lugii: !xban
+[17:46:21] Lugii: !xban
+[17:46:30] Lugii banned steamid STEAM_0:1:525475507 for 5 minutes (Crashed server)
+[17:51:00] Lugii: /flips
+[17:52:36] Client "Jigzyy" connected.
+[17:54:21] Client "Jigzyy" spawned in server <STEAM_0:0:525573342> (took 105 seconds).
+[17:54:21] Dropped "BASSHUNTER" from server<BOT>
+[17:55:03] Lugii: !noclip
+[17:55:11] Lugii: !noclip
+[17:55:22] Lugii: !noclip Jigzyy
+[17:55:24] Lugii: !noclip
+[17:55:38] Lugii teleported to Jigzyy
+[17:55:38] Lugii: !goto Jigzyy
+[17:56:08] Lugii teleported to Jigzyy
+[17:56:08] Lugii: !goto Jigzyy
+[17:56:22] Lugii teleported to Jigzyy
+[17:56:22] Lugii: !goto Jigzyy
+[17:56:34] Lugii: !heal Jigzyy
+[17:56:39] Lugii teleported to Jigzyy
+[17:56:39] Lugii: !goto Jigzyy
+[17:56:49] Lugii set the hp for Jigzyy to 1
+[17:56:49] Lugii: !hp Jigzyy 1
+[17:56:59] Lugii set the hp for Jigzyy to 100
+[17:56:59] Lugii: !hp Jigzyy 100
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/mechanics/gears2/pinion_80t2.mdl
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:07] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/mechanics/gears2/pinion_80t3.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube4x4x05.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x8x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x1x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x8x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/mechanics/gears2/pinion_80t2.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x3x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x3x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:08] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x3x025.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:09] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:10] Lugii teleported to Jigzyy
+[17:57:10] Lugii: !goto Jigzyy
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/mechanics/gears2/pinion_80t2.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/mechanics/gears2/pinion_80t3.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube4x4x05.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x8x025.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:58] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x1x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x8x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/mechanics/gears2/pinion_80t2.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x3x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x3x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/plates/plate8x8.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube025x3x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/triangles/1x1x5.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube2x3x025.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:57:59] Jigzyy<STEAM_0:0:525573342> spawned model models/props_c17/oildrum001.mdl
+[17:58:00] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube3x4x025.mdl
+[17:58:00] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:58:00] Jigzyy<STEAM_0:0:525573342> spawned model models/hunter/blocks/cube1x3x1.mdl
+[17:58:28] Lugii teleported to Jigzyy
+[17:58:28] Lugii: !goto Jigzyy
+[17:58:32] Lugii: !noclip
+[17:58:43] Lugii killed Jigzyy using player
+[17:58:53] Lugii: !noclip
+[17:59:22] Lugii: !noclip
+[17:59:24] Lugii teleported to Jigzyy
+[17:59:24] Lugii: !goto Jigzyy
+[18:00:15] Jigzyy: ws
+[18:00:45] Lugii: !noclip
+[18:01:52] Lugii<STEAM_0:1:552352244> spawned sent sent_jetpack
+[18:02:09] Lugii: !noclip
+[18:02:10] Lugii<STEAM_0:1:552352244> spawned sent sent_jetpack
+[18:02:23] Lugii teleported to Jigzyy
+[18:02:23] Lugii: !goto Jigzyy
+[18:03:42] Jigzyy killed Lugii using player
+[18:04:35] Lugii teleported to Jigzyy
+[18:04:35] Lugii: !goto Jigzyy
+[18:04:37] Lugii: !noclip
+[18:04:39] Lugii: !noclip
+[18:04:41] Lugii<STEAM_0:1:552352244> spawned sent sent_jetpack
+[18:05:13] Lugii<STEAM_0:1:552352244> spawned vehicle models/lonewolfie/lam_huracan.mdl
+[18:05:17] Lugii<STEAM_0:1:552352244> spawned vehicle models/lonewolfie/bugatti_veyron_grandsport.mdl
+[18:05:20] Lugii<STEAM_0:1:552352244> spawned vehicle models/lonewolfie/bugatti_veyron_grandsport.mdl
+[18:05:47] Lugii<STEAM_0:1:552352244> spawned vehicle models/lonewolfie/bugatti_veyron_grandsport.mdl
+[18:06:35] Lugii<STEAM_0:1:552352244> spawned vehicle models/buggy.mdl
+[18:07:32] Lugii: !noclip
+[18:07:36] Lugii: !noclip
+[18:07:40] Lugii<STEAM_0:1:552352244> spawned vehicle models/djm_cars/audi/audir8/r8.mdl
+[18:07:55] Lugii: !noclip
+[18:08:01] Lugii: !noclip
+[18:08:14] Lugii teleported to Jigzyy
+[18:08:14] Lugii: !goto Jigzyy
+[18:08:19] Lugii teleported to Jigzyy
+[18:08:19] Lugii: !goto Jigzyy
+[18:08:23] Lugii: !noclip
+[18:08:26] Lugii: !noclip
+[18:08:29] Lugii brought Jigzyy
+[18:08:29] Lugii: !bring Jigzyy
+[18:08:38] Lugii killed Jigzyy using csgo_karambit_lore
+[18:09:37] Lugii killed Jigzyy using player
+[18:09:56] Lugii: !noclip
+[18:10:10] Lugii suicided!
+[18:10:23] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[18:10:23] Client "Foo Foo" connected.
+[18:10:23] Client "" spawned in server <BOT> (took 2706 seconds).
+[18:10:24] Dropped "Jigzyy" from server<STEAM_0:0:525573342>
+[18:10:24] Client "(1)Jigzyy" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+[18:10:24] Dropped "(1)Jigzyy" from server<BOT>
+[18:10:24] Client "Rabit" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+[18:10:24] Dropped "Rabit" from server<BOT>
+[18:10:24] Client "Kitty" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+[18:10:24] Dropped "Foo Foo" from server<BOT>
+[18:10:24] Client "Cookie" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+[18:10:24] Dropped "Vixen" from server<BOT>
+[18:10:24] Client "Lemon" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+[18:10:24] Dropped "Scooter" from server<BOT>
+[18:10:24] Client "Bloo Me" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+[18:10:24] Dropped "Flesh Pound" from server<BOT>
+[18:10:24] Client "Derpy Hooves" connected.
+[18:10:24] Client "" spawned in server <BOT> (took 2707 seconds).
+<Logging continued in "data/ulx_logs/05-02-23.txt">

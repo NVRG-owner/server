@@ -1,0 +1,504 @@
+<Logging continued from "data/ulx_logs/05-03-23.txt">
+[02:13:11] Server is shutting down/changing levels.
+
+
+
+[17:08:28] New map: rp_downtown_tits_v2
+[17:34:02] Client "Lugii" connected.
+[17:34:03] Client "Princess Luna" connected.
+[17:34:03] Client "" spawned in server <BOT> (took 1645 seconds).
+[17:34:03] Client "Katt <3" connected.
+[17:34:03] Client "" spawned in server <BOT> (took 1645 seconds).
+[17:34:03] Client "Flesh Pound" connected.
+[17:34:03] Client "" spawned in server <BOT> (took 1645 seconds).
+[17:34:03] Client "Flump" connected.
+[17:34:03] Client "" spawned in server <BOT> (took 1645 seconds).
+[17:34:03] Client "Spike" connected.
+[17:34:03] Client "" spawned in server <BOT> (took 1645 seconds).
+[17:34:04] ~Katt~ <3<BOT> changed their name to Katt <3
+[17:36:07] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 125 seconds).
+[17:36:07] Dropped "Princess Luna" from server<BOT>
+[17:40:00] Lugii: !noclip
+[17:40:19] Lugii: !noclip
+[17:40:23] Lugii: !noclip
+[17:43:19] Lugii: !noclip
+[17:43:28] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_npc
+[17:43:52] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_computer
+[17:44:34] Lugii: !noclip
+[17:44:50] Client "tronix22" connected.
+[17:50:13] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 323 seconds).
+[17:50:13] Dropped "Katt <3" from server<BOT>
+[17:51:45] OWNER: !return l
+[17:54:08] Lugii: !noclip
+[17:54:13] Lugii: !noclip
+[17:54:17] Lugii brought OWNER
+[17:54:17] Lugii: !bring OWNER
+[17:55:46] Lugii: !noclip
+[17:55:51] Lugii: !noclip
+[17:56:26] Lugii: !noclip
+[17:56:49] Lugii: !noclip
+[17:56:50] Lugii: !noclip
+[17:57:52] OWNER brought Lugii
+[17:57:52] OWNER: !bring l
+[18:00:10] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/furniturecouch001a.mdl
+[18:00:18] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/furniturecouch001a.mdl
+[18:00:24] OWNER<STEAM_0:1:634690584> spawned model models/props_c17/furniturecouch001a.mdl
+[18:01:34] Lugii: !noclip
+[18:01:35] Lugii: !noclip
+[18:01:40] Lugii: !noclip
+[18:01:44] Lugii brought OWNER
+[18:01:44] Lugii: !bring OWNER
+[18:02:15] OWNER set the hp for Themself to 100
+[18:02:15] OWNER: !hp owner 100
+[18:02:22] Lugii: !noclip
+[18:02:24] Lugii: !noclip
+[18:02:26] Lugii: !noclip
+[18:02:27] Lugii: !noclip
+[18:02:28] Lugii: !noclip
+[18:02:49] Lugii killed OWNER using csgo_bayonet_autotronic
+[18:02:51] Lugii: !noclip
+[18:02:54] Lugii: !noclip
+[18:02:55] Lugii: !noclip
+[18:03:22] Lugii: !noclip
+[18:03:23] Lugii: !noclip
+[18:03:24] Lugii: !noclip
+[18:03:29] Lugii: !noclip
+[18:04:18] Lugii: /ds
+[18:04:18] OWNER: /staff
+[18:05:21] Lugii: !noclip
+[18:05:32] Lugii killed OWNER using player
+[18:05:34] Lugii: !noclip
+[18:05:41] Lugii: !noclip
+[18:05:45] Lugii: !noclip
+[18:07:23] OWNER<STEAM_0:1:634690584> spawned sent ch_atm_card_scanner
+[18:07:30] Lugii: !noclip
+[18:08:05] Lugii<STEAM_0:1:552352244> spawned sent realistic_properties_box
+[18:08:10] Lugii: !noclip
+[18:09:10] Lugii: /rpsconfig
+[18:09:25] Lugii: /rpsconfig
+[18:09:53] OWNER: /brng l
+[18:10:09] OWNER: !return l
+[18:10:16] OWNER: !return lu
+[18:10:22] OWNER returned Lugii to their original position
+[18:10:22] OWNER: !return lugii
+[18:11:09] OWNER<STEAM_0:1:634690584> spawned sent srp5_printer_special
+[18:11:11] OWNER<STEAM_0:1:634690584> spawned sent srp5_printer
+[18:11:12] OWNER<STEAM_0:1:634690584> spawned sent srp4_printer
+[18:11:14] OWNER<STEAM_0:1:634690584> spawned sent ch_bitminer_bitcoin_screen
+[18:11:21] OWNER<STEAM_0:1:634690584> spawned sent ch_atm
+[18:11:27] OWNER<STEAM_0:1:634690584> spawned sent bm2_bitminer_1
+[18:11:42] Lugii: !noclip
+[18:11:45] Lugii: !noclip
+[18:11:49] Lugii: !noclip
+[18:11:52] Lugii: !noclip
+[18:11:55] Lugii: !noclip
+[18:11:56] Lugii: !noclip
+[18:12:32] OWNER<STEAM_0:1:634690584> spawned sent sent_jetpack
+[18:13:10] Lugii: !noclip
+[18:13:10] OWNER<STEAM_0:1:634690584> spawned sent sent_jetpack
+[18:13:11] Lugii: !noclip
+[18:13:12] Lugii: !noclip
+[18:13:13] Lugii: !noclip
+[18:13:27] Lugii: !noclip
+[18:13:30] Lugii brought OWNER
+[18:13:30] Lugii: !bring OWNER
+[18:13:31] Lugii: !noclip
+[18:13:38] OWNER<STEAM_0:1:634690584> spawned sent realistic_properties_box
+[18:13:42] OWNER<STEAM_0:1:634690584> spawned sent realistic_properties_computer
+[18:13:52] OWNER<STEAM_0:1:634690584> spawned sent realistic_properties_npc
+[18:14:10] OWNER: /dropmoney 1000
+[18:14:58] Lugii: !noclip
+[18:14:59] Lugii: !noclip
+[18:16:39] Lugii: !noclip
+[18:16:40] Lugii: !noclip
+[18:16:53] Lugii: !noclip
+[18:16:59] Lugii: !noclip
+[18:17:37] Lugii froze OWNER
+[18:17:37] Lugii: !freeze OWNER
+[18:17:48] OWNER unfroze Themself,Flesh Pound
+[18:17:48] OWNER: !unfreeze o
+[18:17:57] Lugii brought OWNER
+[18:17:57] Lugii: !bring OWNER
+[18:18:11] OWNER: /dropmoney 10000
+[18:18:40] OWNER: /dropmoney 10000
+[18:18:57] OWNER killed Lugii using stunstick
+[18:19:04] Lugii: !noclip
+[18:19:08] Lugii: !noclip
+[18:19:11] OWNER brought Lugii
+[18:19:11] OWNER: !bring l
+[18:19:11] Lugii brought OWNER
+[18:19:11] Lugii: !bring OWNER
+[18:19:12] Lugii froze OWNER
+[18:19:12] Lugii: !freeze OWNER
+[18:19:21] OWNER unfroze Themself,Flesh Pound
+[18:19:21] OWNER: !unfreeze o
+[18:20:42] Lugii: !noclip
+[18:20:45] Lugii: !noclip
+[18:20:46] Lugii: !noclip
+[18:20:52] Lugii: !noclip
+[18:20:56] OWNER: /pm !warn'
+[18:21:30] Lugii: !noclip
+[18:21:35] Lugii: !noclip
+[18:21:45] Lugii brought OWNER
+[18:21:45] Lugii: !bring OWNER
+[18:21:55] Lugii brought OWNER
+[18:21:55] Lugii: !bring OWNER
+[18:22:04] OWNER: /unarrest
+[18:22:10] OWNER: /unarrest o
+[18:22:14] Lugii: !noclip
+[18:22:26] OWNER brought Lugii
+[18:22:26] OWNER: !bring lu
+[18:22:28] OWNER killed Lugii using player
+[18:22:45] Lugii: !noclip
+[18:22:46] OWNER brought Lugii
+[18:22:46] OWNER: !bring lu
+[18:22:49] Lugii: !noclip
+[18:22:51] OWNER killed Lugii using player
+[18:23:00] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[18:23:00] Client "Sweetie Belle" connected.
+[18:23:00] Client "" spawned in server <BOT> (took 4582 seconds).
+[18:23:09] Lugii: !noclip
+[18:23:14] Lugii: !noclip
+[18:23:26] (Console) mauled Lugii
+[18:23:33] Lugii: !unmaul Lugii
+[18:23:37] Lugii was killed by npc_fastzombie
+[18:23:38] Lugii granted god mode upon Themself
+[18:23:38] Lugii: !god Lugii
+[18:23:41] Lugii: !noclip
+[18:23:42] Lugii: !noclip
+[18:23:44] Lugii: !menu
+[18:23:45] (Console) mauled Lugii
+[18:23:57] Lugii was killed by npc_fastzombie
+[18:23:58] Lugii slapped Themself with 100 damage
+[18:24:11] Lugii granted god mode upon Themself
+[18:24:12] Lugii granted god mode upon Themself
+[18:24:15] Lugii granted god mode upon Themself
+[18:24:15] Lugii: !god Lugii
+[18:24:24] (Console) blinded Lugii by amount 255
+[18:24:29] Lugii: !menu
+[18:24:37] (Console) unblinded Flump,Lugii
+[18:24:42] (Console) unblinded Lugii
+[18:24:48] Lugii ignited Themself for 1 seconds
+[18:24:53] Lugii granted god mode upon Themself
+[18:24:53] Lugii: !god Lugii
+[18:24:54] Lugii: !noclip
+[18:24:56] Lugii: !noclip
+[18:24:57] Lugii: !noclip
+[18:24:58] Lugii: !noclip
+[18:25:08] (csay from Console) i will kick u
+[18:25:13] (csay from Console) in 3
+[18:25:17] (csay from Console) 2
+[18:25:21] (csay from Console) 1
+[18:25:28] (csay from Console) now
+[18:25:37] Lugii: !noclip
+[18:25:38] Lugii: !noclip
+[18:25:42] Lugii: !noclip
+[18:25:50] Lugii: !noclip
+[18:26:49] Lugii: !noclip
+[18:26:50] Lugii: !noclip
+[18:26:53] Lugii: !noclip
+[18:26:55] Lugii: !noclip
+[18:26:56] Lugii: !noclip
+[18:37:24] Lugii: !noclip
+[18:38:25] Lugii: !noclip
+[18:38:31] Lugii: !noclip
+[18:42:53] Lugii: !noclip
+[18:43:12] Lugii: !noclip
+[18:43:13] Lugii: !noclip
+[18:43:15] Lugii: !noclip
+[18:43:15] Lugii: !noclip
+[18:43:17] Lugii: !noclip
+[18:43:38] Server is shutting down/changing levels.
+
+
+
+[18:46:10] New map: rp_downtown_tits_v2
+[18:48:23] Client "Lugii" connected.
+[18:48:24] Client "Trina" connected.
+[18:48:24] Client "" spawned in server <BOT> (took 229 seconds).
+[18:48:24] Client "Foo Foo" connected.
+[18:48:24] Client "" spawned in server <BOT> (took 229 seconds).
+[18:48:24] Client "Moi Loca" connected.
+[18:48:24] Client "" spawned in server <BOT> (took 229 seconds).
+[18:48:24] Client "Jaffa Cake" connected.
+[18:48:24] Client "" spawned in server <BOT> (took 229 seconds).
+[18:48:24] Client "Prodigy" connected.
+[18:48:24] Client "" spawned in server <BOT> (took 229 seconds).
+[18:49:37] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 74 seconds).
+[18:49:38] Dropped "Trina" from server<BOT>
+[18:50:55] Lugii: !noclip
+[18:50:57] Lugii: !noclip
+[18:59:01] Lugii: !ping
+[19:07:06] Lugii: !noclip
+[19:07:10] Lugii: !noclip
+[19:07:14] Lugii: !noclip
+[19:07:25] Lugii: !noclip
+[19:10:49] Lugii: !noclip
+[19:10:52] Lugii: !noclip
+[19:10:59] Lugii: !noclip
+[19:11:07] Lugii: !noclip
+[19:11:31] Lugii: !noclip
+[19:11:33] Lugii: !noclip
+[19:11:33] Lugii: !noclip
+[19:11:38] Lugii: !noclip
+[19:11:43] Lugii: !noclip
+[19:11:48] Lugii: !noclip
+[19:12:12] Lugii: !noclip
+[19:12:17] Lugii: !noclip
+[19:12:19] Lugii: !noclip
+[19:12:21] Lugii: !noclip
+[19:12:54] Lugii: !noclip
+[19:12:56] Lugii: !noclip
+[19:12:58] Lugii: !noclip
+[19:12:59] Lugii: !noclip
+[19:13:02] Lugii: !noclip
+[19:13:05] Lugii: !noclip
+[19:13:10] Lugii: !noclip
+[19:15:31] Lugii: !noclip
+[19:15:37] Lugii: !noclip
+[19:16:14] Lugii: !noclip
+[19:17:14] Lugii: !noclip
+[19:17:16] Lugii: !noclip
+[19:26:50] Lugii: !noclip
+[19:26:52] Lugii: !noclip
+[19:27:12] Lugii: !noclip
+[19:27:14] Lugii: !noclip
+[19:27:16] Lugii: !noclip
+[19:27:21] Lugii: !noclip
+[19:27:23] Lugii<STEAM_0:1:552352244> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:27:28] Lugii<STEAM_0:1:552352244> spawned model models/props_c17/fountain_01.mdl
+[19:27:31] Lugii<STEAM_0:1:552352244> spawned model models/props_c17/furniturefridge001a.mdl
+[19:27:34] Lugii<STEAM_0:1:552352244> spawned model models/props_c17/display_cooler01a.mdl
+[19:28:23] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[19:28:23] Client "Xenia" connected.
+[19:28:23] Client "" spawned in server <BOT> (took 2628 seconds).
+[19:28:23] Dropped "Xenia" from server<BOT>
+[19:28:23] Client "Floofy" connected.
+[19:28:23] Client "" spawned in server <BOT> (took 2628 seconds).
+[19:28:23] Dropped "Foo Foo" from server<BOT>
+[19:28:23] Client "Ace" connected.
+[19:28:23] Client "" spawned in server <BOT> (took 2628 seconds).
+[19:28:23] Dropped "Moi Loca" from server<BOT>
+[19:28:23] Client "Foxxi ♥" connected.
+[19:28:23] Client "" spawned in server <BOT> (took 2628 seconds).
+[19:28:23] Dropped "Jaffa Cake" from server<BOT>
+[19:28:23] Client "Big Macintosh" connected.
+[19:28:23] Client "" spawned in server <BOT> (took 2628 seconds).
+[19:28:23] Dropped "Prodigy" from server<BOT>
+[19:28:23] Client "Buttercup" connected.
+[19:28:23] Client "" spawned in server <BOT> (took 2628 seconds).
+[19:31:42] (Console) unbanned steamid STEAM_0:1:552352244
+[19:32:03] Server is shutting down/changing levels.
+
+
+
+[19:34:36] New map: rp_downtown_tits_v2
+[19:35:55] Client "Lugii" connected.
+[19:35:56] Client "◼" connected.
+[19:35:56] Client "" spawned in server <BOT> (took 175 seconds).
+[19:35:56] Client "Floofy" connected.
+[19:35:56] Client "" spawned in server <BOT> (took 175 seconds).
+[19:35:56] Client "DION" connected.
+[19:35:56] Client "" spawned in server <BOT> (took 175 seconds).
+[19:35:56] Client "hun" connected.
+[19:35:56] Client "" spawned in server <BOT> (took 175 seconds).
+[19:35:56] Client "┌∩┐(◣_◢)┌∩┐" connected.
+[19:35:56] Client "" spawned in server <BOT> (took 175 seconds).
+[19:37:25] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 90 seconds).
+[19:37:25] Dropped "◼" from server<BOT>
+[19:40:06] Lugii: !noclip
+[19:40:09] Lugii: !noclip
+[19:40:10] Lugii: !noclip
+[19:40:11] Lugii: !noclip
+[19:40:37] Lugii: !noclip
+[19:40:44] Lugii: !noclip
+[19:41:30] Lugii: !noclip
+[19:41:34] Lugii: !noclip
+[19:46:51] Lugii: !noclip
+[19:46:52] Lugii: !noclip
+[19:49:03] Lugii: !noclip
+[19:49:06] Lugii: !noclip
+[19:49:07] Lugii: !noclip
+[19:55:09] Lugii: !noclip
+[19:55:58] Client "Mox" connected.
+[19:57:21] Lugii: !noclip
+[20:02:44] Lugii: !dc
+[20:02:50] Lugii: !dc1
+[20:02:53] Lugii: !config
+[20:03:17] Lugii: !noclip
+[20:03:18] Lugii: !noclip
+[20:03:20] Lugii: !noclip
+[20:05:26] Client "MrMillerUK" connected.
+[20:06:55] Lugii: !goto MrMillerUK
+[20:06:56] Lugii: !noclip
+[20:06:59] Lugii: !noclip
+[20:07:40] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 134 seconds).
+[20:07:40] Dropped "Floofy" from server<BOT>
+[20:08:14] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[20:08:14] Client "Bloo Me" connected.
+[20:08:14] Client "" spawned in server <BOT> (took 2113 seconds).
+[20:11:59] Lugii: !noclip
+[20:12:08] Lugii: !noclip
+[20:12:10] Lugii: !noclip
+[20:12:13] Lugii: !noclip
+[20:12:22] Lugii: !noclip
+[20:12:27] Lugii: !noclip
+[20:13:08] Client "Mox" spawned in server <STEAM_0:1:56497083> (took 1030 seconds).
+[20:13:08] Dropped "Bloo Me" from server<BOT>
+[20:16:22] Lugii: !noclip
+[20:16:26] Lugii: !noclip
+[20:17:18] (csay from Console) Welcome mox this i the owner talkin from the console and welcome to our server
+[20:17:28] (csay from Console) i will start u off with 1mil
+[20:18:14] Lugii: !noclip
+[20:18:23] Lugii cloaked Themself by amount 0
+[20:18:23] Lugii: !cloak Lugii
+[20:18:30] Lugii teleported to Mox
+[20:18:30] Lugii: !goto Mox
+[20:19:48] Lugii: !noclip
+[20:19:50] Lugii: !menu
+[20:20:04] Lugii uncloaked Themself
+[20:20:53] Lugii: !noclip
+[20:21:41] Lugii: !noclip
+[20:23:52] Lugii: !noclip
+[20:23:54] Lugii: !noclip
+[20:26:07] Lugii: !menu
+[20:26:18] Mox: [DarkRP] Wrong Rank![DarkRP] Wrong Rank!
+[20:26:28] Lugii: !menu
+[20:30:41] Lugii: !menu
+[20:32:28] Server is shutting down/changing levels.
+
+
+
+[20:35:18] New map: rp_downtown_tits_v2
+[20:35:55] Client "Lugii" connected.
+[20:35:56] Client "><|||>" connected.
+[20:35:56] Client "" spawned in server <BOT> (took 148 seconds).
+[20:35:56] Client "Rainbow Dash" connected.
+[20:35:56] Client "" spawned in server <BOT> (took 148 seconds).
+[20:35:56] Client "Faith" connected.
+[20:35:56] Client "" spawned in server <BOT> (took 148 seconds).
+[20:35:56] Client "Rayman" connected.
+[20:35:56] Client "" spawned in server <BOT> (took 148 seconds).
+[20:35:56] Client "Xenia" connected.
+[20:35:56] Client "" spawned in server <BOT> (took 148 seconds).
+[20:37:26] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 91 seconds).
+[20:37:27] Dropped "><|||>" from server<BOT>
+[20:38:01] Lugii: !noclip
+[20:38:05] Lugii: !noclip
+[20:38:17] Lugii: !menu
+[20:38:31] (Console) added Lugii to group superadmin
+[20:39:21] Lugii removed all access rights from Lugii
+[20:39:55] (Console) added Lugii to group superadmin
+[20:40:01] Lugii: !menu
+[20:44:26] Client "MrMillerUK" connected.
+[20:45:06] Lugii removed all access rights from Lugii
+[20:45:57] (Console) added Lugii to group VIP
+[21:05:00] Lugii: !menu
+[21:05:08] Lugii to Rainbow Dash: FUCK
+[21:06:03] Lugii: !menu
+[21:06:15] (Console) added Lugii to group superadmin
+[21:06:34] Lugii: !menu
+[21:14:15] Lugii: !menu
+[21:16:33] Lugii renamed group co owner to Developer
+[21:16:41] Lugii added Lugii to group Developer
+[21:18:00] Lugii removed all access rights from Lugii
+[21:18:25] (Console) added Lugii to group Developer
+[21:19:15] Lugii: !menu
+[21:20:54] Lugii: !menu
+[21:21:29] Lugii: !noclip
+[21:21:30] Lugii: !noclip
+[21:21:31] Lugii: !noclip
+[21:21:32] Lugii: !noclip
+[21:21:37] Server is shutting down/changing levels.
+
+
+
+[21:24:16] New map: rp_downtown_tits_v2
+[21:24:34] Server is shutting down/changing levels.
+
+
+
+[21:27:08] New map: rp_downtown_tits_v2
+[21:27:30] Client "Lugii" connected.
+[21:27:31] Client "Khaleesi" connected.
+[21:27:31] Client "" spawned in server <BOT> (took 119 seconds).
+[21:27:31] Client "Katt <3" connected.
+[21:27:31] Client "" spawned in server <BOT> (took 119 seconds).
+[21:27:31] Client "Cookie" connected.
+[21:27:31] Client "" spawned in server <BOT> (took 119 seconds).
+[21:27:31] Client "ρanda♥" connected.
+[21:27:31] Client "" spawned in server <BOT> (took 119 seconds).
+[21:27:31] Client "Olivia" connected.
+[21:27:31] Client "" spawned in server <BOT> (took 119 seconds).
+[21:27:32] ~Katt~ <3<BOT> changed their name to Katt <3
+[21:29:04] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 94 seconds).
+[21:29:04] Dropped "Khaleesi" from server<BOT>
+[21:29:39] Lugii: !menu
+[21:29:52] Lugii added Lugii to group superadmin
+[21:31:46] Lugii: !noclip
+[21:31:47] Lugii: !noclip
+[21:31:53] Lugii: !setspawn point
+[21:32:00] Lugii: !setspawnpoint
+[21:33:38] Lugii: !spawnpoint
+[21:33:41] Lugii: hey
+[21:33:50] Lugii: !xgui
+[21:34:30] The time is now 09:34 PM.
+[21:34:51] Lugii: hi
+[21:34:55] Lugii: !noclip
+[21:34:56] Lugii: !noclip
+[21:37:28] Lugii: ulx showMotd
+[21:37:54] Lugii: !motd
+[21:37:58] Lugii: !motd
+[21:38:06] Lugii: !motd
+[21:41:59] Lugii: p
+[21:42:34] Lugii: !noclip
+[21:42:39] Lugii: !noclip
+[21:42:52] Lugii: _restartserver
+[21:42:57] Server is shutting down/changing levels.
+
+
+
+[21:45:36] New map: rp_downtown_tits_v2
+[21:46:02] Client "Lugii" connected.
+[21:46:03] Client "Katt <3" connected.
+[21:46:03] Client "" spawned in server <BOT> (took 117 seconds).
+[21:46:03] Client "Bloo Me" connected.
+[21:46:03] Client "" spawned in server <BOT> (took 117 seconds).
+[21:46:03] Client "◼" connected.
+[21:46:03] Client "" spawned in server <BOT> (took 117 seconds).
+[21:46:03] Client "Sweetex" connected.
+[21:46:03] Client "" spawned in server <BOT> (took 117 seconds).
+[21:46:03] Client "Mandingo Party" connected.
+[21:46:03] Client "" spawned in server <BOT> (took 117 seconds).
+[21:46:04] ~Katt~ <3<BOT> changed their name to Katt <3
+[21:47:14] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 72 seconds).
+[21:47:14] Dropped "Katt <3" from server<BOT>
+[21:47:36] Lugii: !noclip
+[21:47:41] Lugii: !noclip
+[21:47:53] Lugii: !noclip
+[21:47:55] Lugii: !noclip
+[21:48:03] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:48:09] Lugii<STEAM_0:1:552352244> spawned sent ztm_recycled_block
+[21:54:13] Lugii: !noclip
+[21:54:15] Lugii: !noclip
+[21:54:16] Lugii: !noclip
+[21:54:18] Lugii: !noclip
+[22:03:28] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[22:03:28] Client "Mrs. Cup Cake" connected.
+[22:03:28] Client "" spawned in server <BOT> (took 1162 seconds).
+[22:03:28] Dropped "Mrs. Cup Cake" from server<BOT>
+[22:03:28] Client "Scootalo" connected.
+[22:03:28] Client "" spawned in server <BOT> (took 1162 seconds).
+[22:03:28] Dropped "Bloo Me" from server<BOT>
+[22:03:28] Client "┌∩┐(◣_◢)┌∩┐" connected.
+[22:03:28] Client "" spawned in server <BOT> (took 1162 seconds).
+[22:03:28] Dropped "◼" from server<BOT>
+[22:03:28] Client "Pr0" connected.
+[22:03:28] Client "" spawned in server <BOT> (took 1162 seconds).
+[22:03:28] Dropped "Sweetex" from server<BOT>
+[22:03:28] Client "dudette" connected.
+[22:03:28] Client "" spawned in server <BOT> (took 1162 seconds).
+[22:03:28] Dropped "Mandingo Party" from server<BOT>
+[22:03:28] Client "Tiny Tim" connected.
+[22:03:28] Client "" spawned in server <BOT> (took 1162 seconds).
+<Logging continued in "data/ulx_logs/05-05-23.txt">

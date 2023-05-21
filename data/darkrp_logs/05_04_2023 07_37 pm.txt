@@ -1,0 +1,56 @@
+Thu May  4 19:37:25 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Thu May  4 19:37:25 2023	Lugii (STEAM_0:1:552352244) spawned
+Thu May  4 19:40:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:40:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:40:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:40:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:40:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:40:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:41:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:41:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:46:51 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:46:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:49:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:49:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:49:07 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:55:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 19:57:21 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:02:44 2023	Lugii (STEAM_0:1:552352244): !dc
+Thu May  4 20:02:50 2023	Lugii (STEAM_0:1:552352244): !dc1
+Thu May  4 20:02:54 2023	Lugii (STEAM_0:1:552352244): !config
+Thu May  4 20:03:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:03:18 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:03:20 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:06:55 2023	Lugii (STEAM_0:1:552352244): !goto MrMillerUK
+Thu May  4 20:06:56 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:06:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:07:40 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Thu May  4 20:07:40 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Thu May  4 20:11:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:12:08 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:12:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:12:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:12:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:12:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:13:08 2023	Mox (STEAM_0:1:56497083) has joined the game
+Thu May  4 20:13:08 2023	Mox (STEAM_0:1:56497083) spawned
+Thu May  4 20:16:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:16:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:17:41 2023	Lugii (STEAM_0:1:552352244): 
+Thu May  4 20:17:48 2023	Console set Mox's money to $1,000,000
+Thu May  4 20:18:13 2023	Lugii (STEAM_0:1:552352244) set Mox's money to $1,500
+Thu May  4 20:18:14 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:18:23 2023	Lugii (STEAM_0:1:552352244): !cloak Lugii
+Thu May  4 20:18:30 2023	Lugii (STEAM_0:1:552352244): !goto Mox
+Thu May  4 20:19:12 2023	Lugii (STEAM_0:1:552352244): 
+Thu May  4 20:19:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:19:50 2023	Lugii (STEAM_0:1:552352244): !menu
+Thu May  4 20:20:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:21:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:22:43 2023	Lugii (STEAM_0:1:552352244): 
+Thu May  4 20:23:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:23:54 2023	Lugii (STEAM_0:1:552352244): !noclip
+Thu May  4 20:26:07 2023	Lugii (STEAM_0:1:552352244): !menu
+Thu May  4 20:26:18 2023	Mox (STEAM_0:1:56497083): [DarkRP] Wrong Rank![DarkRP] Wrong Rank!
+Thu May  4 20:26:28 2023	Lugii (STEAM_0:1:552352244): !menu
+Thu May  4 20:30:41 2023	Lugii (STEAM_0:1:552352244): !menu

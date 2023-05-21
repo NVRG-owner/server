@@ -1,0 +1,69 @@
+Mon May  1 13:33:35 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Mon May  1 13:33:36 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 13:35:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:03:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:03:14 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:03:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:03:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:03:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:04:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:04:27 2023	Lugii (STEAM_0:1:552352244) spawned SENT aphone_npc
+Mon May  1 14:04:45 2023	Lugii was killed by Himself with a suicide trick
+Mon May  1 14:05:06 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  1 14:05:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:05:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:05:30 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:05:58 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:06:12 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:06:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT bank_vault
+Mon May  1 14:06:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:07:25 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:08:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:09:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:10:00 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:10:10 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:10:40 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:11:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:11:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:12:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:12:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:12:40 2023	Lugii (STEAM_0:1:552352244): w
+Mon May  1 14:12:45 2023	Lugii (STEAM_0:1:552352244): !motd
+Mon May  1 14:18:06 2023	Lugii (STEAM_0:1:552352244): !addons
+Mon May  1 14:24:23 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab2_npc
+Mon May  1 14:24:36 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrush_fuelbuyer_npc
+Mon May  1 14:24:47 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrms_buyer
+Mon May  1 14:25:06 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_buyer_npc
+Mon May  1 14:25:16 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  1 14:25:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:25:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:26:07 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:26:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:26:45 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_buyermachine
+Mon May  1 14:27:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Mon May  1 14:27:08 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycler
+Mon May  1 14:27:25 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:27:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:27:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:28:18 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycler
+Mon May  1 14:30:49 2023	Lugii (STEAM_0:1:552352244): !config
+Mon May  1 14:30:51 2023	Lugii (STEAM_0:1:552352244): !dconfig
+Mon May  1 14:30:57 2023	Lugii (STEAM_0:1:552352244): !dconfig2
+Mon May  1 14:31:08 2023	Lugii (STEAM_0:1:552352244): FUCK
+Mon May  1 14:33:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:35:22 2023	Lugii (STEAM_0:1:552352244) spawned SENT jobcreator_npc
+Mon May  1 14:39:24 2023	Lugii (STEAM_0:1:552352244): hey
+Mon May  1 14:42:06 2023	Lugii (STEAM_0:1:552352244): 76561199064970217
+Mon May  1 14:48:55 2023	Lugii (STEAM_0:1:552352244): /developer
+Mon May  1 14:49:12 2023	Lugii (STEAM_0:1:552352244) spawned SENT jobcreator_conversion_npc
+Mon May  1 14:49:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT deathscreen_npc
+Mon May  1 14:55:39 2023	Lugii (STEAM_0:1:552352244): /developer
+Mon May  1 14:55:46 2023	Lugii (STEAM_0:1:552352244): developer
+Mon May  1 14:58:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 14:58:24 2023	Lugii (STEAM_0:1:552352244) spawned SENT deathscreen_npc
+Mon May  1 14:58:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 15:00:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 15:00:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  1 15:01:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT bank_npc
+Mon May  1 15:01:52 2023	Lugii (STEAM_0:1:552352244) spawned SENT xenin_coinflip_npc
+Mon May  1 15:01:53 2023	Lugii (STEAM_0:1:552352244) spawned SENT deathscreen_npc

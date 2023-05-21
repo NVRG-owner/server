@@ -1,0 +1,30 @@
+{
+	"filename": "Crazy Vulcan_877062324.txt",
+	"EffectSequence": [
+		[
+			22942.0,
+			0.0,
+			2.0
+		],
+		[
+			26112.0,
+			3.0,
+			2.0
+		],
+		[
+			90362.0,
+			3.25,
+			2.0
+		],
+		[
+			76461.0,
+			6.25,
+			2.0
+		]
+	],
+	"CreatedBy": "Zerochain",
+	"modelID": 1.0,
+	"m_animspeed": 1.0,
+	"name": "Crazy Vulcan",
+	"Date": "18:58:00 - 16/10/2018"
+}

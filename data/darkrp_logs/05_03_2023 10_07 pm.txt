@@ -1,0 +1,35 @@
+Wed May  3 22:07:28 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Wed May  3 22:07:28 2023	Lugii (STEAM_0:1:552352244) spawned
+Wed May  3 22:08:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:08:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:10:40 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:10:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:10:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:10:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:11:54 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:12:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:14:26 2023	Lugii (STEAM_0:1:552352244) added $500,000 to Lugii's wallet
+Wed May  3 22:18:01 2023	Console added $500,000 to Lugii's wallet
+Wed May  3 22:18:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:18:08 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:18:10 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:18:11 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:18:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:18:13 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:22:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:22:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:22:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:22:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:22:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:22:41 2023	Console added $500,000 to Lugii's wallet
+Wed May  3 22:22:44 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 22:22:50 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 22:22:50 2023	Lugii (STEAM_0:1:552352244): 
+Wed May  3 22:23:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:23:27 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:23:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:23:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:23:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:23:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:23:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Wed May  3 22:46:42 2023	Lugii (STEAM_0:1:552352244): !warn

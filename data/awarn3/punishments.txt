@@ -1,0 +1,27 @@
+{
+	"2": {
+		"sMessage": "%s Got Kicked For Exeeding Warning Limit (2)",
+		"pType": "kick",
+		"warnings": 2.0,
+		"pMessage": "You Have Been Kicked Due To Warning Limit (2) Please Rejoin"
+	},
+	"3": {
+		"sMessage": "%s Got Kicked For Exeeding Warning Limit (3)",
+		"pType": "kick",
+		"warnings": 3.0,
+		"pMessage": "You Have Been Kicked Due To Warning Limit (3) Please Rejoin"
+	},
+	"4": {
+		"sMessage": "%s Got Kickd For Exeeding Warning Limit (4)",
+		"pType": "kick",
+		"warnings": 4.0,
+		"pMessage": "You Have Been Kicked Due To Exeeding Warning Limit (3) Please Rejoin And Stay With The Rules Next Warn Is A Ban"
+	},
+	"5": {
+		"warnings": 5.0,
+		"pLength": 7200.0,
+		"sMessage": "%s Has Been Banned For Exeeding Warning Limit They May Rejoin In 5 Days",
+		"pType": "ban",
+		"pMessage": "You Have Been Banned For Exeeding Warning Limit You May Rejoin In 5 Days"
+	}
+}

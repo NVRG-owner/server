@@ -1,0 +1,179 @@
+Mon May  8 18:55:24 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Mon May  8 18:55:25 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 18:57:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:57:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:57:39 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:57:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:57:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:58:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:58:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:58:03 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 18:58:46 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Mon May  8 18:58:55 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_computer_black
+Mon May  8 18:59:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Mon May  8 18:59:18 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Mon May  8 18:59:29 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Mon May  8 19:00:09 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_laser_2
+Mon May  8 19:00:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:00:31 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:00:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:00:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:00:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:00:41 2023	Lugii (STEAM_0:1:552352244): Ok
+Mon May  8 19:00:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:00:53 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Mon May  8 19:01:39 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_siren
+Mon May  8 19:02:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:02:37 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:02:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:02:54 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:03:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:03:46 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:03:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm
+Mon May  8 19:09:32 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_atm_credit_card
+Mon May  8 19:10:43 2023	Lugii (STEAM_0:1:552352244) spawned SENT zrms_mineentrance_base
+Mon May  8 19:11:41 2023	Lugii (STEAM_0:1:552352244): /dropmoney 881
+Mon May  8 19:11:42 2023	Lugii (STEAM_0:1:552352244) has dropped $881
+Mon May  8 19:20:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:20:25 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:18 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:21:47 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:21:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:21:49 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:21:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:22:10 2023	Lugii (STEAM_0:1:552352244): k
+Mon May  8 19:22:15 2023	Lugii (STEAM_0:1:552352244): ok
+Mon May  8 19:22:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:22:40 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:22:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:22:47 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:22:56 2023	Lugii (STEAM_0:1:552352244): :>
+Mon May  8 19:28:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:28:05 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:28:12 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:28:13 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:28:13 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:28:18 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:28:44 2023	Lugii (STEAM_0:1:552352244) spawned SENT zwf_jar
+Mon May  8 19:29:49 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:30:25 2023	Lugii (STEAM_0:1:552352244): 
+Mon May  8 19:30:28 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:30:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:30:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:30:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:31:09 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:31:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:31:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:31:57 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:32:39 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Mon May  8 19:32:39 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon May  8 19:33:00 2023	Lugii was killed by Himself with a suicide trick
+Mon May  8 19:33:03 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 19:33:29 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon May  8 19:33:29 2023	Lugii (STEAM_0:1:552352244) arrested OWNER
+Mon May  8 19:33:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:33:34 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Mon May  8 19:33:37 2023	Lugii (STEAM_0:1:552352244) unarrested OWNER
+Mon May  8 19:33:38 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:33:42 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Mon May  8 19:34:36 2023	OWNER was killed by Lugii with a weapon_bm_ams
+Mon May  8 19:34:59 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:35:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:35:52 2023	Lugii was killed by Himself with a suicide trick
+Mon May  8 19:35:55 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 19:38:27 2023	Lugii was killed by Himself with a suicide trick
+Mon May  8 19:38:30 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 19:39:06 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:39:06 2023	Lugii was killed by Himself with a suicide trick
+Mon May  8 19:39:10 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 19:39:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:39:33 2023	Lugii was killed by Himself with a suicide trick
+Mon May  8 19:39:36 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 19:39:45 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:40:15 2023	Lugii was killed by Himself with a suicide trick
+Mon May  8 19:40:18 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 19:50:20 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon May  8 19:50:25 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:50:46 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:50:56 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Mon May  8 19:51:16 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_siren
+Mon May  8 19:51:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_motion_sensor
+Mon May  8 19:52:11 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_server
+Mon May  8 19:52:20 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_white
+Mon May  8 19:52:21 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_computer_white
+Mon May  8 19:53:00 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:53:04 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_black
+Mon May  8 19:53:04 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:53:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Mon May  8 19:53:18 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_server
+Mon May  8 19:53:39 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 19:55:23 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 19:55:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 20:05:55 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Mon May  8 20:05:55 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon May  8 20:06:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 20:07:10 2023	Lugii (STEAM_0:1:552352244): !freeze OWNER
+Mon May  8 20:07:17 2023	Lugii (STEAM_0:1:552352244): !unfreeze OWNER
+Mon May  8 20:07:19 2023	OWNER (STEAM_0:1:634690584): !unfreeze o
+Mon May  8 20:08:25 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_white
+Mon May  8 20:08:27 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_black
+Mon May  8 20:08:29 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor
+Mon May  8 20:08:31 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_fire_sensor
+Mon May  8 20:08:32 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_hack
+Mon May  8 20:08:40 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 20:08:53 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_server
+Mon May  8 20:09:01 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 20:10:36 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Mon May  8 20:11:00 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_siren
+Mon May  8 20:11:12 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_hack
+Mon May  8 20:11:15 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_hack
+Mon May  8 20:12:12 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Mon May  8 20:12:12 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 20:15:01 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_white
+Mon May  8 20:15:04 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_black
+Mon May  8 20:15:06 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 20:23:25 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Mon May  8 20:23:25 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon May  8 20:24:25 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 20:24:50 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Mon May  8 20:24:51 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon May  8 20:24:51 2023	Lugii (STEAM_0:1:552352244) arrested OWNER
+Mon May  8 20:24:57 2023	OWNER (STEAM_0:1:634690584): /unarrest
+Mon May  8 20:25:00 2023	Lugii (STEAM_0:1:552352244): /unarrest OWNER
+Mon May  8 20:25:00 2023	Lugii (STEAM_0:1:552352244) force-unarrested tronix22
+Mon May  8 20:25:02 2023	OWNER (STEAM_0:1:634690584): /unaresst
+Mon May  8 20:25:04 2023	Lugii (STEAM_0:1:552352244): !bring OWNER
+Mon May  8 20:25:15 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 20:25:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 20:25:19 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_white
+Mon May  8 20:25:23 2023	Lugii (STEAM_0:1:552352244): /arrest Lugii
+Mon May  8 20:25:23 2023	Lugii (STEAM_0:1:552352244) spawned
+Mon May  8 20:25:23 2023	Lugii (STEAM_0:1:552352244) force-arrested Lugii
+Mon May  8 20:25:25 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_computer_black
+Mon May  8 20:25:28 2023	Lugii (STEAM_0:1:552352244): /unarrest Lugii
+Mon May  8 20:25:28 2023	Lugii (STEAM_0:1:552352244) force-unarrested Lugii
+Mon May  8 20:25:29 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_server
+Mon May  8 20:25:33 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Mon May  8 20:25:38 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_server
+Mon May  8 20:25:44 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Mon May  8 20:25:58 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 20:26:10 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_server
+Mon May  8 20:26:14 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 20:26:36 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_terminal
+Mon May  8 20:27:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Mon May  8 20:27:51 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Mon May  8 20:28:26 2023	OWNER (STEAM_0:1:634690584): 1981
+Mon May  8 20:28:30 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_siren
+Mon May  8 20:28:45 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_computer_black
+Mon May  8 20:28:52 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Mon May  8 20:28:55 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_door_sensor
+Mon May  8 20:29:03 2023	OWNER (STEAM_0:1:634690584) spawned SENT alarm_motion_sensor
+Mon May  8 20:29:07 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_laser_2
+Mon May  8 20:29:19 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_laser_rec

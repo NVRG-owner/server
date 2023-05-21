@@ -1,0 +1,50 @@
+Sat Apr 22 22:31:47 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sat Apr 22 22:31:47 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sat Apr 22 22:32:04 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sat Apr 22 22:32:04 2023	Lugii (STEAM_0:1:552352244) spawned
+Sat Apr 22 22:32:23 2023	Lugii (STEAM_0:1:552352244): !menu
+Sat Apr 22 22:32:28 2023	MrMillerUK (STEAM_0:1:525475507): 
+Sat Apr 22 22:34:56 2023	Lugii (STEAM_0:1:552352244): !warns
+Sat Apr 22 22:35:12 2023	Lugii (STEAM_0:1:552352244): !warns
+Sat Apr 22 22:35:27 2023	MrMillerUK (STEAM_0:1:525475507): !warns
+Sat Apr 22 22:35:36 2023	MrMillerUK (STEAM_0:1:525475507) disconnected
+Sat Apr 22 22:35:48 2023	Lugii (STEAM_0:1:552352244): !warns
+Sat Apr 22 22:37:09 2023	Lugii (STEAM_0:1:552352244): !kick MrMillerUK Internet Error
+Sat Apr 22 22:37:15 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sat Apr 22 22:37:15 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sat Apr 22 22:37:59 2023	Lugii (STEAM_0:1:552352244): !restart
+Sat Apr 22 22:38:04 2023	Lugii (STEAM_0:1:552352244): !menu
+Sat Apr 22 22:38:51 2023	MrMillerUK (STEAM_0:1:525475507): !warns
+Sat Apr 22 22:38:59 2023	Lugii (STEAM_0:1:552352244): /drop
+Sat Apr 22 22:39:10 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sat Apr 22 22:39:10 2023	tronix22 (STEAM_0:1:634690584) spawned
+Sat Apr 22 22:39:12 2023	Lugii was killed by MrMillerUK with a weapon_gblaster_asriel_rainbow
+Sat Apr 22 22:39:15 2023	Lugii (STEAM_0:1:552352244) spawned
+Sat Apr 22 22:39:16 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sat Apr 22 22:39:32 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sat Apr 22 22:39:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sat Apr 22 22:39:45 2023	Lugii (STEAM_0:1:552352244): !strip MrMillerUK
+Sat Apr 22 22:39:58 2023	Lugii (STEAM_0:1:552352244): !warn MrMillerUK RDM
+Sat Apr 22 22:40:00 2023	tronix22 (STEAM_0:1:634690584): !menu
+Sat Apr 22 22:40:11 2023	tronix22 (STEAM_0:1:634690584): !warn
+Sat Apr 22 22:40:12 2023	Lugii (STEAM_0:1:552352244): !return
+Sat Apr 22 22:40:14 2023	MrMillerUK (STEAM_0:1:525475507): !warns
+Sat Apr 22 22:40:26 2023	Lugii (STEAM_0:1:552352244): !bring MrMillerUK
+Sat Apr 22 22:40:30 2023	Lugii (STEAM_0:1:552352244): !return MrMillerUK
+Sat Apr 22 22:40:39 2023	tronix22 (STEAM_0:1:634690584): 
+Sat Apr 22 22:40:41 2023	tronix22 (STEAM_0:1:634690584): yh
+Sat Apr 22 22:40:47 2023	tronix22 (STEAM_0:1:634690584): !noclip
+Sat Apr 22 22:40:52 2023	tronix22 (STEAM_0:1:634690584): i di
+Sat Apr 22 22:40:59 2023	tronix22 (STEAM_0:1:634690584): i idd
+Sat Apr 22 22:41:01 2023	tronix22 (STEAM_0:1:634690584): did
+Sat Apr 22 22:41:04 2023	tronix22 (STEAM_0:1:634690584): !warn
+Sat Apr 22 22:41:12 2023	Lugii (STEAM_0:1:552352244): !warns
+Sat Apr 22 22:41:25 2023	tronix22 (STEAM_0:1:634690584): !warns
+Sat Apr 22 22:41:49 2023	Lugii (STEAM_0:1:552352244): !bring MrMillerUK
+Sat Apr 22 22:41:55 2023	Lugii (STEAM_0:1:552352244): !return MrMillerUK
+Sat Apr 22 22:42:08 2023	MrMillerUK was killed by Entity [0][worldspawn] with a unknown
+Sat Apr 22 22:42:08 2023	tronix22 (STEAM_0:1:634690584): /superstaff
+Sat Apr 22 22:42:11 2023	MrMillerUK (STEAM_0:1:525475507) spawned
+Sat Apr 22 22:42:13 2023	tronix22 (STEAM_0:1:634690584): /staff
+Sat Apr 22 22:42:22 2023	Lugii (STEAM_0:1:552352244): !bring MrMillerUK
+Sat Apr 22 22:42:24 2023	tronix22 (STEAM_0:1:634690584): oh we need to restart to make changes

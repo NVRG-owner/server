@@ -1,0 +1,181 @@
+Sun Apr 23 19:17:18 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 23 19:17:18 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:17:58 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Sun Apr 23 19:17:58 2023	OWNER (STEAM_0:1:634690584) spawned
+Sun Apr 23 19:18:04 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 19:18:06 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 19:18:34 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 19:18:35 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 19:18:40 2023	Lugii (STEAM_0:1:552352244): !menu
+Sun Apr 23 19:19:07 2023	OWNER (STEAM_0:1:634690584): !ticket gay
+Sun Apr 23 19:19:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 19:19:24 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 23 19:19:37 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_shelf
+Sun Apr 23 19:19:41 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_power_rtg
+Sun Apr 23 19:19:44 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:19:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_rgb
+Sun Apr 23 19:20:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_cooling3
+Sun Apr 23 19:20:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_cooling3
+Sun Apr 23 19:20:13 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_rgb
+Sun Apr 23 19:20:22 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:20:23 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:20:24 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:20:30 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:31 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:31 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:32 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:32 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:33 2023	OWNER (STEAM_0:1:634690584): !goto l
+Sun Apr 23 19:20:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:34 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:34 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:35 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:35 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:36 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:36 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:37 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:37 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:20:55 2023	OWNER (STEAM_0:1:634690584): bitcpin miner still not working
+Sun Apr 23 19:20:58 2023	Hitman OWNER accepted a hit on Lugii, ordered by Lugii for $200
+Sun Apr 23 19:21:03 2023	Hit on Lugii failed. Reason: The hitman died!
+Sun Apr 23 19:21:03 2023	OWNER was killed by Lugii with a weapon_gblaster_asriel_rainbow
+Sun Apr 23 19:21:05 2023	OWNER (STEAM_0:1:634690584) spawned
+Sun Apr 23 19:21:06 2023	Lugii (STEAM_0:1:552352244): 
+Sun Apr 23 19:21:13 2023	OWNER (STEAM_0:1:634690584): !goto l
+Sun Apr 23 19:21:16 2023	OWNER (STEAM_0:1:634690584): !got t
+Sun Apr 23 19:21:19 2023	OWNER (STEAM_0:1:634690584): !god t
+Sun Apr 23 19:21:37 2023	OWNER (STEAM_0:1:634690584): !god tron
+Sun Apr 23 19:21:43 2023	Lugii (STEAM_0:1:552352244): !god Lugii
+Sun Apr 23 19:21:44 2023	OWNER (STEAM_0:1:634690584): !menu
+Sun Apr 23 19:21:49 2023	OWNER (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:21:55 2023	OWNER (STEAM_0:1:634690584): oh ye
+Sun Apr 23 19:21:58 2023	OWNER (STEAM_0:1:634690584): !menu
+Sun Apr 23 19:22:05 2023	Lugii (STEAM_0:1:552352244): !god OWNER
+Sun Apr 23 19:22:41 2023	OWNER (STEAM_0:1:634690584): !cloak o
+Sun Apr 23 19:23:06 2023	OWNER (STEAM_0:1:634690584): soz
+Sun Apr 23 19:23:08 2023	Lugii (STEAM_0:1:552352244): !xban
+Sun Apr 23 19:23:11 2023	OWNER (STEAM_0:1:634690584): bro
+Sun Apr 23 19:23:13 2023	OWNER (STEAM_0:1:634690584): stop
+Sun Apr 23 19:23:15 2023	OWNER (STEAM_0:1:634690584): imma ban u then
+Sun Apr 23 19:23:21 2023	OWNER (STEAM_0:1:634690584): i was helping u
+Sun Apr 23 19:23:26 2023	OWNER (STEAM_0:1:634690584): oh ok
+Sun Apr 23 19:23:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_solarconverter
+Sun Apr 23 19:23:38 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_extra_fuel_line
+Sun Apr 23 19:23:39 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_extra_fuel_tank
+Sun Apr 23 19:23:41 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_large_fuel
+Sun Apr 23 19:23:49 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_shelf
+Sun Apr 23 19:23:53 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_cooling2
+Sun Apr 23 19:23:55 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_cooling3
+Sun Apr 23 19:23:58 2023	OWNER (STEAM_0:1:634690584): nah sox
+Sun Apr 23 19:24:01 2023	OWNER (STEAM_0:1:634690584): soz
+Sun Apr 23 19:24:06 2023	Lugii (STEAM_0:1:552352244): !uncloak OWNER
+Sun Apr 23 19:24:19 2023	OWNER (STEAM_0:1:634690584) set tronix22's money to $0
+Sun Apr 23 19:24:22 2023	OWNER (STEAM_0:1:634690584): nah soz
+Sun Apr 23 19:24:27 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:27 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:29 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:29 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:24:38 2023	OWNER (STEAM_0:1:634690584): thamks
+Sun Apr 23 19:25:06 2023	OWNER (STEAM_0:1:634690584): how money gun?
+Sun Apr 23 19:25:09 2023	OWNER (STEAM_0:1:634690584): why
+Sun Apr 23 19:26:24 2023	OWNER (STEAM_0:1:634690584): why
+Sun Apr 23 19:26:32 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:26:33 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:26:33 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:26:33 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:26:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_ups
+Sun Apr 23 19:26:52 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_rtg
+Sun Apr 23 19:26:53 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_rtg
+Sun Apr 23 19:26:54 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_rtg
+Sun Apr 23 19:26:54 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_rtg
+Sun Apr 23 19:27:45 2023	Lugii was killed by Himself with a suicide trick
+Sun Apr 23 19:27:47 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 23 19:27:51 2023	Lugii (STEAM_0:1:552352244): !goto OWNER
+Sun Apr 23 19:28:05 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_combiner
+Sun Apr 23 19:28:39 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:28:40 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:28:41 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:28:42 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:28:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:29:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:29:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:29:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:29:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:29:34 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:29:35 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:29:35 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_miner
+Sun Apr 23 19:30:30 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_upgrade_rgb
+Sun Apr 23 19:31:23 2023	OWNER (STEAM_0:1:634690584): !nocli
+Sun Apr 23 19:31:27 2023	OWNER (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:31:37 2023	OWNER (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_shelf
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable_end
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable_end
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_combiner
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable_end
+Sun Apr 23 19:31:43 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_power_cable
+Sun Apr 23 19:32:18 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_bitcoin_screen
+Sun Apr 23 19:33:08 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_bitcoin_screen
+Sun Apr 23 19:33:44 2023	OWNER (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:33:58 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_bitcoin_screen
+Sun Apr 23 19:34:11 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_bitcoin_screen
+Sun Apr 23 19:34:46 2023	OWNER (STEAM_0:1:634690584): overheated
+Sun Apr 23 19:34:52 2023	OWNER (STEAM_0:1:634690584): it can
+Sun Apr 23 19:34:58 2023	OWNER (STEAM_0:1:634690584): look
+Sun Apr 23 19:35:47 2023	OWNER (STEAM_0:1:634690584): for u
+Sun Apr 23 19:35:53 2023	OWNER (STEAM_0:1:634690584): k
+Sun Apr 23 19:36:55 2023	OWNER (STEAM_0:1:634690584): ok
+Sun Apr 23 19:36:57 2023	OWNER (STEAM_0:1:634690584): cya
+Sun Apr 23 19:37:02 2023	Lugii (STEAM_0:1:552352244) spawned SENT srp5_printer_special
+Sun Apr 23 19:37:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT srp_battery
+Sun Apr 23 19:37:04 2023	OWNER (STEAM_0:1:634690584): ok cya
+Sun Apr 23 19:37:16 2023	OWNER (STEAM_0:1:634690584): ok
+Sun Apr 23 19:37:18 2023	OWNER (STEAM_0:1:634690584): ok
+Sun Apr 23 19:37:27 2023	OWNER (STEAM_0:1:634690584): ok
+Sun Apr 23 19:37:32 2023	OWNER (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:39:44 2023	OWNER (STEAM_0:1:634690584): /addlaw hi
+Sun Apr 23 19:39:59 2023	OWNER (STEAM_0:1:634690584): /addlaw fuck me pls
+Sun Apr 23 19:40:12 2023	OWNER (STEAM_0:1:634690584): /laws
+Sun Apr 23 19:40:15 2023	OWNER (STEAM_0:1:634690584): /laws
+Sun Apr 23 19:40:20 2023	OWNER (STEAM_0:1:634690584): 
+Sun Apr 23 19:40:32 2023	OWNER (STEAM_0:1:634690584): !tickets
+Sun Apr 23 19:40:36 2023	OWNER (STEAM_0:1:634690584): 
+Sun Apr 23 19:42:54 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_sentity
+Sun Apr 23 19:43:00 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_nanodronemarkiii
+Sun Apr 23 19:43:36 2023	OWNER (STEAM_0:1:634690584): !
+Sun Apr 23 19:43:43 2023	OWNER (STEAM_0:1:634690584): !unfreeze o
+Sun Apr 23 19:43:51 2023	OWNER (STEAM_0:1:634690584): !noclip
+Sun Apr 23 19:44:04 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_spy
+Sun Apr 23 19:44:10 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_nanodronemarkiii
+Sun Apr 23 19:45:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_nanodronemarkiii
+Sun Apr 23 19:45:26 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_nanodronemarkiii
+Sun Apr 23 19:45:36 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_nanodronemarkiii
+Sun Apr 23 19:46:05 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_imbaflamethrower
+Sun Apr 23 19:46:11 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_imbamissile
+Sun Apr 23 19:46:14 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_imbalaser
+Sun Apr 23 19:46:18 2023	OWNER (STEAM_0:1:634690584) spawned SENT refuelstation_diesel
+Sun Apr 23 19:47:02 2023	OWNER was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 23 19:47:03 2023	OWNER (STEAM_0:1:634690584) spawned
+Sun Apr 23 19:47:21 2023	OWNER (STEAM_0:1:634690584) spawned SENT pedrp_flyingdrone
+Sun Apr 23 19:47:36 2023	OWNER (STEAM_0:1:634690584) spawned SENT pedrp_predatordrone
+Sun Apr 23 19:47:39 2023	OWNER (STEAM_0:1:634690584) spawned SENT pedrp_rcheliassaultdrone
+Sun Apr 23 19:47:53 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_drrwalker
+Sun Apr 23 19:49:09 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_walkart
+Sun Apr 23 19:49:36 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_submarine
+Sun Apr 23 19:49:45 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_supply
+Sun Apr 23 19:49:52 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_stormtrooper
+Sun Apr 23 19:49:59 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_plotdr
+Sun Apr 23 20:14:15 2023	OWNER (STEAM_0:1:634690584): !bring l
+Sun Apr 23 20:14:20 2023	OWNER (STEAM_0:1:634690584): !return l
+Sun Apr 23 20:14:28 2023	OWNER (STEAM_0:1:634690584): 
+Sun Apr 23 20:14:33 2023	OWNER (STEAM_0:1:634690584) disconnected
+Sun Apr 23 20:28:58 2023	Lugii (STEAM_0:1:552352244) disconnected

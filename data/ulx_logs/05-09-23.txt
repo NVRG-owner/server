@@ -1,0 +1,181 @@
+<Logging continued from "data/ulx_logs/05-08-23.txt">
+[02:02:19] Server is shutting down/changing levels.
+
+
+
+[13:25:23] New map: rp_downtown_tits_v2
+[13:28:39] Server is shutting down/changing levels.
+
+
+
+[13:41:18] New map: rp_downtown_tits_v2
+[13:41:35] Client "Lugii" connected.
+[13:41:36] Client "C4k3" connected.
+[13:41:36] Client "" spawned in server <BOT> (took 129 seconds).
+[13:41:36] Client "Foxxi ♥" connected.
+[13:41:36] Client "" spawned in server <BOT> (took 129 seconds).
+[13:41:36] Client "Trigger" connected.
+[13:41:36] Client "" spawned in server <BOT> (took 129 seconds).
+[13:41:36] Client "Sweetex" connected.
+[13:41:36] Client "" spawned in server <BOT> (took 129 seconds).
+[13:41:36] Client "Swexy" connected.
+[13:41:36] Client "" spawned in server <BOT> (took 129 seconds).
+[13:43:06] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 91 seconds).
+[13:43:07] Dropped "C4k3" from server<BOT>
+[13:43:41] Lugii: !madmin
+[13:43:45] Lugii: !mtoken
+[13:43:50] Lugii: !mstore
+[13:45:39] Lugii: !noclip
+[13:45:40] Lugii: !noclip
+[13:45:41] Lugii: !noclip
+[13:45:42] Lugii: !noclip
+[13:45:43] Lugii: !noclip
+[13:45:44] Lugii: !noclip
+[13:46:16] Server is shutting down/changing levels.
+
+
+
+[13:49:06] New map: rp_downtown_tits_v2
+[13:49:28] Client "Lugii" connected.
+[13:49:29] Client "Derpy Hooves" connected.
+[13:49:29] Client "" spawned in server <BOT> (took 128 seconds).
+[13:49:29] Client "Rainbow Dash" connected.
+[13:49:29] Client "" spawned in server <BOT> (took 128 seconds).
+[13:49:29] Client "Woody" connected.
+[13:49:29] Client "" spawned in server <BOT> (took 128 seconds).
+[13:49:29] Client "Fluffy" connected.
+[13:49:29] Client "" spawned in server <BOT> (took 128 seconds).
+[13:49:29] Client "Buttercup" connected.
+[13:49:29] Client "" spawned in server <BOT> (took 128 seconds).
+[13:50:54] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 86 seconds).
+[13:50:55] Dropped "Derpy Hooves" from server<BOT>
+[13:51:24] Lugii: !mstore
+[13:51:28] Lugii: !madmin
+[13:51:30] Lugii: !noclip
+[13:52:00] Lugii: !noclip
+[13:52:00] Lugii: !noclip
+[13:52:02] Lugii: !noclip
+[13:52:02] Lugii: !noclip
+[13:52:03] Lugii: !noclip
+[13:52:04] Lugii: !noclip
+[13:52:05] Lugii: !noclip
+[13:52:06] Lugii: !noclip
+[13:52:08] Lugii: !noclip
+[13:52:09] Lugii: !noclip
+[13:52:10] Lugii: !noclip
+[13:52:23] Lugii: !noclip
+[13:52:24] Lugii: !noclip
+[13:52:33] Dropped "Lugii" from server<STEAM_0:1:552352244>
+[13:52:33] Client "ρanda♥" connected.
+[13:52:33] Client "" spawned in server <BOT> (took 312 seconds).
+[13:52:33] Dropped "ρanda♥" from server<BOT>
+[13:52:33] Client "Fee" connected.
+[13:52:33] Client "" spawned in server <BOT> (took 312 seconds).
+[13:52:33] Dropped "Rainbow Dash" from server<BOT>
+[13:52:33] Client "Meta" connected.
+[13:52:33] Client "" spawned in server <BOT> (took 312 seconds).
+[13:52:33] Dropped "Woody" from server<BOT>
+[13:52:33] Client "Broomhilda von Shaft" connected.
+[13:52:33] Client "" spawned in server <BOT> (took 312 seconds).
+[13:52:33] Dropped "Fluffy" from server<BOT>
+[13:52:33] Client "Xira" connected.
+[13:52:33] Client "" spawned in server <BOT> (took 312 seconds).
+[13:52:34] Dropped "Buttercup" from server<BOT>
+[13:52:34] Client "Mrs. Cup Cake" connected.
+[13:52:34] Client "" spawned in server <BOT> (took 313 seconds).
+[16:19:25] Client "Smažený sýr" connected.
+[16:19:40] Dropped "Fee" from server<BOT>
+[16:19:40] Client "Kitty" connected.
+[16:19:40] Client "" spawned in server <BOT> (took 9139 seconds).
+[16:19:40] Dropped "Meta" from server<BOT>
+[16:19:40] Client "Foxy" connected.
+[16:19:40] Client "" spawned in server <BOT> (took 9139 seconds).
+[16:19:40] Dropped "Broomhilda von Shaft" from server<BOT>
+[16:19:40] Client "Flesh Pound" connected.
+[16:19:40] Client "" spawned in server <BOT> (took 9139 seconds).
+[16:19:40] Dropped "Xira" from server<BOT>
+[16:19:40] Client "T-REX" connected.
+[16:19:40] Client "" spawned in server <BOT> (took 9139 seconds).
+[16:19:40] Dropped "Mrs. Cup Cake" from server<BOT>
+[16:19:40] Client "Donald Trump" connected.
+[16:19:40] Client "" spawned in server <BOT> (took 9139 seconds).
+[16:19:40] Dropped "Kitty" from server<BOT>
+[16:19:41] Client "Scooter" connected.
+[16:19:41] Client "" spawned in server <BOT> (took 9140 seconds).
+[16:39:29] Client "tronix22" connected.
+[16:45:21] Client "tronix22" spawned in server <STEAM_0:1:634690584> (took 352 seconds).
+[16:45:22] Dropped "Foxy" from server<BOT>
+[16:45:34] Client "LPKiller" connected.
+[16:47:55] OWNER<STEAM_0:1:634690584> spawned sent alarm_server
+[16:48:13] OWNER<STEAM_0:1:634690584> spawned sent alarm_terminal
+[16:49:04] OWNER<STEAM_0:1:634690584> spawned sent alarm_laser_2
+[16:49:08] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[16:51:06] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[16:51:13] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[16:52:45] OWNER<STEAM_0:1:634690584> spawned sent alarm_computer_white
+[16:53:29] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor
+[16:54:28] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor
+[16:54:31] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor_2
+[16:55:03] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor_2
+[16:55:32] OWNER<STEAM_0:1:634690584> spawned sent alarm_door_sensor_2
+[16:58:31] OWNER<STEAM_0:1:634690584> spawned sent alarm_siren
+[17:00:30] OWNER ignited Themself for 300 seconds
+[17:00:30] OWNER: !ignite ow
+[17:00:48] OWNER was killed by entityflame
+[17:01:13] OWNER<STEAM_0:1:634690584> spawned sent alarm_laser_2
+[17:01:19] OWNER<STEAM_0:1:634690584> spawned sent alarm_motion_sensor
+[17:01:40] OWNER<STEAM_0:1:634690584> spawned sent alarm_hack
+[17:04:08] OWNER<STEAM_0:1:634690584> spawned sent bank_vault
+[17:04:24] OWNER<STEAM_0:1:634690584> spawned sent zrms_mineentrance_base
+[17:04:33] OWNER<STEAM_0:1:634690584> spawned sent zrms_refiner_bronze
+[17:04:39] OWNER<STEAM_0:1:634690584> spawned sent zrms_storagecrate
+[17:04:52] Dropped "OWNER" from server<STEAM_0:1:634690584>
+[17:04:52] Client "Cookie" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:04:52] Dropped "Cookie" from server<BOT>
+[17:04:52] Client "Atomic Boom!" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:04:52] Dropped "Flesh Pound" from server<BOT>
+[17:04:52] Client "Trina" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:04:52] Dropped "T-REX" from server<BOT>
+[17:04:52] Client "Defcon" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:04:52] Dropped "Donald Trump" from server<BOT>
+[17:04:52] Client "Rarity" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:04:52] Dropped "Scooter" from server<BOT>
+[17:04:52] Client "Pixies" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:04:52] Dropped "Atomic Boom!" from server<BOT>
+[17:04:52] Client "Pinky Pie" connected.
+[17:04:52] Client "" spawned in server <BOT> (took 11851 seconds).
+[17:07:15] Client "Mox" connected.
+[17:12:05] Client "Mox" spawned in server <STEAM_0:1:56497083> (took 290 seconds).
+[17:12:05] Dropped "Trina" from server<BOT>
+[17:16:36] Mox: /admin
+[17:16:48] Mox: /menu
+[17:16:50] Mox: !menu
+[17:35:18] Mox: this server fucking sucks
+[17:35:21] Dropped "Mox" from server<STEAM_0:1:56497083>
+[17:35:21] Client "(1)Mox" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+[17:35:21] Dropped "(1)Mox" from server<BOT>
+[17:35:21] Client "Broomhilda von Shaft" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+[17:35:21] Dropped "Defcon" from server<BOT>
+[17:35:21] Client "Scooter" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+[17:35:21] Dropped "Rarity" from server<BOT>
+[17:35:21] Client "◼" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+[17:35:21] Dropped "Pixies" from server<BOT>
+[17:35:21] Client "Rayman" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+[17:35:21] Dropped "Pinky Pie" from server<BOT>
+[17:35:21] Client "TANK" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+[17:35:21] Dropped "Broomhilda von Shaft" from server<BOT>
+[17:35:21] Client "Fairy Liquid" connected.
+[17:35:21] Client "" spawned in server <BOT> (took 13680 seconds).
+<Logging continued in "data/ulx_logs/05-10-23.txt">

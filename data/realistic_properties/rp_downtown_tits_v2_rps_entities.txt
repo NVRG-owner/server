@@ -1,0 +1,8 @@
+[
+	{
+		"TableEnt": [],
+		"GetPos": "[529.3691 -1126.6648 -195.9688]",
+		"GetClass": "realistic_properties_npc",
+		"GetAngle": "{0 89.9045 0}"
+	}
+]

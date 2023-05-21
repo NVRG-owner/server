@@ -1,0 +1,43 @@
+Fri May  5 23:22:00 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Fri May  5 23:22:00 2023	Lugii (STEAM_0:1:552352244) spawned
+Fri May  5 23:23:06 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Fri May  5 23:26:08 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Fri May  5 23:26:08 2023	Lugii (STEAM_0:1:552352244) spawned
+Fri May  5 23:26:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:26:30 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:28:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:28:44 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:28:55 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:29:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:29:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Fri May  5 23:29:26 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_server
+Fri May  5 23:29:39 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_computer_black
+Fri May  5 23:29:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_computer_white
+Fri May  5 23:31:11 2023	Lugii (STEAM_0:1:552352244): 76
+Fri May  5 23:31:20 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Fri May  5 23:31:46 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Fri May  5 23:32:18 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_siren
+Fri May  5 23:32:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_door_sensor
+Fri May  5 23:33:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_door_sensor_2
+Fri May  5 23:34:57 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_motion_sensor
+Fri May  5 23:35:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:36:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:36:08 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_laser_2
+Fri May  5 23:38:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_motion_sensor
+Fri May  5 23:40:15 2023	Lugii (STEAM_0:1:552352244) spawned SENT aphone_npc
+Fri May  5 23:41:02 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:41:22 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:41:27 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_terminal
+Fri May  5 23:43:01 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:43:12 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:43:17 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:43:19 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:43:43 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_computer_black
+Fri May  5 23:44:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_hack
+Fri May  5 23:45:08 2023	Lugii (STEAM_0:1:552352244): /unbox
+Fri May  5 23:45:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT alarm_fire_sensor
+Fri May  5 23:46:20 2023	Lugii (STEAM_0:1:552352244): 
+Fri May  5 23:48:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:48:48 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:49:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Fri May  5 23:50:01 2023	Lugii (STEAM_0:1:552352244): !noclip

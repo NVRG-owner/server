@@ -1,0 +1,35 @@
+{
+	"filename": "TidePodDeluxe_993886778.txt",
+	"EffectSequence": [
+		[
+			62195.0,
+			0.0,
+			2.0
+		],
+		[
+			44693.0,
+			0.0,
+			3.0
+		],
+		[
+			62195.0,
+			0.0,
+			4.0
+		],
+		[
+			62195.0,
+			0.0,
+			6.0
+		],
+		[
+			26205.0,
+			0.0,
+			5.0
+		]
+	],
+	"CreatedBy": "Zerochain",
+	"modelID": 7.0,
+	"m_animspeed": 1.0,
+	"name": "TidePodDeluxe",
+	"Date": "20:22:32 - 16/10/2018"
+}

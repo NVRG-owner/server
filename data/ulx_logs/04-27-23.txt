@@ -1,0 +1,48 @@
+<Logging continued from "data/ulx_logs/04-26-23.txt">
+[00:17:15] Server is shutting down/changing levels.
+
+
+
+[10:07:22] New map: rp_downtown_tits_v2
+[10:07:30] Client "Lugii" connected.
+[10:08:32] Client "Lugii" spawned in server <STEAM_0:1:552352244> (took 62 seconds).
+[10:09:23] Lugii: !levels
+[10:09:57] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_shelf
+[10:09:57] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_rtg
+[10:09:58] Lugii<STEAM_0:1:552352244> spawned sent ch_bitminer_power_cable
+[10:10:13] Lugii: !content
+[10:10:16] Lugii: !addons
+[10:11:23] Server is shutting down/changing levels.
+
+
+
+[11:43:21] New map: rp_downtown_tits_v2
+[12:05:44] Server is shutting down/changing levels.
+
+
+
+[12:07:23] New map: rp_downtown_tits_v2
+[12:56:48] Server is shutting down/changing levels.
+
+
+
+[12:58:24] New map: rp_downtown_tits_v2
+[13:41:46] Server is shutting down/changing levels.
+
+
+
+[13:43:20] New map: rp_downtown_tits_v2
+[13:47:51] Server is shutting down/changing levels.
+
+
+
+[13:49:25] New map: rp_downtown_tits_v2
+[17:21:42] Client "MrMillerUK" connected.
+[17:21:46] Client "MrMillerUK" connected.
+[17:23:02] Client "MrMillerUK" spawned in server <STEAM_0:1:525475507> (took 76 seconds).
+[17:23:22] MrMillerUK: !warn
+[17:32:57] MrMillerUK: !noclip
+[17:34:00] MrMillerUK: !noclip
+[17:34:38] MrMillerUK: !menu
+[17:35:27] Dropped "MrMillerUK" from server<STEAM_0:1:525475507>
+[19:09:51] Server is shutting down/changing levels.

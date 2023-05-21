@@ -1,0 +1,58 @@
+Sun Apr 30 20:54:37 2023	Lugii (STEAM_0:1:552352244) has joined the game
+Sun Apr 30 20:54:37 2023	Lugii (STEAM_0:1:552352244) spawned
+Sun Apr 30 20:55:21 2023	Lugii (STEAM_0:1:552352244): !levels
+Sun Apr 30 20:55:52 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 20:55:53 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 20:57:26 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 20:57:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 20:57:48 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_buyermachine
+Sun Apr 30 20:58:05 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trash
+Sun Apr 30 20:58:32 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycler
+Sun Apr 30 20:58:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_manhole
+Sun Apr 30 20:58:58 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_leafpile
+Sun Apr 30 20:59:22 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Sun Apr 30 21:00:10 2023	Lugii (STEAM_0:1:552352244): /dropmoney 4207278
+Sun Apr 30 21:00:11 2023	Lugii (STEAM_0:1:552352244) has dropped $4,207,278
+Sun Apr 30 21:00:32 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:00:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:00:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:00:33 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:01:09 2023	Lugii (STEAM_0:1:552352244): /dropmoney 150000
+Sun Apr 30 21:01:10 2023	Lugii (STEAM_0:1:552352244) has dropped $150,000
+Sun Apr 30 21:01:43 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_trashbag
+Sun Apr 30 21:01:47 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:01:50 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:01:51 2023	Lugii (STEAM_0:1:552352244) spawned SENT ztm_recycled_block
+Sun Apr 30 21:03:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:04:29 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:04:36 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:04:41 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:05:14 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:05:25 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:05:32 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:05:33 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:07:33 2023	Lugii (STEAM_0:1:552352244): !remotebitminer
+Sun Apr 30 21:08:05 2023	Lugii (STEAM_0:1:552352244): !remotebitminer
+Sun Apr 30 21:08:09 2023	Lugii (STEAM_0:1:552352244): !remotebitminer
+Sun Apr 30 21:11:43 2023	Lugii (STEAM_0:1:552352244): !remotebitminer
+Sun Apr 30 21:16:56 2023	Lugii (STEAM_0:1:552352244): !remotebitminer
+Sun Apr 30 21:20:58 2023	Lugii (STEAM_0:1:552352244): /buychpnpin
+Sun Apr 30 21:22:57 2023	Lugii (STEAM_0:1:552352244): !saveatms
+Sun Apr 30 21:24:31 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_combiner
+Sun Apr 30 21:24:38 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methylamin
+Sun Apr 30 21:24:39 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_methylamin
+Sun Apr 30 21:25:01 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_collectcrate
+Sun Apr 30 21:25:03 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Sun Apr 30 21:25:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Sun Apr 30 21:25:04 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Sun Apr 30 21:25:07 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Sun Apr 30 21:25:08 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Sun Apr 30 21:25:10 2023	Lugii (STEAM_0:1:552352244) spawned SENT zmlab_meth
+Sun Apr 30 21:25:32 2023	Lugii (STEAM_0:1:552352244): /meth
+Sun Apr 30 21:25:38 2023	Lugii (STEAM_0:1:552352244): /methcooker
+Sun Apr 30 21:25:42 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:25:43 2023	Lugii (STEAM_0:1:552352244): !noclip
+Sun Apr 30 21:33:13 2023	Lugii (STEAM_0:1:552352244): /dropmoney 8833358
+Sun Apr 30 21:33:14 2023	Lugii (STEAM_0:1:552352244) has dropped $8,833,358
+Sun Apr 30 22:25:06 2023	MrMillerUK (STEAM_0:1:525475507) has joined the game
+Sun Apr 30 22:25:06 2023	MrMillerUK (STEAM_0:1:525475507) spawned

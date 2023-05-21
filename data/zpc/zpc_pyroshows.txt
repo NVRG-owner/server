@@ -1,0 +1,29 @@
+[
+	{
+		"budget": 45000.0,
+		"extrareward": 8000.0,
+		"id": 88220.0,
+		"countdown": 2400.0,
+		"rewards": [],
+		"name": "Royal Wedding",
+		"songid": 16041.0
+	},
+	{
+		"budget": 50000.0,
+		"extrareward": 5000.0,
+		"id": 47648.0,
+		"countdown": 3000.0,
+		"rewards": [],
+		"name": "Festival Finale",
+		"songid": 53604.0
+	},
+	{
+		"budget": 35000.0,
+		"extrareward": 7000.0,
+		"id": 70864.0,
+		"countdown": 2100.0,
+		"rewards": [],
+		"name": "Halloween Show",
+		"songid": 70562.0
+	}
+]

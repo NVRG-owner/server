@@ -1,0 +1,39 @@
+Mon Apr 24 17:12:07 2023	tronix22 (STEAM_0:1:634690584) has joined the game
+Mon Apr 24 17:12:07 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon Apr 24 17:13:20 2023	OWNER (STEAM_0:1:634690584): /admin
+Mon Apr 24 17:14:25 2023	OWNER (STEAM_0:1:634690584): !menu
+Mon Apr 24 17:15:12 2023	OWNER (STEAM_0:1:634690584): !menu
+Mon Apr 24 17:15:18 2023	OWNER (STEAM_0:1:634690584): /admin
+Mon Apr 24 17:16:27 2023	OWNER (STEAM_0:1:634690584): !menu
+Mon Apr 24 17:16:46 2023	OWNER (STEAM_0:1:634690584) spawned SENT bm2_extra_fuel_line
+Mon Apr 24 17:16:49 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_cargo
+Mon Apr 24 17:17:27 2023	OWNER (STEAM_0:1:634690584): /staff
+Mon Apr 24 17:19:00 2023	OWNER was killed by Entity [1334][entityflame] with a entityflame
+Mon Apr 24 17:19:02 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon Apr 24 17:19:05 2023	OWNER (STEAM_0:1:634690584): /admin
+Mon Apr 24 17:19:44 2023	OWNER (STEAM_0:1:634690584) set tronix22's money to $50,000
+Mon Apr 24 17:35:14 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Mon Apr 24 17:35:16 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Mon Apr 24 17:35:18 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Mon Apr 24 17:36:28 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Mon Apr 24 17:36:35 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Mon Apr 24 17:37:06 2023	OWNER (STEAM_0:1:634690584) spawned SENT zmlab2_item_meth
+Mon Apr 24 17:38:24 2023	OWNER (STEAM_0:1:634690584): !noclip
+Mon Apr 24 17:39:01 2023	OWNER (STEAM_0:1:634690584): !noclip
+Mon Apr 24 17:43:10 2023	OWNER (STEAM_0:1:634690584) added $15,000 to tronix22's wallet
+Mon Apr 24 17:44:10 2023	OWNER (STEAM_0:1:634690584) added $30,000 to tronix22's wallet
+Mon Apr 24 17:48:10 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_hacking_usb
+Mon Apr 24 17:48:23 2023	OWNER (STEAM_0:1:634690584) spawned SENT ch_bitminer_antivirus_usb
+Mon Apr 24 17:48:57 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_lasermarkiii
+Mon Apr 24 17:49:13 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_warriormarkiii
+Mon Apr 24 17:49:18 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_melon
+Mon Apr 24 17:49:21 2023	OWNER (STEAM_0:1:634690584) spawned SENT drone_repairmarkiii
+Mon Apr 24 17:49:33 2023	OWNER (STEAM_0:1:634690584) spawned SENT item_drr_grenades
+Mon Apr 24 17:49:54 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Mon Apr 24 17:50:26 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Mon Apr 24 17:51:03 2023	OWNER (STEAM_0:1:634690584) spawned SENT dronesrewrite_dronebox
+Mon Apr 24 17:52:22 2023	OWNER (STEAM_0:1:634690584): !noclip
+Mon Apr 24 17:53:06 2023	OWNER (STEAM_0:1:634690584): !noclip
+Mon Apr 24 17:55:39 2023	OWNER was killed by Entity [1368][entityflame] with a entityflame
+Mon Apr 24 17:55:42 2023	OWNER (STEAM_0:1:634690584) spawned
+Mon Apr 24 17:56:51 2023	OWNER (STEAM_0:1:634690584) disconnected
